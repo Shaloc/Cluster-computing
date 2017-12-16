@@ -1,7 +1,6 @@
 from mpi4py import MPI
 import numpy as np
 
-# 使用方矩阵计算
 numberRows = 500
 numberColumns = 500
 Master = 0
@@ -22,8 +21,6 @@ commRank = comm.Get_rank()
 processorName = MPI.Get_processor_name()
 
 
-
-# 计算每个节点的工作
 if (commSize == 1):
     slice = numberRows
 else:
