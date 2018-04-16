@@ -8,7 +8,7 @@ Cluster computing on s5pv210
 * 设计算法并尝试分布式运行mpic/mpipy程序
 - 单机部署尝试成功
 * 创建分类目录（完成）
-* 从mmc加载系统
+* 从mmc加载系统（完成）
 * 部署实时性能检测
 
 ## Note
