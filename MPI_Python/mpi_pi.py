@@ -1,3 +1,6 @@
+
+#when using 
+#mpirun -np 2 python mpi_pi.py means 2 processors
 import mpi4py.MPI as MPI
 import time
 
