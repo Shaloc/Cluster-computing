@@ -13,7 +13,7 @@ void printMat(int R, int C, double *A) {
 }
 
 int main(int argc, char *argv[]) {
-  int N = 2000;
+  int N = 1152;
   int i,j,k;
   int my_rank;
   int nprocs;
