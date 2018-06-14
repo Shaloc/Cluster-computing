@@ -39,6 +39,11 @@ int main(int argc, char** argv){
     char result[100];
     sprintf(result, "%.17f", mypi);
     
+    if(result == NULL){
+        printf("STDERR: Result should not be null.\n");
+        return -1;
+    }
+
     if(worker != 1){
         mympi_sendmsg("g0dev1", result, strlen(result));
     }
