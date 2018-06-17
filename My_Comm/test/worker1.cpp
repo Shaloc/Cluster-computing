@@ -45,7 +45,7 @@ int main(int argc, char** argv){
     }
 
     if(worker != 1){
-        mympi_sendmsg("g0dev1", result, strlen(result));
+        mympi_sendmsg("g0dev1", result, strlen(result) + 1);
     }
     else
     {
@@ -57,7 +57,12 @@ int main(int argc, char** argv){
          * 此处接收是一个阻塞函数所以发送和接收需要同步
          *这里应该是一个可以优化的地方，即设置一个消息队列机制，保证发送的数据不会因为阻塞在上一个接收而无法接收
          */
-        mympi_recvmsg("g0dev2", workerResult[2], 100);
+        for(int k = 1; k <= totalWorker; k++){
+            char workerName[10];
+            sprintf(workerName, "g0dev%d", (k+1));
+            mympi_recvmsg(workerName, workerResult[2], 100);
+        }
+        
         for(int j = 0; j <= totalWorker; j++)
         {
             printf("worker %d's pi is %s\n", j, workerResult[j]);
