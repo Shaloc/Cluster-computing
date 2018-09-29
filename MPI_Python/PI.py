@@ -28,7 +28,7 @@ for i in range(rank*piter,rank*piter+piter):
 toc = time.time()
 plife = 1000*(toc-tic)
 
-print("p"+str(rank)+" lives: "+str(plife))
+print("p"+str(rank)+" lives: "+str(plife)+ "ms")
 recv_PI = comm.gather(PI, root=0)   
 life = comm.gather(plife,root=0)
 
