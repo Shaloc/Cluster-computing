@@ -216,3 +216,11 @@ for iter in $(echo 16 32 48 64 80 96 112 128 144 160 176 192); do
 	mpiexec -np $devices  python matrix.py $iter >> result_single_fi.dat
 	echo "[info][$(date)]iter ${iter} done"
 done
+
+test_finish_date=$(date)
+cp ${work_dir}/result_multi_fi.dat /root/result_multi_fi_${test_finish_date}.dat
+cp ${work_dir}/result_multi_fl.dat /root/result_multi_fl_${test_finish_date}.dat
+cp ${work_dir}/result_single_fi.dat /root/result_single_fi_${test_finish_date}.dat
+cp ${work_dir}/result_single_fl.dat /root/result_single_fl_${test_finish_date}.dat
+
+echo "=========== test finished at ${test_finish_date} ============"
