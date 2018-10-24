@@ -1,0 +1,5832 @@
+*********node: 16 **************
+********** iter: 20000 *************
+Process3 lives: 6.88505172729msProcess2 lives: 6.63006305695msProcess1 lives: 6.65903091431msProcess6 lives: 7.12203979492msProcess7 lives: 7.41505622864msProcess15 lives: 7.28595256805msProcess11 lives: 6.96408748627msProcess12 lives: 6.7640542984msProcess14 lives: 7.10606575012msProcess5 lives: 7.01606273651msProcess4 lives: 6.66403770447msProcess8 lives: 6.8941116333msProcess9 lives: 6.81102275848msProcess10 lives: 6.78598880768msProcess13 lives: 6.86299800873ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 6.96516036987ms
+Result is 3.14154265359
+=======================================
+Use 7.41505622864ms
+=======================================
+********** iter: 40000 *************
+Process1 lives: 12.9870176315msProcess4 lives: 12.8730535507msProcess9 lives: 13.2900476456msProcess13 lives: 13.1499767303msProcess12 lives: 13.2009983063msProcess5 lives: 12.9350423813msProcess3 lives: 13.2629871368msProcess14 lives: 13.5939121246msProcess2 lives: 12.8579139709msProcess15 lives: 13.5780572891msProcess10 lives: 13.2879018784msProcess6 lives: 13.2030248642msProcess8 lives: 13.2480859756msProcess7 lives: 13.4320259094msProcess11 lives: 13.5200023651ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 18.4350013733ms
+Result is 3.14156765359
+=======================================
+Use 18.4350013733ms
+=======================================
+********** iter: 60000 *************
+Process1 lives: 18.3789730072msProcess5 lives: 18.2869434357msProcess7 lives: 18.2820558548msProcess2 lives: 18.7929868698msProcess4 lives: 18.9200639725msProcess10 lives: 19.4059610367msProcess14 lives: 19.2420482635msProcess12 lives: 19.3229913712msProcess3 lives: 18.2830095291msProcess15 lives: 18.3230638504msProcess9 lives: 18.5830593109msProcess8 lives: 19.0160274506msProcess6 lives: 18.7420845032msProcess13 lives: 18.7059640884ms
+
+
+
+
+
+
+
+
+
+
+
+
+Process11 lives: 21.1449861526ms
+
+Process0 lives: 19.1290378571ms
+Result is 3.14157598692
+=======================================
+Use 21.1449861526ms
+=======================================
+********** iter: 80000 *************
+Process0 lives: 24.7411727905msProcess2 lives: 24.6700048447msProcess3 lives: 24.8619318008msProcess5 lives: 24.9520540237msProcess6 lives: 25.1569747925msProcess1 lives: 24.8819589615msProcess14 lives: 25.0180959702msProcess13 lives: 24.8659849167msProcess9 lives: 25.0550508499msProcess12 lives: 24.896979332msProcess10 lives: 24.8109102249msProcess15 lives: 25.1350402832msProcess8 lives: 25.0769853592msProcess4 lives: 24.8390436172msProcess11 lives: 25.1380205154msProcess7 lives: 24.8999595642ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14158015359
+=======================================
+Use 25.1569747925ms
+=======================================
+********** iter: 100000 *************
+Process0 lives: 30.8680534363msProcess13 lives: 30.4169654846msProcess9 lives: 30.9690237045msProcess1 lives: 30.7019948959msProcess12 lives: 31.8540334702msProcess7 lives: 31.3149690628ms
+Process2 lives: 30.9180021286msProcess6 lives: 31.0060977936msProcess5 lives: 30.4230451584msProcess4 lives: 30.8400392532msProcess8 lives: 30.9809446335msProcess11 lives: 31.0620069504msProcess10 lives: 31.2420129776msProcess15 lives: 32.0639610291msProcess3 lives: 30.9910774231msProcess14 lives: 31.4049720764ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14158265359
+=======================================
+Use 32.0639610291ms
+=======================================
+********** iter: 120000 *************
+Process1 lives: 37.7110242844msProcess2 lives: 36.8590354919msProcess4 lives: 37.2270345688msProcess8 lives: 37.0579957962msProcess5 lives: 37.7949476242msProcess7 lives: 37.4829769135msProcess6 lives: 37.7089977264msProcess13 lives: 37.770986557msProcess12 lives: 37.3449325562msProcess9 lives: 37.6830101013msProcess11 lives: 38.3219718933msProcess14 lives: 38.302063942msProcess10 lives: 37.0140075684msProcess15 lives: 39.5820140839msProcess0 lives: 37.2619628906ms
+
+
+
+
+
+
+
+Process3 lives: 41.5340662003ms
+
+
+
+
+
+
+
+Result is 3.14158432026
+=======================================
+Use 41.5340662003ms
+=======================================
+********** iter: 140000 *************
+Process0 lives: 43.2710647583ms
+Process1 lives: 43.417096138msProcess2 lives: 43.3859825134msProcess6 lives: 43.2829856873msProcess4 lives: 43.6010360718msProcess10 lives: 43.5849428177msProcess7 lives: 43.4941053391msProcess12 lives: 43.2180166245msProcess14 lives: 44.6629524231msProcess8 lives: 43.4229373932msProcess3 lives: 43.555021286msProcess5 lives: 43.5559749603msProcess9 lives: 43.4550046921msProcess15 lives: 43.9289808273msProcess13 lives: 43.6440706253msProcess11 lives: 43.7439680099ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14158551073
+=======================================
+Use 44.6629524231ms
+=======================================
+********** iter: 160000 *************
+Process0 lives: 49.0889549255msProcess3 lives: 48.6370325089msProcess1 lives: 49.2119789124msProcess4 lives: 49.6439933777msProcess5 lives: 49.5210886002msProcess6 lives: 49.8790740967msProcess12 lives: 50.0069856644msProcess9 lives: 50.0060319901msProcess10 lives: 49.4600534439msProcess7 lives: 49.2420196533msProcess15 lives: 49.593091011msProcess8 lives: 49.2759943008msProcess11 lives: 49.6170520782msProcess14 lives: 49.4250059128ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+Process2 lives: 53.6050796509msProcess13 lives: 54.1520118713ms
+
+Result is 3.14158640359
+=======================================
+Use 54.1520118713ms
+=======================================
+********** iter: 180000 *************
+Process3 lives: 55.703997612msProcess2 lives: 55.6399822235ms
+Process4 lives: 55.6030273438msProcess5 lives: 55.5489063263msProcess11 lives: 56.0590028763msProcess13 lives: 55.4480552673msProcess8 lives: 55.6149482727msProcess6 lives: 55.4189682007msProcess10 lives: 56.4579963684msProcess15 lives: 55.233001709msProcess7 lives: 54.8319816589msProcess14 lives: 55.6470155716msProcess9 lives: 55.7349920273ms
+
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 59.5111846924msProcess12 lives: 60.0500106812msProcess1 lives: 60.4979991913ms
+
+
+Result is 3.14158709803
+=======================================
+Use 60.4979991913ms
+=======================================
+********** iter: 200000 *************
+Process0 lives: 61.2277984619msProcess2 lives: 62.2440576553msProcess3 lives: 62.1509552002msProcess7 lives: 62.7099275589msProcess14 lives: 61.2679719925msProcess9 lives: 62.6199245453msProcess12 lives: 61.173081398msProcess11 lives: 61.8119239807msProcess4 lives: 61.478972435msProcess5 lives: 61.5389347076msProcess6 lives: 61.1350536346msProcess8 lives: 61.7980957031msProcess13 lives: 61.830997467msProcess15 lives: 61.7969036102msProcess10 lives: 61.0949993134ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Process1 lives: 66.731095314ms
+Result is 3.14158765359
+=======================================
+Use 66.731095314ms
+=======================================
+********** iter: 220000 *************
+Process2 lives: 67.1470165253msProcess1 lives: 67.5740242004msProcess3 lives: 67.4929618835msProcess4 lives: 67.332983017msProcess5 lives: 66.9380426407msProcess8 lives: 67.3990249634msProcess6 lives: 67.1449899673msProcess10 lives: 67.2960281372msProcess7 lives: 68.5039758682msProcess12 lives: 67.7000284195msProcess14 lives: 67.2949552536msProcess9 lives: 68.0269002914msProcess15 lives: 67.7839517593msProcess13 lives: 67.2481060028msProcess11 lives: 67.8379535675ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 67.6040649414ms
+Result is 3.14158810814
+=======================================
+Use 68.5039758682ms
+=======================================
+********** iter: 240000 *************
+Process9 lives: 73.4099149704msProcess3 lives: 73.3180046082msProcess0 lives: 81.1450481415msProcess1 lives: 74.3759870529msProcess5 lives: 76.1799812317msProcess2 lives: 75.9749412537ms
+Process6 lives: 74.0840435028msProcess13 lives: 73.9181041718msProcess4 lives: 75.5550861359ms
+Process7 lives: 73.9859342575msProcess12 lives: 77.024936676msProcess11 lives: 76.5419006348msProcess8 lives: 76.3599872589msProcess10 lives: 73.6429691315msProcess15 lives: 74.0050077438msProcess14 lives: 74.1239786148ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14158848692
+=======================================
+Use 81.1450481415ms
+=======================================
+********** iter: 260000 *************
+Process5 lives: 79.2030096054msProcess4 lives: 79.3609619141msProcess8 lives: 79.2189836502msProcess1 lives: 79.115986824msProcess2 lives: 79.6910524368msProcess3 lives: 78.8049697876ms
+
+Process14 lives: 80.3560018539msProcess12 lives: 79.7619819641ms
+Process9 lives: 79.7040462494msProcess10 lives: 80.3689956665msProcess11 lives: 78.840970993ms
+Process6 lives: 80.0340175629msProcess13 lives: 79.6819925308ms
+
+Process7 lives: 78.8900852203msProcess15 lives: 78.6470174789ms
+
+
+
+
+
+
+
+
+Process0 lives: 84.9318504333ms
+Result is 3.14158880744
+=======================================
+Use 84.9318504333ms
+=======================================
+********** iter: 280000 *************
+Process3 lives: 85.2830410004msProcess6 lives: 85.2969884872msProcess1 lives: 85.1180553436msProcess2 lives: 85.2140188217msProcess5 lives: 85.2919816971msProcess10 lives: 85.6920480728msProcess11 lives: 85.4820013046ms
+
+
+
+
+
+Process9 lives: 86.1269235611msProcess7 lives: 86.4679813385msProcess4 lives: 87.1280431747msProcess14 lives: 86.3280296326ms
+Process15 lives: 87.4420404434ms
+
+
+
+
+Process12 lives: 89.2369747162ms
+Process0 lives: 90.5728340149msProcess8 lives: 89.8320674896msProcess13 lives: 93.5750007629ms
+
+
+Result is 3.14158908216
+=======================================
+Use 93.5750007629ms
+=======================================
+********** iter: 300000 *************
+Process2 lives: 91.4350748062msProcess3 lives: 91.5189981461msProcess4 lives: 91.5290117264ms
+Process6 lives: 91.5110111237msProcess7 lives: 91.6880369186msProcess8 lives: 92.1829938889msProcess5 lives: 91.8658971786msProcess11 lives: 91.5319919586msProcess15 lives: 92.0089483261msProcess9 lives: 91.7180776596msProcess13 lives: 92.857003212msProcess14 lives: 93.1899547577msProcess12 lives: 91.6999578476ms
+
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 99.7757911682msProcess10 lives: 95.9910154343ms
+
+Process1 lives: 103.343963623ms
+Result is 3.14158932026
+=======================================
+Use 103.343963623ms
+=======================================
+********** iter: 320000 *************
+Process0 lives: 97.4009037018msProcess4 lives: 97.5970029831msProcess1 lives: 97.0799922943msProcess6 lives: 97.6859331131msProcess11 lives: 97.5480079651msProcess3 lives: 97.7839231491msProcess7 lives: 97.6129770279msProcess13 lives: 97.9809761047ms
+
+Process2 lives: 98.3690023422msProcess5 lives: 98.1180667877ms
+
+Process14 lives: 98.5910892487msProcess10 lives: 98.80900383msProcess9 lives: 99.5700359344msProcess15 lives: 98.6499786377msProcess12 lives: 98.3929634094ms
+
+
+
+Process8 lives: 100.937008858msResult is 3.14158952859
+
+
+
+
+
+
+
+
+=======================================
+Use 100.937008858ms
+=======================================
+********** iter: 340000 *************
+Process1 lives: 103.095054626msProcess13 lives: 103.418946266ms
+Process3 lives: 104.293942451msProcess5 lives: 105.365991592msProcess7 lives: 103.713989258msProcess10 lives: 103.235006332msProcess15 lives: 103.757977486msProcess6 lives: 103.356003761msProcess4 lives: 104.094982147msProcess2 lives: 103.843927383msProcess9 lives: 105.31103611ms
+Process14 lives: 104.070067406ms
+
+
+
+
+
+
+
+
+
+Process0 lives: 103.496074677msProcess11 lives: 108.287930489ms
+
+Process12 lives: 110.149025917msProcess8 lives: 113.587975502ms
+
+Result is 3.14158971241
+=======================================
+Use 113.587975502ms
+=======================================
+********** iter: 360000 *************
+Process0 lives: 109.76099968msProcess2 lives: 109.735965729msProcess4 lives: 109.781980515msProcess1 lives: 109.495997429msProcess3 lives: 111.281037331msProcess7 lives: 109.786987305msProcess9 lives: 109.555959702msProcess8 lives: 110.111951828msProcess5 lives: 110.400915146msProcess14 lives: 110.944986343msProcess13 lives: 109.36999321msProcess10 lives: 111.369967461msProcess15 lives: 109.66694355msProcess11 lives: 111.85002327msProcess12 lives: 111.258983612ms
+
+
+
+
+Process6 lives: 113.150954247ms
+
+
+
+
+
+
+
+
+
+
+Result is 3.14158987581
+=======================================
+Use 113.150954247ms
+=======================================
+********** iter: 380000 *************
+Process0 lives: 115.656137466msProcess4 lives: 116.014957428msProcess10 lives: 115.671992302msProcess11 lives: 115.826010704msProcess8 lives: 116.270065308msProcess2 lives: 116.060018539msProcess14 lives: 116.112947464ms
+
+
+
+
+
+Process13 lives: 117.140054703msProcess1 lives: 116.424918175msProcess5 lives: 117.13206768ms
+
+
+
+Process9 lives: 118.865013123msProcess6 lives: 118.816018105ms
+
+Process12 lives: 119.805932045ms
+Process3 lives: 126.398921013ms
+Process15 lives: 115.010023117msProcess7 lives: 115.08500576ms
+
+Result is 3.14159002201
+=======================================
+Use 126.398921013ms
+=======================================
+********** iter: 400000 *************
+Process6 lives: 122.07198143msProcess4 lives: 122.082948685msProcess7 lives: 122.130990028msProcess3 lives: 123.70300293msProcess9 lives: 122.736930847msProcess8 lives: 122.094988823msProcess1 lives: 122.702002525ms
+Process11 lives: 123.142004013msProcess15 lives: 122.593998909msProcess12 lives: 121.94609642msProcess5 lives: 121.980071068msProcess0 lives: 128.556013107ms
+Process2 lives: 125.556945801ms
+
+
+
+
+
+Process14 lives: 124.81200695ms
+Process10 lives: 125.319957733msProcess13 lives: 127.436041832ms
+
+
+
+
+
+
+Result is 3.14159015359
+=======================================
+Use 128.556013107ms
+=======================================
+********** iter: 420000 *************
+Process12 lives: 127.732038498msProcess13 lives: 128.159999847msProcess2 lives: 129.356026649msProcess1 lives: 127.96998024msProcess3 lives: 128.847002983msProcess4 lives: 128.260016441msProcess6 lives: 128.799080849msProcess14 lives: 128.800988197ms
+
+Process7 lives: 128.466963768msProcess15 lives: 128.358006477msProcess8 lives: 129.935979843msProcess10 lives: 129.570960999ms
+
+
+
+
+
+
+
+
+
+Process0 lives: 127.912998199msProcess11 lives: 131.84094429ms
+Process9 lives: 132.265925407ms
+
+Process5 lives: 134.2420578ms
+Result is 3.14159027264
+=======================================
+Use 134.2420578ms
+=======================================
+********** iter: 440000 *************
+Process4 lives: 134.253978729msProcess3 lives: 134.188055992msProcess2 lives: 134.094953537msProcess1 lives: 133.901000023msProcess9 lives: 134.173989296msProcess5 lives: 134.659051895msProcess15 lives: 134.07599926msProcess14 lives: 134.608983994msProcess7 lives: 133.887052536msProcess6 lives: 134.425997734msProcess11 lives: 135.950922966msProcess10 lives: 133.759021759msProcess12 lives: 134.148001671ms
+
+
+
+
+
+Process13 lives: 136.762976646ms
+
+
+
+
+
+
+
+Process0 lives: 139.663219452ms
+Process8 lives: 152.900934219ms
+Result is 3.14159038086
+=======================================
+Use 152.900934219ms
+=======================================
+********** iter: 460000 *************
+Process2 lives: 140.092015266msProcess6 lives: 140.267014503msProcess12 lives: 139.923095703msProcess3 lives: 140.157938004msProcess14 lives: 140.430927277msProcess5 lives: 140.097975731msProcess8 lives: 140.143036842msProcess7 lives: 140.338897705ms
+
+
+Process11 lives: 140.883088112ms
+
+
+
+Process4 lives: 141.885042191ms
+Process10 lives: 141.721010208ms
+
+
+Process15 lives: 143.519997597ms
+Process0 lives: 140.146970749ms
+Process9 lives: 146.307110786msProcess13 lives: 145.063996315ms
+
+Process1 lives: 150.609016418ms
+Result is 3.14159047968
+=======================================
+Use 150.609016418ms
+=======================================
+********** iter: 480000 *************
+Process0 lives: 145.442008972ms
+Process5 lives: 146.27301693msProcess3 lives: 147.076010704msProcess2 lives: 149.116039276msProcess6 lives: 149.882078171msProcess10 lives: 146.292924881msProcess14 lives: 148.88894558msProcess1 lives: 149.623036385msProcess11 lives: 146.931052208msProcess8 lives: 150.329947472msProcess4 lives: 149.204015732msProcess13 lives: 145.967006683msProcess12 lives: 146.458983421msProcess15 lives: 146.861076355msProcess9 lives: 146.399974823ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+Process7 lives: 160.133004189ms
+Result is 3.14159057026
+=======================================
+Use 160.133004189ms
+=======================================
+********** iter: 500000 *************
+Process3 lives: 152.414917946msProcess2 lives: 152.256965637msProcess1 lives: 152.642965317msProcess4 lives: 153.946995735msProcess6 lives: 152.392029762msProcess11 lives: 152.423024178msProcess10 lives: 152.315974236msProcess14 lives: 152.820944786msProcess12 lives: 152.325987816msProcess9 lives: 152.255058289msProcess5 lives: 152.1910429ms
+
+
+
+
+
+Process13 lives: 154.538035393ms
+
+
+
+
+
+Process8 lives: 155.426025391msProcess7 lives: 156.20803833ms
+
+Process15 lives: 156.957983971ms
+Process0 lives: 159.966945648ms
+Result is 3.14159065359
+=======================================
+Use 159.966945648ms
+=======================================
+********** iter: 520000 *************
+Process6 lives: 158.844947815msProcess5 lives: 158.890962601msProcess14 lives: 158.769965172msProcess3 lives: 159.215927124msProcess13 lives: 159.288048744msProcess8 lives: 158.384084702msProcess11 lives: 159.372925758msProcess9 lives: 158.278107643msProcess12 lives: 158.621072769msProcess2 lives: 158.369898796msProcess4 lives: 159.268975258msProcess15 lives: 158.858060837msProcess10 lives: 158.670067787ms
+
+
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 163.165092468ms
+Process7 lives: 164.915084839ms
+Process1 lives: 173.030972481ms
+Result is 3.14159073051
+=======================================
+Use 173.030972481ms
+=======================================
+********** iter: 540000 *************
+Process2 lives: 164.263010025msProcess8 lives: 164.267063141msProcess6 lives: 164.546012878msProcess5 lives: 164.584040642msProcess7 lives: 165.500044823msProcess9 lives: 164.936900139msProcess13 lives: 165.439963341msProcess3 lives: 166.890025139msProcess1 lives: 164.701938629ms
+
+Process15 lives: 165.621995926msProcess14 lives: 165.316939354msProcess10 lives: 164.954900742msProcess11 lives: 164.696931839ms
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 173.468112946ms
+Process12 lives: 174.23593998ms
+Process4 lives: 177.438020706ms
+Result is 3.14159080174
+=======================================
+Use 177.438020706ms
+=======================================
+********** iter: 560000 *************
+Process2 lives: 170.244932175msProcess7 lives: 169.739961624msProcess0 lives: 174.30305481msProcess1 lives: 171.095967293msProcess3 lives: 170.037984848msProcess4 lives: 170.549988747msProcess5 lives: 170.251011848ms
+Process10 lives: 170.835018158msProcess6 lives: 171.306967735msProcess8 lives: 170.439958572ms
+Process15 lives: 170.547962189msProcess14 lives: 171.069025993msProcess9 lives: 173.980951309msProcess11 lives: 170.259952545msProcess12 lives: 171.007990837msProcess13 lives: 171.103000641ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14159086788
+=======================================
+Use 174.30305481ms
+=======================================
+********** iter: 580000 *************
+Process9 lives: 176.406025887msProcess7 lives: 177.593946457msProcess8 lives: 177.659034729msProcess5 lives: 177.661061287msProcess11 lives: 177.792072296msProcess14 lives: 177.168011665msProcess6 lives: 177.116990089ms
+Process10 lives: 176.665067673msProcess15 lives: 176.956057549msProcess4 lives: 177.174091339msProcess12 lives: 178.122997284msProcess13 lives: 177.435994148msProcess0 lives: 183.403968811msProcess3 lives: 183.287978172msProcess2 lives: 180.171012878ms
+
+
+
+
+
+
+
+
+Process1 lives: 181.133985519ms
+
+
+
+
+
+Result is 3.14159092945
+=======================================
+Use 183.403968811ms
+=======================================
+********** iter: 600000 *************
+Process1 lives: 182.48796463msProcess7 lives: 182.951927185msProcess4 lives: 182.453036308msProcess13 lives: 182.8520298msProcess8 lives: 182.527899742msProcess12 lives: 182.456016541msProcess14 lives: 182.541012764msProcess15 lives: 183.091044426ms
+Process2 lives: 184.739947319ms
+
+
+
+
+
+
+Process5 lives: 183.526039124msProcess11 lives: 183.825969696ms
+
+
+Process9 lives: 185.845971107ms
+Process0 lives: 182.874917984ms
+Process3 lives: 187.19804287ms
+Process10 lives: 198.534011841ms
+Process6 lives: 200.124025345ms
+Result is 3.14159098692
+=======================================
+Use 200.124025345ms
+=======================================
+********** iter: 620000 *************
+Process3 lives: 187.692046165msProcess8 lives: 188.68803978ms
+
+Process4 lives: 188.946008682msProcess10 lives: 189.095973969msProcess11 lives: 188.541054726msProcess6 lives: 189.59403038msProcess15 lives: 187.988996506msProcess9 lives: 189.110040665msProcess14 lives: 189.508914948ms
+
+
+
+
+
+
+Process2 lives: 191.02704525msProcess5 lives: 191.082000732msProcess0 lives: 192.265987396ms
+
+
+Process7 lives: 193.255066872ms
+Process12 lives: 204.82301712msProcess1 lives: 204.877972603ms
+
+Process13 lives: 206.944942474ms
+Result is 3.14159104069
+=======================================
+Use 206.944942474ms
+=======================================
+********** iter: 640000 *************
+Process5 lives: 195.557951927msProcess2 lives: 194.769024849msProcess3 lives: 194.921016693msProcess11 lives: 195.654034615msProcess6 lives: 194.074988365msProcess8 lives: 195.162892342msProcess15 lives: 196.18999958msProcess9 lives: 195.339918137msProcess1 lives: 195.125102997msProcess7 lives: 195.876002312msProcess13 lives: 194.828987122ms
+
+
+
+
+
+
+
+
+
+
+Process10 lives: 198.953986168ms
+Process0 lives: 205.332994461ms
+Process12 lives: 207.343935966ms
+Process14 lives: 208.881020546ms
+Process4 lives: 212.980985641ms
+Result is 3.14159109109
+=======================================
+Use 212.980985641ms
+=======================================
+********** iter: 660000 *************
+Process0 lives: 200.923919678msProcess1 lives: 201.071023941msProcess4 lives: 200.760006905msProcess7 lives: 201.707959175msProcess5 lives: 200.705051422msProcess9 lives: 201.203942299msProcess6 lives: 201.234936714msProcess15 lives: 201.275110245msProcess8 lives: 202.744960785msProcess13 lives: 200.604081154ms
+
+
+
+
+
+
+
+
+
+Process12 lives: 205.319046974msProcess10 lives: 205.135941505ms
+
+Process11 lives: 206.696033478ms
+Process14 lives: 209.321975708ms
+Process2 lives: 216.615915298ms
+Process3 lives: 220.010995865ms
+Result is 3.14159113844
+=======================================
+Use 220.010995865ms
+=======================================
+********** iter: 680000 *************
+Process9 lives: 206.834077835msProcess6 lives: 206.945061684msProcess2 lives: 206.869959831msProcess1 lives: 207.442998886msProcess8 lives: 208.076000214msProcess15 lives: 207.344055176ms
+
+
+Process10 lives: 207.234025002msProcess12 lives: 207.165956497msProcess7 lives: 208.496928215msProcess11 lives: 207.323908806ms
+
+
+
+
+
+
+Process3 lives: 210.41893959msProcess5 lives: 210.574030876msProcess4 lives: 209.362983704msProcess13 lives: 210.381984711ms
+
+
+
+Process0 lives: 216.047048569ms
+Process14 lives: 217.465996742ms
+Result is 3.141591183
+=======================================
+Use 217.465996742ms
+=======================================
+********** iter: 700000 *************
+Process1 lives: 213.111042976msProcess4 lives: 213.132023811msProcess13 lives: 213.38903904msProcess8 lives: 213.523983955msProcess6 lives: 213.091015816msProcess5 lives: 213.049054146msProcess14 lives: 213.150024414ms
+Process2 lives: 214.519023895ms
+
+Process3 lives: 212.6339674msProcess10 lives: 214.053988457ms
+
+
+
+
+
+
+Process15 lives: 216.85397625ms
+Process11 lives: 216.227054596ms
+Process9 lives: 218.38593483ms
+Process7 lives: 220.193982124ms
+Process12 lives: 233.236074448ms
+Process0 lives: 239.449977875ms
+Result is 3.14159122502
+=======================================
+Use 239.449977875ms
+=======================================
+********** iter: 720000 *************
+Process4 lives: 218.868017197msProcess3 lives: 218.999028206msProcess14 lives: 219.233989716msProcess2 lives: 220.579981804msProcess7 lives: 223.485946655ms
+Process9 lives: 218.926906586msProcess8 lives: 219.284057617msProcess5 lives: 219.315052032msProcess6 lives: 220.811963081msProcess1 lives: 229.140043259msProcess15 lives: 229.048013687msProcess12 lives: 221.709012985msProcess10 lives: 219.469070435ms
+Process11 lives: 223.1310606ms
+Process13 lives: 219.439983368ms
+
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 256.809949875ms
+Result is 3.1415912647
+=======================================
+Use 256.809949875ms
+=======================================
+********** iter: 740000 *************
+Process4 lives: 225.728988647msProcess3 lives: 225.409030914msProcess7 lives: 225.59607029msProcess15 lives: 225.816011429ms
+Process6 lives: 226.011991501msProcess5 lives: 225.889086723msProcess13 lives: 226.563930511ms
+
+Process8 lives: 225.99196434ms
+
+
+
+
+Process11 lives: 228.351950645ms
+Process0 lives: 225.49200058msProcess1 lives: 229.231953621msProcess9 lives: 229.300022125msProcess12 lives: 229.817032814msProcess10 lives: 229.622006416ms
+
+
+
+
+Process2 lives: 230.532050133ms
+Process14 lives: 234.987974167ms
+Result is 3.14159130224
+=======================================
+Use 234.987974167ms
+=======================================
+********** iter: 760000 *************
+Process2 lives: 230.913996696msProcess1 lives: 231.641054153msProcess7 lives: 231.506943703msProcess10 lives: 231.892943382msProcess9 lives: 231.694936752msProcess4 lives: 232.224941254msProcess12 lives: 231.611013412msProcess15 lives: 232.872009277msProcess13 lives: 231.871962547msProcess11 lives: 232.67698288msProcess5 lives: 231.423974037msProcess14 lives: 231.633901596ms
+
+
+
+
+
+
+
+
+
+
+
+Process3 lives: 235.156059265msProcess6 lives: 234.333992004ms
+
+Process8 lives: 239.222049713ms
+Process0 lives: 241.570949554ms
+Result is 3.1415913378
+=======================================
+Use 241.570949554ms
+=======================================
+********** iter: 780000 *************
+Process2 lives: 237.125992775msProcess3 lives: 237.372994423msProcess1 lives: 237.766981125msProcess5 lives: 237.7140522msProcess6 lives: 238.212943077ms
+
+Process10 lives: 237.520933151msProcess8 lives: 237.86509037msProcess14 lives: 238.283991814msProcess9 lives: 238.057971001ms
+
+
+Process7 lives: 239.34006691ms
+
+
+Process12 lives: 238.747954369ms
+
+
+Process0 lives: 241.740942001msProcess15 lives: 240.831017494msProcess13 lives: 241.389989853ms
+
+
+Process11 lives: 247.112035751ms
+Process4 lives: 258.809924126ms
+Result is 3.14159137154
+=======================================
+Use 258.809924126ms
+=======================================
+********** iter: 800000 *************
+Process1 lives: 243.63899231msProcess6 lives: 243.826985359msProcess2 lives: 243.802070618msProcess5 lives: 243.718028069msProcess3 lives: 244.197010994msProcess12 lives: 243.489027023msProcess8 lives: 244.24290657msProcess14 lives: 243.932008743ms
+
+
+
+
+Process11 lives: 245.32699585ms
+
+
+
+Process10 lives: 246.759057045ms
+Process15 lives: 247.692108154ms
+Process9 lives: 247.83706665ms
+Process0 lives: 250.540018082ms
+Process4 lives: 252.231001854ms
+Process7 lives: 255.918979645ms
+Process13 lives: 268.144011497ms
+Result is 3.14159140359
+=======================================
+Use 268.144011497ms
+=======================================
+********** iter: 820000 *************
+Process1 lives: 249.599933624msProcess15 lives: 250.300884247msProcess12 lives: 249.629020691msProcess2 lives: 249.374032021msProcess8 lives: 249.781012535msProcess4 lives: 250.613927841msProcess9 lives: 249.979019165msProcess10 lives: 250.082969666msProcess7 lives: 250.169038773ms
+Process6 lives: 249.930977821msProcess11 lives: 250.04196167ms
+
+
+
+
+
+
+
+
+
+Process13 lives: 252.820968628ms
+Process3 lives: 254.300951958ms
+Process14 lives: 256.259918213ms
+Process0 lives: 258.281946182ms
+Process5 lives: 259.359002113ms
+Result is 3.14159143408
+=======================================
+Use 259.359002113ms
+=======================================
+********** iter: 840000 *************
+Process1 lives: 255.64801693msProcess4 lives: 255.702972412msProcess11 lives: 255.627989769ms
+Process2 lives: 256.346940994msProcess6 lives: 256.496071815msProcess7 lives: 256.546020508msProcess3 lives: 256.236076355ms
+
+Process14 lives: 256.677985191ms
+
+
+
+
+Process5 lives: 258.394956589ms
+Process15 lives: 259.027004242ms
+Process9 lives: 259.805083275ms
+Process13 lives: 260.038018227msProcess10 lives: 260.110020638ms
+
+Process0 lives: 259.158849716msProcess12 lives: 261.062026024ms
+
+Process8 lives: 278.417944908ms
+Result is 3.14159146311
+=======================================
+Use 278.417944908ms
+=======================================
+********** iter: 860000 *************
+Process3 lives: 261.581897736msProcess9 lives: 261.686086655msProcess4 lives: 263.136029243msProcess1 lives: 261.897921562ms
+Process5 lives: 262.930989265msProcess7 lives: 263.103961945msProcess13 lives: 262.033939362msProcess8 lives: 262.807965279ms
+Process15 lives: 262.494921684msProcess12 lives: 263.183951378msProcess11 lives: 262.771964073msProcess14 lives: 262.399077415msProcess0 lives: 266.226053238ms
+
+
+
+
+
+
+
+
+Process2 lives: 264.753937721ms
+
+
+Process10 lives: 269.464015961ms
+Process6 lives: 274.262905121ms
+Result is 3.1415914908
+=======================================
+Use 274.262905121ms
+=======================================
+********** iter: 880000 *************
+Process10 lives: 267.874956131msProcess14 lives: 267.522931099msProcess3 lives: 268.11504364msProcess5 lives: 268.305063248msProcess7 lives: 268.317937851msProcess11 lives: 268.683075905ms
+
+
+
+
+Process4 lives: 269.49596405ms
+Process12 lives: 269.026041031ms
+
+Process2 lives: 271.320939064msProcess9 lives: 270.730018616msProcess13 lives: 271.160960197ms
+Process6 lives: 272.091984749ms
+Process15 lives: 272.229075432ms
+
+
+Process1 lives: 273.149967194ms
+Process0 lives: 281.970977783ms
+Process8 lives: 293.401002884ms
+Result is 3.14159151723
+=======================================
+Use 293.401002884ms
+=======================================
+********** iter: 900000 *************
+Process6 lives: 273.679018021ms
+Process2 lives: 274.369955063msProcess9 lives: 274.183988571ms
+Process1 lives: 274.547934532ms
+
+Process12 lives: 274.966955185msProcess14 lives: 275.671958923ms
+
+Process15 lives: 275.736927986ms
+Process13 lives: 276.002049446ms
+Process0 lives: 278.337955475msProcess4 lives: 277.009963989msProcess5 lives: 277.130961418ms
+
+Process8 lives: 278.890013695ms
+Process7 lives: 279.141068459ms
+
+Process3 lives: 281.118035316ms
+Process10 lives: 286.754012108ms
+Process11 lives: 300.204992294ms
+Result is 3.14159154248
+=======================================
+Use 300.204992294ms
+=======================================
+********** iter: 920000 *************
+Process13 lives: 280.387043953msProcess9 lives: 280.285000801msProcess14 lives: 280.063033104msProcess4 lives: 280.503988266msProcess12 lives: 280.225038528msProcess1 lives: 280.292987823msProcess6 lives: 279.860019684ms
+Process11 lives: 281.064987183ms
+
+
+
+
+
+
+Process2 lives: 282.907009125ms
+Process7 lives: 283.962011337msProcess15 lives: 283.96499157msProcess10 lives: 283.746957779ms
+
+
+Process8 lives: 285.281062126ms
+Process0 lives: 286.651134491ms
+Process5 lives: 307.765007019ms
+Process3 lives: 309.094071388ms
+Result is 3.14159156663
+=======================================
+Use 309.094071388ms
+=======================================
+********** iter: 940000 *************
+Process11 lives: 285.871982574ms
+Process0 lives: 286.38792038msProcess1 lives: 287.585020065msProcess2 lives: 286.395072937msProcess3 lives: 286.859989166msProcess9 lives: 286.539912224msProcess8 lives: 286.776065826msProcess15 lives: 286.677002907msProcess7 lives: 287.207007408msProcess6 lives: 287.608027458msProcess14 lives: 286.677002907msProcess12 lives: 286.458969116msProcess13 lives: 287.907958031msProcess5 lives: 286.688923836msProcess4 lives: 289.512991905msProcess10 lives: 286.734938622ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14159158976
+=======================================
+Use 289.512991905ms
+=======================================
+********** iter: 960000 *************
+Process8 lives: 292.16504097msProcess3 lives: 291.22197628msProcess4 lives: 292.113900185ms
+Process1 lives: 291.857004166msProcess15 lives: 291.720986366msProcess12 lives: 292.161941528msProcess14 lives: 292.925953865msProcess6 lives: 292.428970337ms
+
+
+
+
+
+
+Process5 lives: 294.826030731msProcess10 lives: 296.603083611msProcess11 lives: 294.281959534msProcess13 lives: 294.756054878msProcess7 lives: 295.632958412msProcess9 lives: 296.447992325ms
+
+
+
+
+
+Process0 lives: 302.453041077ms
+Process2 lives: 306.244969368ms
+Result is 3.14159161192
+=======================================
+Use 306.244969368ms
+=======================================
+********** iter: 980000 *************
+Process0 lives: 297.940969467msProcess15 lives: 298.233032227msProcess2 lives: 299.015045166ms
+Process8 lives: 298.699021339msProcess14 lives: 299.149990082msProcess6 lives: 298.789024353msProcess10 lives: 298.519015312msProcess4 lives: 297.731995583msProcess1 lives: 298.353075981msProcess9 lives: 298.321008682ms
+
+Process13 lives: 299.9740839ms
+
+
+
+
+
+
+
+Process12 lives: 301.493048668ms
+Process5 lives: 302.415013313msProcess11 lives: 302.978992462ms
+
+Process7 lives: 311.846017838ms
+Process3 lives: 316.037893295ms
+Result is 3.14159163318
+=======================================
+Use 316.037893295ms
+=======================================
+********** iter: 1000000 *************
+Process4 lives: 304.448008537msProcess1 lives: 304.211974144msProcess6 lives: 304.201006889msProcess14 lives: 304.383993149msProcess13 lives: 305.003046989ms
+
+Process10 lives: 303.426980972ms
+
+
+Process3 lives: 306.159973145msProcess2 lives: 303.891062737ms
+Process8 lives: 305.613994598ms
+
+
+Process12 lives: 306.890964508msProcess11 lives: 307.422995567ms
+
+Process5 lives: 308.001995087ms
+Process9 lives: 313.163995743msProcess15 lives: 308.854937553ms
+
+Process0 lives: 316.114187241ms
+Process7 lives: 320.770025253ms
+Result is 3.14159165359
+=======================================
+Use 320.770025253ms
+=======================================
+********** iter: 1020000 *************
+Process6 lives: 310.018897057msProcess11 lives: 309.922099113msProcess4 lives: 310.68789959msProcess3 lives: 310.314893723msProcess12 lives: 310.441970825ms
+Process15 lives: 311.119914055ms
+Process13 lives: 311.038017273msProcess8 lives: 310.925006866ms
+
+
+
+
+
+Process0 lives: 313.510894775ms
+Process10 lives: 314.317941666ms
+Process5 lives: 314.99505043msProcess9 lives: 315.026044846ms
+
+Process14 lives: 316.617012024ms
+Process2 lives: 318.946003914ms
+Process7 lives: 323.291897774ms
+Process1 lives: 339.470028877ms
+Result is 3.1415916732
+=======================================
+Use 339.470028877ms
+=======================================
+********** iter: 1040000 *************
+Process4 lives: 316.387057304msProcess10 lives: 316.700935364ms
+Process13 lives: 316.939949989msProcess15 lives: 316.896080971ms
+Process1 lives: 315.837025642msProcess6 lives: 317.45994091msProcess11 lives: 317.824959755ms
+
+Process7 lives: 318.302035332msProcess5 lives: 317.021965981ms
+
+
+Process14 lives: 319.166064262ms
+
+
+Process0 lives: 316.691160202msProcess3 lives: 320.765972137msProcess2 lives: 321.161031723msProcess9 lives: 319.609999657ms
+
+
+
+Process12 lives: 322.27909565ms
+Process8 lives: 358.169913292ms
+Result is 3.14159169205
+=======================================
+Use 358.169913292ms
+=======================================
+*********node: 14 **************
+********** iter: 20000 *************
+Process0 lives: 7.73119926453msProcess8 lives: 7.9300403595msProcess1 lives: 7.31492042542ms
+
+
+Process9 lives: 7.27593898773msProcess4 lives: 7.47501850128msProcess2 lives: 7.49802589417msProcess10 lives: 7.41791725159ms
+
+
+
+Process3 lives: 7.1769952774msProcess5 lives: 7.26497173309msProcess11 lives: 7.19392299652ms
+
+
+Process12 lives: 7.29489326477msProcess6 lives: 7.29703903198ms
+
+Process13 lives: 7.15899467468msProcess7 lives: 7.22098350525ms
+
+Result is 3.14154263358
+=======================================
+Use 7.9300403595ms
+=======================================
+********** iter: 40000 *************
+Process0 lives: 14.7130489349msProcess4 lives: 14.9021148682msProcess3 lives: 14.6749019623msProcess5 lives: 15.1669979095msProcess2 lives: 14.8220062256msProcess11 lives: 15.3379440308msProcess6 lives: 14.7020816803msProcess7 lives: 16.0019397736msProcess9 lives: 14.8220062256msProcess13 lives: 14.8239135742msProcess1 lives: 14.9260759354msProcess12 lives: 14.7199630737msProcess10 lives: 14.7569179535msProcess8 lives: 14.6960020065ms
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14156765234
+=======================================
+Use 16.0019397736ms
+=======================================
+********** iter: 60000 *************
+Process0 lives: 21.3229656219msProcess4 lives: 21.4909315109msProcess1 lives: 21.1950540543msProcess8 lives: 21.9630002975msProcess6 lives: 21.6029882431msProcess13 lives: 21.4740037918msProcess10 lives: 21.656036377msProcess12 lives: 21.3040113449msProcess11 lives: 21.8540430069msProcess7 lives: 21.6519832611msProcess3 lives: 21.5079784393msProcess2 lives: 21.5610265732msProcess9 lives: 21.4490890503ms
+
+
+
+Process5 lives: 23.6860513687ms
+
+
+
+
+
+
+
+
+
+Result is 3.14157598414
+=======================================
+Use 23.6860513687ms
+=======================================
+********** iter: 80000 *************
+Process3 lives: 28.5230875015msProcess2 lives: 29.5250415802msProcess7 lives: 28.7029743195msProcess1 lives: 28.2959938049msProcess4 lives: 28.2720327377msProcess9 lives: 28.4750461578msProcess13 lives: 28.9589166641msProcess11 lives: 28.9410352707msProcess5 lives: 28.440952301msProcess10 lives: 28.3229351044msProcess8 lives: 28.4049510956ms
+
+
+
+Process6 lives: 30.7070016861ms
+
+
+
+
+
+
+
+Process12 lives: 30.8980941772ms
+Process0 lives: 28.3420085907ms
+Result is 3.14158015296
+=======================================
+Use 30.8980941772ms
+=======================================
+********** iter: 100000 *************
+Process1 lives: 35.5089902878msProcess2 lives: 35.6690883636msProcess8 lives: 35.2629423141msProcess3 lives: 35.6580018997msProcess5 lives: 35.6220006943msProcess4 lives: 35.6209278107msProcess6 lives: 35.8060598373msProcess11 lives: 36.1748933792msProcess9 lives: 35.6699228287msProcess10 lives: 35.5989933014msProcess12 lives: 35.7329845428msProcess7 lives: 35.8029603958msProcess13 lives: 35.7990264893ms
+
+
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 35.4650020599ms
+Result is 3.14158265239
+=======================================
+Use 36.1748933792ms
+=======================================
+********** iter: 120000 *************
+Process1 lives: 42.3209667206msProcess13 lives: 42.976975441msProcess12 lives: 42.4300432205msProcess8 lives: 42.7780151367msProcess6 lives: 42.5480604172msProcess5 lives: 42.976975441msProcess4 lives: 42.2580242157msProcess9 lives: 42.9039001465msProcess11 lives: 42.7249670029msProcess3 lives: 43.7920093536ms
+
+
+
+Process10 lives: 43.4260368347ms
+
+
+
+
+
+
+Process2 lives: 46.0460186005msProcess7 lives: 46.581029892ms
+
+Process0 lives: 50.7919788361ms
+Result is 3.14158431984
+=======================================
+Use 50.7919788361ms
+=======================================
+********** iter: 140000 *************
+Process3 lives: 49.2689609528msProcess2 lives: 49.3739843369msProcess7 lives: 49.8299598694msProcess6 lives: 50.0980615616msProcess4 lives: 49.0970611572msProcess1 lives: 49.507021904msProcess10 lives: 50.6080389023msProcess9 lives: 49.4450330734msProcess13 lives: 49.3680238724msProcess11 lives: 49.4480133057ms
+
+
+
+
+
+
+
+
+
+Process5 lives: 52.6449680328msProcess12 lives: 52.827000618msProcess8 lives: 52.5239706039ms
+
+
+Process0 lives: 56.410074234ms
+Result is 3.14158551073
+=======================================
+Use 56.410074234ms
+=======================================
+********** iter: 160000 *************
+Process4 lives: 56.4880371094msProcess12 lives: 56.1029911041msProcess7 lives: 56.6740036011msProcess1 lives: 56.3000440598msProcess11 lives: 56.6010475159msProcess5 lives: 56.6159486771msProcess2 lives: 57.1659803391msProcess8 lives: 57.0749044418msProcess9 lives: 56.3139915466msProcess6 lives: 56.2169551849msProcess13 lives: 56.5019845963msProcess10 lives: 56.4470291138ms
+
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 63.7888908386ms
+Process3 lives: 64.1471147537ms
+Result is 3.14158640328
+=======================================
+Use 64.1471147537ms
+=======================================
+********** iter: 180000 *************
+Process0 lives: 63.029050827msProcess4 lives: 63.1729364395msProcess11 lives: 62.7239942551msProcess7 lives: 62.8780126572msProcess13 lives: 62.9329681396msProcess10 lives: 62.7950429916msProcess12 lives: 63.0589723587msProcess3 lives: 62.7321004868msProcess1 lives: 62.8110170364msProcess6 lives: 62.9229545593msProcess8 lives: 63.4249448776msProcess5 lives: 64.0250444412ms
+
+
+
+
+
+
+
+
+
+
+Process9 lives: 66.0599470139ms
+
+Process2 lives: 71.1779594421ms
+Result is 3.14158709797
+=======================================
+Use 71.1779594421ms
+=======================================
+********** iter: 200000 *************
+Process0 lives: 69.8189735413msProcess1 lives: 70.7910060883msProcess3 lives: 70.0550079346msProcess10 lives: 69.9759721756msProcess5 lives: 70.2660083771msProcess7 lives: 70.2239274979msProcess12 lives: 70.338010788msProcess9 lives: 70.1279640198msProcess6 lives: 70.5510377884msProcess11 lives: 70.0190067291msProcess8 lives: 70.0399875641msProcess4 lives: 70.0039863586msProcess2 lives: 69.895029068ms
+
+
+
+
+
+
+
+
+
+
+
+
+Process13 lives: 77.556014061ms
+Result is 3.14158765334
+=======================================
+Use 77.556014061ms
+=======================================
+********** iter: 220000 *************
+Process0 lives: 76.7598152161msProcess3 lives: 76.7240524292msProcess6 lives: 77.0570039749msProcess12 lives: 77.2219896317msProcess7 lives: 77.152967453msProcess13 lives: 76.8849849701msProcess9 lives: 76.7849683762msProcess1 lives: 78.4670114517ms
+
+
+
+
+Process11 lives: 77.6349306107msProcess10 lives: 77.4010419846ms
+
+
+
+Process8 lives: 79.5339345932ms
+
+Process4 lives: 80.1819562912ms
+Process5 lives: 81.3421010971ms
+Process2 lives: 83.515048027ms
+Result is 3.14158810805
+=======================================
+Use 83.515048027ms
+=======================================
+********** iter: 240000 *************
+Process2 lives: 84.144949913msProcess3 lives: 84.3080282211msProcess4 lives: 83.9550495148msProcess10 lives: 83.8680267334msProcess7 lives: 84.0289592743msProcess11 lives: 84.2690467834msProcess5 lives: 85.1540565491ms
+
+
+Process8 lives: 84.6350193024ms
+
+
+
+Process9 lives: 86.1510038376ms
+
+Process0 lives: 88.4411334991ms
+Process1 lives: 89.2169475555ms
+Process13 lives: 89.5580053329msProcess6 lives: 89.4039869308ms
+
+Process12 lives: 93.7660932541ms
+Result is 3.14158848671
+=======================================
+Use 93.7660932541ms
+=======================================
+********** iter: 260000 *************
+Process2 lives: 90.8269882202msProcess10 lives: 91.1240577698msProcess6 lives: 91.1039113998msProcess13 lives: 91.1120176315msProcess7 lives: 90.852022171msProcess4 lives: 90.8470153809msProcess8 lives: 90.8870697021ms
+Process1 lives: 92.8249359131msProcess5 lives: 91.9010639191ms
+
+
+
+Process3 lives: 91.4679765701ms
+
+Process9 lives: 91.5468931198msProcess12 lives: 91.9679403305ms
+
+
+
+
+Process11 lives: 95.3969955444ms
+Process0 lives: 103.438138962ms
+Result is 3.14158880735
+=======================================
+Use 103.438138962ms
+=======================================
+********** iter: 280000 *************
+Process0 lives: 97.2411632538msProcess1 lives: 97.097992897ms
+Process4 lives: 97.5860357285msProcess8 lives: 98.0149507523msProcess13 lives: 97.2490310669msProcess7 lives: 97.9559421539msProcess6 lives: 97.6920127869msProcess5 lives: 97.7650880814msProcess10 lives: 98.0939865112msProcess9 lives: 97.5610017776ms
+
+
+
+
+
+
+
+Process12 lives: 99.3990898132ms
+
+Process3 lives: 102.244973183ms
+Process11 lives: 103.150010109ms
+Process2 lives: 106.99403286ms
+Result is 3.14158908216
+=======================================
+Use 106.99403286ms
+=======================================
+********** iter: 300000 *************
+Process1 lives: 103.971004486msProcess2 lives: 104.596972466msProcess12 lives: 104.207992554msProcess10 lives: 105.049967766msProcess4 lives: 104.372024536msProcess5 lives: 104.194998741msProcess11 lives: 104.393959045ms
+
+Process3 lives: 105.072021484ms
+Process6 lives: 105.340003967ms
+
+
+Process7 lives: 105.512976646ms
+Process13 lives: 105.563998222ms
+
+
+
+Process0 lives: 112.749099731msProcess9 lives: 107.472062111ms
+
+Process8 lives: 115.401029587ms
+Result is 3.14158932017
+=======================================
+Use 115.401029587ms
+=======================================
+********** iter: 320000 *************
+Process13 lives: 111.284971237msProcess3 lives: 113.113045692msProcess5 lives: 111.726999283msProcess7 lives: 112.078070641msProcess10 lives: 112.164974213msProcess4 lives: 111.588954926msProcess2 lives: 111.948013306msProcess12 lives: 111.953020096ms
+Process11 lives: 112.003087997msProcess1 lives: 111.908912659msProcess6 lives: 113.593101501ms
+
+
+
+
+
+
+
+
+
+Process0 lives: 115.638971329msProcess9 lives: 115.88203907ms
+
+Process8 lives: 117.186069489ms
+Result is 3.14158952857
+=======================================
+Use 117.186069489ms
+=======================================
+********** iter: 340000 *************
+Process3 lives: 118.254065514msProcess4 lives: 118.502020836msProcess1 lives: 118.934988976msProcess5 lives: 119.0969944msProcess8 lives: 118.278026581msProcess7 lives: 118.956923485msProcess9 lives: 118.896007538msProcess6 lives: 120.010018349ms
+Process13 lives: 119.006991386msProcess12 lives: 118.766069412msProcess10 lives: 119.307994843msProcess11 lives: 118.739962578ms
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 123.278141022msProcess2 lives: 123.05688858ms
+
+Result is 3.14158971233
+=======================================
+Use 123.278141022ms
+=======================================
+********** iter: 360000 *************
+Process4 lives: 125.774979591msProcess1 lives: 125.430941582msProcess2 lives: 125.565052032msProcess7 lives: 126.242041588msProcess10 lives: 125.378966331msProcess6 lives: 125.527977943msProcess13 lives: 125.690937042msProcess11 lives: 125.58400631msProcess12 lives: 126.354932785ms
+
+Process3 lives: 127.437949181ms
+
+
+
+
+
+
+
+Process9 lives: 127.963900566ms
+Process0 lives: 125.590801239ms
+Process5 lives: 137.135982513ms
+Process8 lives: 137.499094009ms
+Result is 3.14158987578
+=======================================
+Use 137.499094009ms
+=======================================
+********** iter: 380000 *************
+Process4 lives: 132.309913635msProcess2 lives: 134.015083313msProcess8 lives: 132.335066795msProcess13 lives: 132.624030113msProcess10 lives: 133.318066597ms
+Process6 lives: 132.88295269msProcess3 lives: 132.799983025msProcess11 lives: 132.678985596msProcess1 lives: 132.566928864msProcess7 lives: 132.75706768msProcess5 lives: 132.604002953ms
+
+
+
+
+
+
+
+
+Process9 lives: 134.338021278ms
+
+Process0 lives: 136.829137802msProcess12 lives: 137.842059135ms
+
+Result is 3.14159002193
+=======================================
+Use 137.842059135ms
+=======================================
+********** iter: 400000 *************
+Process3 lives: 138.854026794msProcess1 lives: 138.951063156msProcess2 lives: 138.957023621msProcess5 lives: 138.602972031msProcess12 lives: 139.267086983msProcess9 lives: 139.397025108ms
+Process7 lives: 139.330983162msProcess10 lives: 139.382958412msProcess11 lives: 139.087915421ms
+Process8 lives: 139.450907707ms
+
+Process6 lives: 141.224980354ms
+
+
+
+
+
+
+Process0 lives: 143.630027771ms
+Process4 lives: 144.299030304ms
+Process13 lives: 146.049022675ms
+Result is 3.14159015355
+=======================================
+Use 146.049022675ms
+=======================================
+********** iter: 420000 *************
+Process0 lives: 146.039009094msProcess12 lives: 146.148085594msProcess13 lives: 146.242022514msProcess3 lives: 146.469950676msProcess1 lives: 146.763920784msProcess6 lives: 147.789955139msProcess5 lives: 147.16899395ms
+
+Process2 lives: 146.765947342msProcess8 lives: 148.064017296msProcess7 lives: 147.623062134msProcess11 lives: 147.150993347msProcess9 lives: 146.836996078ms
+
+
+
+
+
+
+
+
+
+Process4 lives: 151.239991188ms
+Process10 lives: 160.585999489ms
+Result is 3.14159027264
+=======================================
+Use 160.585999489ms
+=======================================
+********** iter: 440000 *************
+Process1 lives: 152.845025063msProcess5 lives: 152.750968933ms
+Process2 lives: 153.186917305msProcess3 lives: 154.078960419msProcess11 lives: 153.361082077msProcess7 lives: 153.524041176ms
+Process8 lives: 153.249979019msProcess10 lives: 154.093027115msProcess4 lives: 154.253005981msProcess9 lives: 153.216004372msProcess12 lives: 153.259038925msProcess6 lives: 152.953982353ms
+
+
+
+
+
+
+
+
+
+Process13 lives: 157.73499012ms
+Process0 lives: 161.604881287ms
+Result is 3.14159038082
+=======================================
+Use 161.604881287ms
+=======================================
+********** iter: 460000 *************
+Process11 lives: 159.877061844msProcess8 lives: 159.778952599msProcess0 lives: 160.080909729msProcess4 lives: 163.287997246msProcess2 lives: 163.601994514msProcess5 lives: 160.549998283msProcess3 lives: 174.608945847msProcess1 lives: 160.418987274ms
+Process7 lives: 160.886049271msProcess10 lives: 160.331010818msProcess12 lives: 161.177992821msProcess6 lives: 160.415053368ms
+Process9 lives: 160.361051559msProcess13 lives: 161.289930344ms
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14159047967
+=======================================
+Use 174.608945847ms
+=======================================
+********** iter: 480000 *************
+Process1 lives: 166.859984398msProcess4 lives: 167.208909988ms
+Process7 lives: 167.641997337msProcess9 lives: 167.742013931msProcess2 lives: 167.706012726msProcess6 lives: 167.611002922msProcess8 lives: 167.206048965msProcess12 lives: 166.846036911ms
+
+
+
+
+
+Process3 lives: 168.113946915ms
+
+Process11 lives: 168.882966042ms
+Process10 lives: 169.803023338ms
+Process5 lives: 171.256899834ms
+Process0 lives: 174.853086472ms
+Process13 lives: 180.843949318ms
+Result is 3.14159057021
+=======================================
+Use 180.843949318ms
+=======================================
+********** iter: 500000 *************
+Process0 lives: 174.029111862msProcess5 lives: 174.406051636msProcess1 lives: 174.317002296msProcess12 lives: 174.60000515msProcess10 lives: 174.161076546msProcess11 lives: 174.211978912msProcess13 lives: 174.215912819msProcess2 lives: 174.191951752msProcess6 lives: 174.289941788ms
+
+
+
+
+
+
+
+
+Process4 lives: 177.214980125ms
+Process3 lives: 179.25298214msProcess9 lives: 179.190993309ms
+
+Process7 lives: 180.579066277ms
+Process8 lives: 189.27192688ms
+Result is 3.14159065357
+=======================================
+Use 189.27192688ms
+=======================================
+********** iter: 520000 *************
+Process4 lives: 181.129932404msProcess2 lives: 180.997014046msProcess3 lives: 181.289076805msProcess1 lives: 181.416034698msProcess12 lives: 181.542992592msProcess7 lives: 181.777954102msProcess8 lives: 181.224107742ms
+
+
+
+
+
+
+Process6 lives: 182.488083839msProcess10 lives: 182.95609951ms
+
+Process5 lives: 184.487938881ms
+Process13 lives: 184.767007828ms
+Process9 lives: 185.726046562ms
+Process0 lives: 188.410997391ms
+Process11 lives: 189.738035202ms
+Result is 3.14159073047
+=======================================
+Use 189.738035202ms
+=======================================
+********** iter: 540000 *************
+Process5 lives: 187.868952751msProcess6 lives: 188.214063644msProcess8 lives: 188.081979752msProcess11 lives: 187.928080559msProcess7 lives: 187.978982925msProcess12 lives: 187.618970871msProcess1 lives: 189.212083817ms
+
+Process9 lives: 189.707040787msProcess10 lives: 188.430070877ms
+
+Process3 lives: 188.691973686ms
+
+
+
+
+
+Process2 lives: 194.710969925msProcess13 lives: 191.379070282ms
+
+Process4 lives: 205.983996391ms
+Process0 lives: 209.363937378ms
+Result is 3.14159080172
+=======================================
+Use 209.363937378ms
+=======================================
+********** iter: 560000 *************
+Process2 lives: 195.167899132msProcess5 lives: 194.786071777msProcess7 lives: 194.779992104msProcess10 lives: 195.033073425msProcess6 lives: 194.551944733msProcess12 lives: 194.577932358msProcess8 lives: 195.208072662msProcess1 lives: 195.620059967ms
+
+
+Process4 lives: 195.649981499ms
+
+
+
+
+Process3 lives: 197.211027145ms
+
+Process11 lives: 199.321985245msProcess9 lives: 199.627995491ms
+
+Process13 lives: 201.768040657ms
+Process0 lives: 204.898118973ms
+Result is 3.14159086788
+=======================================
+Use 204.898118973ms
+=======================================
+********** iter: 580000 *************
+Process0 lives: 201.656103134msProcess5 lives: 202.136993408msProcess7 lives: 202.07798481msProcess9 lives: 201.732039452msProcess10 lives: 201.527953148msProcess13 lives: 201.655030251msProcess8 lives: 201.768994331msProcess3 lives: 201.699972153msProcess1 lives: 201.537013054ms
+
+
+
+
+
+
+Process2 lives: 202.801942825ms
+Process6 lives: 203.2558918msProcess12 lives: 204.293012619ms
+
+Process4 lives: 204.635024071ms
+Process11 lives: 204.80298996ms
+
+
+Result is 3.14159092943
+=======================================
+Use 204.80298996ms
+=======================================
+********** iter: 600000 *************
+Process1 lives: 208.442091942msProcess6 lives: 208.721041679msProcess8 lives: 208.792924881msProcess5 lives: 209.337949753msProcess3 lives: 208.617925644msProcess4 lives: 208.79805088msProcess2 lives: 208.81998539msProcess10 lives: 208.729028702msProcess12 lives: 208.684921265msProcess0 lives: 216.35890007ms
+
+
+
+Process7 lives: 210.165977478ms
+Process13 lives: 211.454987526ms
+
+Process9 lives: 212.813019753ms
+Process11 lives: 213.766932487ms
+
+
+
+
+
+Result is 3.14159098692
+=======================================
+Use 216.35890007ms
+=======================================
+********** iter: 620000 *************
+Process0 lives: 215.81196785msProcess3 lives: 215.8639431msProcess1 lives: 216.261982918msProcess6 lives: 215.77501297msProcess2 lives: 215.87407589msProcess13 lives: 216.13907814msProcess11 lives: 215.951919556msProcess8 lives: 215.538978577msProcess7 lives: 216.155052185ms
+
+Process5 lives: 216.907978058ms
+
+
+
+
+
+
+
+Process9 lives: 219.603896141msProcess12 lives: 219.742894173ms
+
+Process4 lives: 220.688939095msProcess10 lives: 220.638990402ms
+
+Result is 3.14159104066
+=======================================
+Use 220.688939095ms
+=======================================
+********** iter: 640000 *************
+Process1 lives: 222.522974014msProcess5 lives: 222.576022148msProcess7 lives: 223.053097725msProcess10 lives: 222.912073135msProcess6 lives: 222.819924355msProcess9 lives: 223.341941833msProcess11 lives: 222.79894352msProcess13 lives: 222.514033318msProcess0 lives: 230.193853378ms
+Process4 lives: 225.270986557msProcess3 lives: 225.733041763msProcess2 lives: 231.525063515ms
+
+
+Process8 lives: 224.164009094ms
+
+
+
+
+
+
+
+
+Process12 lives: 252.211928368ms
+Result is 3.14159109108
+=======================================
+Use 252.211928368ms
+=======================================
+********** iter: 660000 *************
+Process3 lives: 228.750944138msProcess7 lives: 229.36809063msProcess12 lives: 229.705929756msProcess11 lives: 229.775071144msProcess8 lives: 229.346990585msProcess13 lives: 229.300022125ms
+Process2 lives: 230.21697998ms
+
+Process10 lives: 230.873942375ms
+
+
+Process6 lives: 230.324029922msProcess9 lives: 229.473948479ms
+
+
+
+Process4 lives: 232.83803463ms
+Process0 lives: 229.746818542ms
+Process1 lives: 234.09307003ms
+Process5 lives: 239.005923271ms
+Result is 3.14159113841
+=======================================
+Use 239.005923271ms
+=======================================
+********** iter: 680000 *************
+Process2 lives: 236.299991608msProcess1 lives: 236.401081085msProcess4 lives: 236.512064934msProcess11 lives: 236.286997795msProcess7 lives: 237.90204525msProcess9 lives: 236.698031425msProcess3 lives: 236.451983452msProcess12 lives: 236.242055893msProcess5 lives: 237.953066826msProcess10 lives: 237.891077995msProcess13 lives: 236.783981323msProcess6 lives: 236.779093742ms
+
+
+
+
+
+
+
+
+
+
+
+Process8 lives: 241.245031357ms
+Process0 lives: 247.249126434ms
+Result is 3.14159118299
+=======================================
+Use 247.249126434ms
+=======================================
+********** iter: 700000 *************
+Process4 lives: 243.545055389msProcess6 lives: 243.55494976ms
+Process12 lives: 243.830919266ms
+Process5 lives: 242.62201786msProcess11 lives: 242.42401123msProcess9 lives: 243.15404892msProcess8 lives: 243.668079376msProcess3 lives: 242.642998695msProcess2 lives: 244.552969933ms
+
+
+
+Process13 lives: 244.061946869ms
+
+
+
+Process7 lives: 243.906974792msProcess1 lives: 247.754096985ms
+
+Process10 lives: 265.785932541ms
+Process0 lives: 280.694007874ms
+Result is 3.14159122502
+=======================================
+Use 280.694007874ms
+=======================================
+********** iter: 720000 *************
+Process0 lives: 250.400066376ms
+Process4 lives: 251.021027565msProcess1 lives: 250.601053238msProcess2 lives: 251.23500824msProcess8 lives: 251.420974731msProcess11 lives: 254.71997261msProcess12 lives: 251.465082169msProcess10 lives: 250.167965889msProcess3 lives: 250.928997993msProcess6 lives: 250.951051712msProcess13 lives: 250.759005547msProcess7 lives: 250.794053078msProcess5 lives: 253.744959831msProcess9 lives: 256.576061249ms
+
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14159126469
+=======================================
+Use 256.576061249ms
+=======================================
+********** iter: 740000 *************
+Process0 lives: 257.19499588msProcess3 lives: 257.389068604msProcess2 lives: 257.472991943msProcess7 lives: 257.520079613msProcess11 lives: 257.802963257msProcess13 lives: 257.523059845msProcess10 lives: 257.651925087msProcess6 lives: 257.544994354msProcess12 lives: 257.158994675ms
+
+
+
+
+
+
+
+Process1 lives: 261.178016663msProcess5 lives: 260.026097298msProcess9 lives: 261.547923088msProcess4 lives: 262.261033058ms
+
+
+
+Process8 lives: 263.428092003ms
+
+Result is 3.14159130223
+=======================================
+Use 263.428092003ms
+=======================================
+********** iter: 760000 *************
+Process4 lives: 264.529943466msProcess1 lives: 264.164090157msProcess10 lives: 264.266014099msProcess0 lives: 268.534898758ms
+Process3 lives: 266.121029854msProcess7 lives: 270.007967949ms
+Process2 lives: 264.896988869msProcess8 lives: 267.221927643ms
+Process12 lives: 269.007086754msProcess6 lives: 269.244909286msProcess13 lives: 265.110969543msProcess5 lives: 264.845013618msProcess11 lives: 265.259981155msProcess9 lives: 265.055060387ms
+
+
+
+
+
+
+
+
+
+
+Result is 3.14159133778
+=======================================
+Use 270.007967949ms
+=======================================
+********** iter: 780000 *************
+Process3 lives: 271.456956863msProcess9 lives: 271.281003952msProcess2 lives: 271.059989929msProcess4 lives: 271.175026894msProcess10 lives: 271.181941032ms
+
+Process11 lives: 271.75796032ms
+
+
+Process13 lives: 272.764086723ms
+Process7 lives: 273.355960846ms
+
+Process1 lives: 274.505972862ms
+Process6 lives: 275.177001953msProcess5 lives: 274.920940399ms
+
+Process12 lives: 275.815963745msProcess8 lives: 275.835037231ms
+
+Process0 lives: 280.986070633ms
+Result is 3.14159137153
+=======================================
+Use 280.986070633ms
+=======================================
+********** iter: 800000 *************
+Process5 lives: 278.537034988msProcess3 lives: 278.535962105msProcess6 lives: 278.50496769msProcess1 lives: 278.37896347msProcess9 lives: 278.319001198msProcess8 lives: 278.520941734ms
+
+
+Process4 lives: 279.187083244msProcess12 lives: 279.444932938ms
+Process11 lives: 279.565095901ms
+
+
+
+
+Process10 lives: 281.660079956msProcess13 lives: 282.333016396msProcess7 lives: 282.05704689ms
+
+
+Process2 lives: 285.192012787ms
+Process0 lives: 286.815166473ms
+Result is 3.14159140357
+=======================================
+Use 286.815166473ms
+=======================================
+********** iter: 820000 *************
+Process0 lives: 285.545825958msProcess11 lives: 285.367012024msProcess5 lives: 285.516023636msProcess8 lives: 285.721898079msProcess3 lives: 286.041021347msProcess6 lives: 285.272955894ms
+
+Process13 lives: 287.085056305msProcess4 lives: 286.677956581msProcess2 lives: 286.908984184ms
+
+
+Process1 lives: 288.259029388msProcess7 lives: 287.461042404ms
+
+
+
+
+
+Process9 lives: 289.124011993msResult is 3.14159143407
+Process12 lives: 289.860963821msProcess10 lives: 289.479017258ms
+
+
+=======================================
+Use 289.860963821ms
+=======================================
+********** iter: 840000 *************
+Process2 lives: 292.523980141msProcess10 lives: 292.358994484msProcess1 lives: 292.657017708msProcess8 lives: 292.256116867msProcess5 lives: 293.261051178ms
+Process7 lives: 292.935013771ms
+
+Process12 lives: 293.281078339ms
+
+
+
+Process0 lives: 295.665979385ms
+Process3 lives: 296.789050102msProcess11 lives: 297.133922577msProcess6 lives: 296.674966812msProcess9 lives: 296.060919762msProcess4 lives: 297.080993652ms
+
+
+
+
+Process13 lives: 337.349057198ms
+Result is 3.14159146311
+=======================================
+Use 337.349057198ms
+=======================================
+********** iter: 860000 *************
+Process0 lives: 298.872947693msProcess2 lives: 298.699021339ms
+
+Process11 lives: 298.509955406msProcess5 lives: 298.117995262msProcess10 lives: 299.835920334ms
+
+
+Process3 lives: 298.618912697msProcess13 lives: 299.050927162ms
+
+Process1 lives: 300.045967102ms
+Process12 lives: 303.062081337ms
+Process9 lives: 302.072048187msProcess4 lives: 305.493950844msProcess7 lives: 302.17397213ms
+
+
+Process6 lives: 308.528065681ms
+Process8 lives: 328.18198204ms
+Result is 3.14159149079
+=======================================
+Use 328.18198204ms
+=======================================
+********** iter: 880000 *************
+Process2 lives: 307.232022285msProcess5 lives: 306.120038033msProcess13 lives: 306.152939796msProcess12 lives: 306.182026863msProcess6 lives: 306.483030319msProcess9 lives: 306.192994118msProcess1 lives: 306.208968163msProcess11 lives: 305.894970894msProcess0 lives: 308.854818344ms
+
+Process3 lives: 309.862971306msProcess7 lives: 322.844028473msProcess8 lives: 308.730006218msProcess10 lives: 310.227036476ms
+Process4 lives: 307.769060135ms
+
+
+
+
+
+
+
+
+
+
+Result is 3.14159151722
+=======================================
+Use 322.844028473ms
+=======================================
+********** iter: 900000 *************
+Process9 lives: 312.669992447msProcess4 lives: 312.933921814ms
+
+Process7 lives: 313.549995422ms
+Process1 lives: 313.797950745ms
+Process3 lives: 314.538955688msProcess6 lives: 314.185976982ms
+
+Process12 lives: 315.768003464msProcess8 lives: 315.915107727ms
+
+Process11 lives: 316.717028618ms
+Process2 lives: 317.422032356ms
+Process5 lives: 318.327069283ms
+Process13 lives: 320.742964745ms
+Process0 lives: 322.766065598ms
+Process10 lives: 325.574040413ms
+Result is 3.14159154247
+=======================================
+Use 325.574040413ms
+=======================================
+********** iter: 920000 *************
+Process2 lives: 319.983005524ms
+Process5 lives: 321.126103401msProcess11 lives: 320.694923401msProcess8 lives: 320.080041885msProcess6 lives: 320.840001106msProcess3 lives: 320.492982864ms
+
+
+
+Process9 lives: 321.992993355ms
+
+Process13 lives: 323.523044586msProcess10 lives: 322.635054588msProcess1 lives: 329.530954361msProcess4 lives: 325.013041496ms
+
+Process7 lives: 325.247049332ms
+
+
+Process12 lives: 348.423957825ms
+Process0 lives: 368.226051331ms
+Result is 3.14159156663
+=======================================
+Use 368.226051331ms
+=======================================
+********** iter: 940000 *************
+Process5 lives: 326.691031456msProcess4 lives: 326.69198513msProcess1 lives: 327.086091042ms
+Process3 lives: 328.022003174msProcess13 lives: 327.502012253msProcess7 lives: 328.019022942msProcess6 lives: 327.20708847msProcess10 lives: 326.930046082msProcess12 lives: 327.364087105ms
+Process2 lives: 329.010009766msProcess8 lives: 327.626943588msProcess11 lives: 327.731013298msProcess0 lives: 330.768108368ms
+
+
+
+
+
+
+
+
+
+
+Process9 lives: 331.49600029ms
+Result is 3.14159158975
+=======================================
+Use 331.49600029ms
+=======================================
+********** iter: 960000 *************
+Process12 lives: 333.973050117msProcess2 lives: 334.404945374ms
+Process13 lives: 334.437966347msProcess9 lives: 334.715008736ms
+Process3 lives: 335.363984108ms
+
+
+Process5 lives: 335.353016853ms
+Process0 lives: 334.136962891msProcess1 lives: 337.368011475msProcess4 lives: 337.418079376ms
+Process6 lives: 337.125062943ms
+
+
+Process7 lives: 339.802980423msProcess8 lives: 339.172959328ms
+
+Process11 lives: 357.274055481ms
+Process10 lives: 381.987094879ms
+Result is 3.14159161192
+=======================================
+Use 381.987094879ms
+=======================================
+********** iter: 980000 *************
+Process0 lives: 340.784072876msProcess11 lives: 341.066002846msProcess3 lives: 341.276049614ms
+Process2 lives: 341.299057007msProcess1 lives: 343.210935593ms
+Process13 lives: 341.737031937msProcess10 lives: 341.49491787ms
+Process9 lives: 342.009067535msProcess6 lives: 342.69797802msProcess12 lives: 342.518091202msProcess5 lives: 341.846942902ms
+
+
+
+
+
+
+Process8 lives: 344.197034836ms
+
+Process7 lives: 345.199942589msProcess4 lives: 345.170974731ms
+
+Result is 3.14159163318
+=======================================
+Use 345.199942589ms
+=======================================
+********** iter: 1000000 *************
+Process4 lives: 347.622036934msProcess1 lives: 350.260019302msProcess7 lives: 349.889993668msProcess9 lives: 349.925994873ms
+
+Process6 lives: 350.725054741ms
+
+
+Process13 lives: 351.613044739msProcess3 lives: 351.348996162msProcess2 lives: 350.49200058msProcess11 lives: 351.886987686msProcess12 lives: 352.483034134msProcess10 lives: 350.522041321ms
+
+
+
+
+
+Process0 lives: 353.635072708msProcess5 lives: 354.575991631ms
+
+Process8 lives: 356.937050819msResult is 3.14159165358
+
+=======================================
+Use 356.937050819ms
+=======================================
+********** iter: 1020000 *************
+Process2 lives: 355.350017548msProcess1 lives: 355.247974396msProcess4 lives: 355.332970619msProcess9 lives: 355.536937714msProcess11 lives: 355.365037918msProcess7 lives: 355.325937271ms
+
+
+
+Process12 lives: 356.319069862msProcess10 lives: 355.754971504ms
+
+
+
+Process13 lives: 359.341025352ms
+Process5 lives: 360.373973846ms
+Process0 lives: 362.08486557ms
+Process3 lives: 366.131067276ms
+Process6 lives: 368.662953377ms
+Process8 lives: 401.731014252ms
+Result is 3.1415916732
+=======================================
+Use 401.731014252ms
+=======================================
+********** iter: 1040000 *************
+Process1 lives: 361.871957779msProcess6 lives: 361.564040184msProcess3 lives: 362.475991249ms
+
+Process12 lives: 362.074971199msProcess11 lives: 362.475991249msProcess5 lives: 362.322092056ms
+
+
+
+Process2 lives: 363.442063332ms
+Process9 lives: 364.163994789ms
+Process10 lives: 364.547014236msProcess0 lives: 368.114948273msProcess4 lives: 365.101933479msProcess7 lives: 365.673065186msProcess13 lives: 365.613937378msProcess8 lives: 375.724077225ms
+
+
+
+
+
+Result is 3.14159169204
+=======================================
+Use 375.724077225ms
+=======================================
+*********node: 12 **************
+********** iter: 20000 *************
+Process0 lives: 8.71396064758msProcess3 lives: 9.39702987671msProcess4 lives: 8.89003276825msProcess2 lives: 8.83102416992msProcess5 lives: 9.40001010895msProcess7 lives: 9.27209854126msProcess10 lives: 9.00399684906msProcess9 lives: 9.09304618835msProcess1 lives: 8.99600982666msProcess11 lives: 9.25695896149msProcess6 lives: 9.05406475067msProcess8 lives: 8.85701179504ms
+
+
+
+
+
+
+
+
+
+
+
+Result is 3.14154263358
+=======================================
+Use 9.40001010895ms
+=======================================
+********** iter: 40000 *************
+Process2 lives: 17.0539617538msProcess5 lives: 17.3820257187msProcess7 lives: 17.4570083618msProcess6 lives: 17.2480344772msProcess9 lives: 17.4450874329msProcess1 lives: 17.401099205msProcess10 lives: 17.431974411msProcess3 lives: 17.1899795532msProcess8 lives: 16.7770385742msProcess4 lives: 17.0570611954msProcess11 lives: 17.4150466919ms
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 22.0029354095ms
+Result is 3.14156765109
+=======================================
+Use 22.0029354095ms
+=======================================
+********** iter: 60000 *************
+Process3 lives: 24.885058403msProcess6 lives: 25.249004364msProcess9 lives: 25.1740217209msProcess4 lives: 25.1479148865msProcess2 lives: 25.034070015msProcess10 lives: 25.2410173416ms
+
+
+
+
+Process1 lives: 25.9280204773msProcess7 lives: 26.1050462723ms
+
+
+Process5 lives: 28.1040668488msProcess11 lives: 27.7729034424msProcess8 lives: 27.7689695358ms
+
+
+Process0 lives: 31.0049057007ms
+Result is 3.14157598692
+=======================================
+Use 31.0049057007ms
+=======================================
+********** iter: 80000 *************
+Process0 lives: 32.8578948975msProcess1 lives: 32.3939323425msProcess4 lives: 33.2989692688msProcess6 lives: 33.1490039825ms
+Process5 lives: 32.8689813614msProcess2 lives: 33.2798957825msProcess3 lives: 33.6118936539msProcess7 lives: 33.2729816437msProcess9 lives: 32.7750444412msProcess8 lives: 33.4389209747msProcess10 lives: 33.0910682678msProcess11 lives: 32.9990386963ms
+
+
+
+
+
+
+
+
+
+
+Result is 3.14158015234
+=======================================
+Use 33.6118936539ms
+=======================================
+********** iter: 100000 *************
+Process8 lives: 41.1880016327msProcess5 lives: 41.4509773254msProcess6 lives: 41.9540405273msProcess3 lives: 41.9059991837msProcess4 lives: 41.7059659958msProcess9 lives: 41.5819883347ms
+Process2 lives: 41.5080785751msProcess10 lives: 41.6229963303msProcess7 lives: 42.45698452msProcess11 lives: 41.5669679642ms
+
+
+
+
+
+
+
+
+Process0 lives: 41.3339138031msProcess1 lives: 44.6280241013ms
+
+Result is 3.14158265319
+=======================================
+Use 44.6280241013ms
+=======================================
+********** iter: 120000 *************
+Process2 lives: 49.271941185msProcess1 lives: 49.5729446411msProcess10 lives: 49.2779016495msProcess7 lives: 49.2709875107msProcess5 lives: 49.3899583817msProcess6 lives: 50.1399040222msProcess4 lives: 49.7349500656msProcess3 lives: 49.1899251938msProcess9 lives: 49.290060997ms
+Process8 lives: 51.2779951096ms
+
+Process11 lives: 49.3280887604ms
+
+
+
+
+
+
+
+Process0 lives: 56.1211109161ms
+Result is 3.14158432026
+=======================================
+Use 56.1211109161ms
+=======================================
+********** iter: 140000 *************
+Process3 lives: 56.9739341736msProcess6 lives: 57.855963707msProcess2 lives: 57.4609041214msProcess11 lives: 57.088971138msProcess5 lives: 57.452917099ms
+Process1 lives: 57.3769807816msProcess7 lives: 57.1699142456msProcess9 lives: 57.6249361038ms
+
+
+
+Process4 lives: 59.5569610596ms
+Process8 lives: 59.2930316925ms
+
+
+
+Process10 lives: 60.2649450302ms
+Process0 lives: 63.325881958ms
+Result is 3.14158551032
+=======================================
+Use 63.325881958ms
+=======================================
+********** iter: 160000 *************
+Process1 lives: 65.9149885178msProcess6 lives: 66.4780139923msProcess5 lives: 65.7330751419msProcess4 lives: 65.3579235077msProcess3 lives: 65.8110380173msProcess7 lives: 66.1909580231msProcess9 lives: 66.9130086899msProcess8 lives: 65.5709505081msProcess2 lives: 65.6509399414msProcess11 lives: 65.9399032593ms
+
+
+
+
+
+
+
+
+
+Process10 lives: 68.5429573059ms
+Process0 lives: 69.7700977325ms
+Result is 3.14158640343
+=======================================
+Use 69.7700977325ms
+=======================================
+********** iter: 180000 *************
+Process2 lives: 73.8960504532msProcess4 lives: 73.940038681msProcess1 lives: 73.2469558716msProcess7 lives: 73.7169981003msProcess9 lives: 73.399066925msProcess6 lives: 73.9940404892msProcess8 lives: 74.9020576477msProcess5 lives: 74.4540691376msProcess11 lives: 73.6581087112msProcess10 lives: 73.891043663ms
+
+
+
+
+
+
+
+
+
+Process3 lives: 76.847910881ms
+Process0 lives: 81.0480117798ms
+Result is 3.14158709803
+=======================================
+Use 81.0480117798ms
+=======================================
+********** iter: 200000 *************
+Process0 lives: 81.0649394989ms
+Process9 lives: 81.7559957504msProcess10 lives: 81.6149711609msProcess3 lives: 82.2310447693msProcess4 lives: 81.6099643707msProcess5 lives: 82.4279785156ms
+Process1 lives: 82.5320482254msProcess11 lives: 82.29804039msProcess2 lives: 81.9329023361msProcess7 lives: 82.7679634094msProcess6 lives: 81.9309949875ms
+
+
+
+
+
+
+
+
+Process8 lives: 84.2089653015ms
+Result is 3.14158765339
+=======================================
+Use 84.2089653015ms
+=======================================
+********** iter: 220000 *************
+Process9 lives: 89.4379615784msProcess6 lives: 89.684009552msProcess3 lives: 89.7389650345msProcess10 lives: 89.8020267487msProcess11 lives: 90.1470184326msProcess8 lives: 89.7589921951msProcess7 lives: 89.7749662399msProcess2 lives: 89.8640155792msProcess1 lives: 91.6609764099msProcess4 lives: 89.8560285568msProcess5 lives: 89.9059772491ms
+
+
+
+
+
+
+
+
+
+
+Process0 lives: 93.8119888306ms
+Result is 3.14158810805
+=======================================
+Use 93.8119888306ms
+=======================================
+********** iter: 240000 *************
+Process0 lives: 97.2089767456ms
+Result is 3.14158848692Process8 lives: 97.8050231934msProcess7 lives: 98.0709791183msProcess6 lives: 98.3819961548msProcess1 lives: 98.8239049911msProcess2 lives: 102.799057961msProcess5 lives: 98.0269908905msProcess11 lives: 103.585004807msProcess9 lives: 97.8760719299msProcess4 lives: 97.9949235916msProcess10 lives: 102.290987968msProcess3 lives: 99.1770029068ms
+
+
+
+
+
+
+
+
+
+
+
+=======================================
+Use 103.585004807ms
+=======================================
+********** iter: 260000 *************
+Process5 lives: 105.376958847msProcess8 lives: 105.935931206msProcess9 lives: 105.377078056msProcess11 lives: 105.60798645msProcess4 lives: 105.716943741msProcess1 lives: 105.197072029msProcess2 lives: 106.678009033ms
+Process3 lives: 106.537938118ms
+
+Process7 lives: 105.965018272ms
+
+
+
+
+
+Process6 lives: 107.913017273ms
+Process0 lives: 110.173940659ms
+Process10 lives: 115.652084351ms
+Result is 3.14158880732
+=======================================
+Use 115.652084351ms
+=======================================
+********** iter: 280000 *************
+Process0 lives: 113.651990891msProcess2 lives: 113.770008087msProcess5 lives: 113.744020462msProcess3 lives: 114.187955856msProcess10 lives: 113.64710331msProcess6 lives: 113.695025444msProcess1 lives: 113.662004471msProcess7 lives: 114.414930344msProcess9 lives: 114.737987518msProcess4 lives: 114.13192749msProcess11 lives: 113.878965378ms
+
+
+
+
+
+
+
+
+
+Process8 lives: 117.014050484ms
+
+Result is 3.14158908211
+=======================================
+Use 117.014050484ms
+=======================================
+********** iter: 300000 *************
+Process0 lives: 121.55008316msProcess11 lives: 121.603012085msProcess8 lives: 121.46294117msProcess3 lives: 121.517062187msProcess2 lives: 121.471047401msProcess1 lives: 121.350049973msProcess5 lives: 121.515989304ms
+Process6 lives: 122.884988785ms
+
+
+Process9 lives: 122.365951538ms
+
+Process7 lives: 122.400999069ms
+
+
+
+Process10 lives: 124.98998642ms
+Process4 lives: 132.811069489ms
+Result is 3.14158932026
+=======================================
+Use 132.811069489ms
+=======================================
+********** iter: 320000 *************
+Process3 lives: 129.497051239msProcess2 lives: 129.520058632ms
+
+Process1 lives: 129.76205349msProcess5 lives: 130.303025246msProcess10 lives: 129.988074303msProcess8 lives: 130.51199913msProcess6 lives: 131.51204586msProcess11 lives: 129.946947098msProcess9 lives: 130.107045174msProcess7 lives: 130.771994591ms
+
+
+
+
+
+
+
+Process0 lives: 133.656978607ms
+Process4 lives: 135.121941566ms
+Result is 3.14158952851
+=======================================
+Use 135.121941566ms
+=======================================
+********** iter: 340000 *************
+Process4 lives: 138.260960579msProcess9 lives: 138.463973999msProcess10 lives: 138.220906258msProcess5 lives: 138.339996338msProcess2 lives: 138.112068176msProcess1 lives: 138.913989067msProcess8 lives: 138.040065765msProcess11 lives: 138.417005539msProcess6 lives: 138.648986816ms
+
+
+
+
+
+
+
+
+Process0 lives: 143.092870712ms
+Process7 lives: 143.520951271ms
+Process3 lives: 143.905997276ms
+Result is 3.14158971238
+=======================================
+Use 143.905997276ms
+=======================================
+********** iter: 360000 *************
+Process2 lives: 146.401047707msProcess11 lives: 146.037101746msProcess6 lives: 146.144032478msProcess3 lives: 146.451950073ms
+Process8 lives: 146.499037743msProcess7 lives: 146.654963493ms
+
+Process1 lives: 146.394014359msProcess4 lives: 146.77798748ms
+
+
+
+
+Process0 lives: 149.186134338msProcess9 lives: 148.983955383ms
+
+Process5 lives: 159.17301178ms
+Process10 lives: 160.097002983ms
+Result is 3.14158987581
+=======================================
+Use 160.097002983ms
+=======================================
+********** iter: 380000 *************
+Process4 lives: 154.314041138msProcess8 lives: 155.120015144msProcess9 lives: 154.458999634msProcess1 lives: 154.582023621msProcess10 lives: 154.764056206msProcess2 lives: 154.224991798msProcess6 lives: 154.402017593msProcess11 lives: 153.523921967msProcess5 lives: 155.40599823ms
+
+
+
+
+
+
+
+
+Process3 lives: 155.457019806ms
+Process7 lives: 158.035039902ms
+Process0 lives: 160.261154175ms
+Result is 3.14159002196
+=======================================
+Use 160.261154175ms
+=======================================
+********** iter: 400000 *************
+Process2 lives: 161.880970001msProcess8 lives: 162.118911743msProcess3 lives: 162.238955498msProcess5 lives: 162.838101387msProcess4 lives: 164.276003838ms
+Process6 lives: 162.919998169ms
+
+Process11 lives: 162.83094883msProcess9 lives: 162.383913994msProcess10 lives: 163.064002991msProcess7 lives: 162.380933762msProcess1 lives: 162.682056427ms
+
+
+
+
+
+
+
+Process0 lives: 166.959047318ms
+Result is 3.14159015356
+=======================================
+Use 166.959047318ms
+=======================================
+********** iter: 420000 *************
+Process3 lives: 170.689940453msProcess2 lives: 170.719981194msProcess1 lives: 171.705007553msProcess4 lives: 170.750021935msProcess5 lives: 171.154975891ms
+Process8 lives: 171.586036682msProcess6 lives: 170.971989632ms
+Process11 lives: 171.779990196msProcess7 lives: 171.113967896ms
+
+
+
+
+
+
+Process9 lives: 174.654960632msProcess10 lives: 173.782944679ms
+
+Process0 lives: 183.669090271ms
+Result is 3.14159027264
+=======================================
+Use 183.669090271ms
+=======================================
+********** iter: 440000 *************
+Process3 lives: 178.473949432msProcess6 lives: 178.889989853msProcess7 lives: 178.629040718msProcess10 lives: 178.698897362msProcess8 lives: 178.739905357msProcess5 lives: 179.072976112ms
+Process1 lives: 179.130911827ms
+
+
+
+
+
+Process0 lives: 181.506872177msProcess4 lives: 181.467056274msProcess11 lives: 181.255936623ms
+
+Process2 lives: 182.278037071msProcess9 lives: 181.661009789ms
+
+
+Result is 3.14159038082
+=======================================
+Use 182.278037071ms
+=======================================
+********** iter: 460000 *************
+Process4 lives: 185.993909836ms
+Process1 lives: 186.60390377msProcess8 lives: 186.511039734msProcess5 lives: 187.362074852msProcess7 lives: 186.774015427msProcess6 lives: 186.818003654msProcess3 lives: 186.442017555msProcess2 lives: 187.363028526ms
+
+
+
+
+
+
+Process9 lives: 188.966989517ms
+Process0 lives: 189.846992493msProcess10 lives: 189.599990845msProcess11 lives: 189.87596035ms
+
+
+Result is 3.14159047966
+=======================================
+Use 189.87596035ms
+=======================================
+********** iter: 480000 *************
+Process0 lives: 194.470882416ms
+Process11 lives: 195.379018784msProcess4 lives: 194.940090179msProcess10 lives: 195.091962814msProcess1 lives: 194.746017456msProcess2 lives: 195.04404068msProcess7 lives: 195.021033287msProcess6 lives: 195.245981216msProcess8 lives: 194.889068604ms
+Process3 lives: 195.937991142ms
+
+Process5 lives: 195.842027664ms
+
+
+
+
+
+
+Process9 lives: 202.839970589ms
+Result is 3.14159057026
+=======================================
+Use 202.839970589ms
+=======================================
+********** iter: 500000 *************
+Process1 lives: 203.069925308msProcess9 lives: 203.141927719msProcess0 lives: 212.515115738msProcess5 lives: 206.893920898msProcess3 lives: 208.832025528msProcess2 lives: 206.732034683msProcess11 lives: 204.520940781msProcess6 lives: 203.837037086ms
+Process8 lives: 206.031918526msProcess7 lives: 205.446004868msProcess10 lives: 205.667972565ms
+
+
+
+
+
+
+
+
+
+Process4 lives: 229.665994644ms
+Result is 3.14159065356
+=======================================
+Use 229.665994644ms
+=======================================
+********** iter: 520000 *************
+Process1 lives: 210.952997208msProcess3 lives: 211.05992794msProcess8 lives: 211.046934128msProcess4 lives: 211.099028587msProcess5 lives: 211.436986923msProcess7 lives: 211.458086967msProcess10 lives: 211.135983467ms
+
+
+
+
+
+
+Process11 lives: 212.778925896ms
+Process0 lives: 211.040019989ms
+Process6 lives: 214.110970497ms
+Process9 lives: 215.296030045ms
+Process2 lives: 218.407034874ms
+Result is 3.1415907305
+=======================================
+Use 218.407034874ms
+=======================================
+********** iter: 540000 *************
+Process2 lives: 219.027996063msProcess3 lives: 219.074964523msProcess7 lives: 219.261050224ms
+
+
+Process5 lives: 219.870090485msProcess9 lives: 219.643950462ms
+Process6 lives: 220.111012459msProcess4 lives: 220.454096794ms
+
+
+Process1 lives: 221.881985664msProcess8 lives: 221.871972084ms
+
+Process0 lives: 219.11406517ms
+Process10 lives: 228.088021278ms
+Process11 lives: 239.966034889ms
+Result is 3.14159080174
+=======================================
+Use 239.966034889ms
+=======================================
+********** iter: 560000 *************
+Process0 lives: 227.129936218msProcess4 lives: 227.437973022msProcess3 lives: 227.800965309msProcess10 lives: 227.436065674msProcess5 lives: 227.880954742ms
+
+
+
+Process9 lives: 228.412985802ms
+Process2 lives: 229.152083397ms
+
+Process1 lives: 229.544043541ms
+Process8 lives: 230.352044106ms
+Process7 lives: 231.880068779msProcess11 lives: 231.357932091ms
+
+Process6 lives: 237.169027328ms
+Result is 3.14159086785
+=======================================
+Use 237.169027328ms
+=======================================
+********** iter: 580000 *************
+Process0 lives: 234.821081161ms
+Process4 lives: 235.406041145msProcess8 lives: 235.431075096ms
+Process3 lives: 235.770940781ms
+
+Process2 lives: 236.184000969msProcess10 lives: 236.382007599msProcess1 lives: 236.299037933ms
+
+
+Process11 lives: 237.136006355ms
+Process9 lives: 237.717032433ms
+Process7 lives: 238.322019577msProcess5 lives: 238.263010979ms
+
+Process6 lives: 239.662051201ms
+Result is 3.14159092944
+=======================================
+Use 239.662051201ms
+=======================================
+********** iter: 600000 *************
+Process2 lives: 243.506908417msProcess10 lives: 243.314981461ms
+Process7 lives: 243.966937065ms
+Process8 lives: 243.571043015msProcess9 lives: 243.634939194ms
+
+
+Process6 lives: 245.136022568ms
+Process11 lives: 245.347976685ms
+Process5 lives: 244.999051094ms
+Process0 lives: 249.852895737ms
+Process1 lives: 252.642989159ms
+Process3 lives: 257.706999779ms
+Process4 lives: 275.620937347ms
+Result is 3.14159098692
+=======================================
+Use 275.620937347ms
+=======================================
+********** iter: 620000 *************
+Process8 lives: 251.293063164msProcess3 lives: 251.330018044msProcess9 lives: 251.952052116msProcess7 lives: 252.049088478msProcess5 lives: 252.133965492ms
+
+Process1 lives: 251.574039459msProcess6 lives: 251.912951469msProcess11 lives: 252.469062805ms
+
+
+
+
+
+Process2 lives: 254.778027534msProcess10 lives: 254.592061043ms
+
+Process4 lives: 257.063984871ms
+Process0 lives: 260.505914688ms
+Result is 3.14159104067
+=======================================
+Use 260.505914688ms
+=======================================
+********** iter: 640000 *************
+Process1 lives: 259.381055832msProcess6 lives: 259.181022644ms
+
+Process4 lives: 260.066986084ms
+Process5 lives: 260.717988014msProcess9 lives: 260.789990425ms
+
+Process0 lives: 260.994911194ms
+Process2 lives: 262.971043587ms
+Process8 lives: 263.365983963ms
+Process3 lives: 264.128088951msProcess10 lives: 264.185070992ms
+
+Process11 lives: 265.191078186ms
+Process7 lives: 269.677996635ms
+Result is 3.14159109108
+=======================================
+Use 269.677996635ms
+=======================================
+********** iter: 660000 *************
+Process8 lives: 267.717003822msProcess7 lives: 268.424987793msProcess2 lives: 268.358945847ms
+
+
+Process3 lives: 269.178986549msProcess11 lives: 269.24598217ms
+
+Process10 lives: 269.784927368ms
+Process6 lives: 271.098017693ms
+Process1 lives: 271.395921707ms
+Process0 lives: 270.973205566ms
+Process4 lives: 272.645950317ms
+Process5 lives: 278.17595005ms
+Process9 lives: 279.995083809ms
+Result is 3.14159113844
+=======================================
+Use 279.995083809ms
+=======================================
+********** iter: 680000 *************
+Process0 lives: 275.399923325msProcess3 lives: 275.820016861ms
+Process9 lives: 276.183009148ms
+Process8 lives: 276.052951813msProcess10 lives: 276.600003242msProcess1 lives: 276.98302269ms
+
+Process11 lives: 277.323961258ms
+
+
+Process2 lives: 280.449986458msProcess6 lives: 281.106948853msProcess5 lives: 280.694007874msProcess4 lives: 278.928041458ms
+
+
+
+Process7 lives: 302.5649786ms
+Result is 3.14159118298
+=======================================
+Use 302.5649786ms
+=======================================
+********** iter: 700000 *************
+Process0 lives: 283.818006516msProcess2 lives: 283.655047417ms
+Process9 lives: 284.078001976msProcess5 lives: 284.479022026msProcess11 lives: 284.451007843msProcess6 lives: 284.606933594ms
+
+Process1 lives: 284.963965416ms
+
+
+
+Process10 lives: 286.409020424ms
+Process8 lives: 287.526965141msProcess7 lives: 287.982940674ms
+
+Process3 lives: 288.859009743ms
+Process4 lives: 308.310985565ms
+Result is 3.14159122501
+=======================================
+Use 308.310985565ms
+=======================================
+********** iter: 720000 *************
+Process2 lives: 292.256951332ms
+Process11 lives: 292.558908463ms
+Process10 lives: 292.991042137msProcess4 lives: 293.228030205ms
+
+Process9 lives: 293.588995934msProcess7 lives: 294.147968292msProcess3 lives: 293.992996216ms
+
+
+Process6 lives: 296.350955963ms
+Process5 lives: 296.553969383msProcess8 lives: 296.648979187ms
+
+Process0 lives: 299.956083298ms
+Process1 lives: 321.168065071ms
+Result is 3.1415912647
+=======================================
+Use 321.168065071ms
+=======================================
+********** iter: 740000 *************
+Process6 lives: 300.233006477msProcess9 lives: 299.847960472msProcess2 lives: 300.004959106msProcess5 lives: 300.499916077ms
+
+
+
+Process4 lives: 302.193045616ms
+Process1 lives: 302.184939384ms
+Process10 lives: 303.058981895msProcess7 lives: 303.196907043ms
+
+Process8 lives: 304.471969604ms
+Process0 lives: 305.57012558msProcess3 lives: 305.478930473msProcess11 lives: 305.371046066ms
+
+
+Result is 3.14159130222
+=======================================
+Use 305.57012558ms
+=======================================
+********** iter: 760000 *************
+Process8 lives: 308.401942253ms
+Process4 lives: 308.969974518msProcess10 lives: 308.802962303msProcess11 lives: 308.891057968msProcess6 lives: 309.005022049msProcess5 lives: 308.899998665ms
+Process7 lives: 309.878945351ms
+
+
+
+
+Process1 lives: 312.227964401msProcess9 lives: 312.234997749ms
+
+Process2 lives: 313.384056091msProcess3 lives: 313.410043716ms
+
+Process0 lives: 317.745923996ms
+Result is 3.14159133779
+=======================================
+Use 317.745923996ms
+=======================================
+********** iter: 780000 *************
+Process4 lives: 316.573023796ms
+Process3 lives: 317.589998245msProcess8 lives: 317.716956139msProcess11 lives: 317.765951157ms
+
+
+Process0 lives: 319.64802742ms
+Process1 lives: 320.163011551msProcess2 lives: 320.273995399ms
+
+Process9 lives: 320.7000494msProcess6 lives: 321.210026741ms
+
+Process10 lives: 321.563005447ms
+Process7 lives: 326.672077179ms
+Process5 lives: 344.745993614ms
+Result is 3.14159137154
+=======================================
+Use 344.745993614ms
+=======================================
+********** iter: 800000 *************
+Process10 lives: 324.142932892ms
+Process11 lives: 325.029015541msProcess6 lives: 324.970006943ms
+
+Process5 lives: 325.762987137msProcess3 lives: 325.95205307ms
+
+Process8 lives: 325.729012489ms
+Process1 lives: 328.310966492ms
+Process4 lives: 329.753041267ms
+Process2 lives: 330.274939537ms
+Process9 lives: 333.904027939ms
+Process7 lives: 338.832974434ms
+Process0 lives: 343.209028244ms
+Result is 3.14159140358
+=======================================
+Use 343.209028244ms
+=======================================
+********** iter: 820000 *************
+Process1 lives: 332.385063171msProcess10 lives: 332.326054573ms
+Process6 lives: 333.016991615msProcess7 lives: 333.62197876ms
+Process8 lives: 333.258032799msProcess5 lives: 332.993030548msProcess4 lives: 332.913994789ms
+
+
+
+
+Process3 lives: 334.254026413ms
+Process0 lives: 332.770109177ms
+Process9 lives: 337.005019188ms
+Process11 lives: 337.689042091ms
+Process2 lives: 346.925020218ms
+Result is 3.14159143407
+=======================================
+Use 346.925020218ms
+=======================================
+********** iter: 840000 *************
+Process11 lives: 340.68608284msProcess4 lives: 340.938091278msProcess1 lives: 340.852022171msProcess8 lives: 341.824054718msProcess3 lives: 341.604948044msProcess6 lives: 342.07201004ms
+Process10 lives: 341.658949852ms
+Process7 lives: 341.197967529ms
+
+
+
+
+
+Process2 lives: 343.508958817msProcess0 lives: 344.287157059ms
+
+Process5 lives: 345.307946205msProcess9 lives: 345.158934593ms
+
+Result is 3.14159146311
+=======================================
+Use 345.307946205ms
+=======================================
+********** iter: 860000 *************
+Process4 lives: 348.703026772msProcess7 lives: 348.55401516msProcess1 lives: 348.683953285ms
+
+Process2 lives: 349.076032639ms
+Process10 lives: 348.857998848msProcess9 lives: 349.650025368ms
+
+
+Process8 lives: 352.15306282ms
+Process3 lives: 352.476000786ms
+Process11 lives: 353.181004524ms
+Process5 lives: 353.495001793ms
+Process0 lives: 355.862140656ms
+Process6 lives: 362.334012985ms
+Result is 3.14159149079
+=======================================
+Use 362.334012985ms
+=======================================
+********** iter: 880000 *************
+Process0 lives: 356.698036194ms
+Process8 lives: 357.043981552msProcess1 lives: 357.47897625msProcess6 lives: 357.1819067msProcess9 lives: 357.644915581ms
+
+
+
+Process11 lives: 358.832001686msProcess10 lives: 359.07804966ms
+
+Process4 lives: 360.327005386ms
+Process7 lives: 361.477017403ms
+Process2 lives: 362.30802536msProcess3 lives: 362.338066101msProcess5 lives: 362.243056297ms
+
+
+Result is 3.14159151722
+=======================================
+Use 362.338066101ms
+=======================================
+********** iter: 900000 *************
+Process6 lives: 365.033984184ms
+Process2 lives: 365.584969521ms
+Process1 lives: 366.31500721ms
+Process11 lives: 366.670966148msProcess7 lives: 366.963982582ms
+
+Process3 lives: 367.65897274ms
+Process8 lives: 367.964029312msProcess5 lives: 368.657946587ms
+
+Process9 lives: 369.904994965ms
+Process4 lives: 371.503949165ms
+Process0 lives: 373.21805954ms
+Process10 lives: 378.164052963ms
+Result is 3.14159154248
+=======================================
+Use 378.164052963ms
+=======================================
+********** iter: 920000 *************
+Process6 lives: 373.242974281msProcess3 lives: 373.538017273ms
+
+Process11 lives: 374.071002007msProcess5 lives: 374.238014221msProcess4 lives: 373.998999596ms
+Process1 lives: 374.350070953ms
+
+
+Process7 lives: 376.196980476msProcess2 lives: 376.143932343ms
+
+Process10 lives: 377.23505497ms
+Process8 lives: 377.671957016ms
+Process0 lives: 388.774871826ms
+Process9 lives: 391.078948975ms
+Result is 3.14159156662
+=======================================
+Use 391.078948975ms
+=======================================
+********** iter: 940000 *************
+Process2 lives: 382.094025612msProcess3 lives: 381.7050457msProcess4 lives: 381.799936295msProcess10 lives: 381.432056427msProcess6 lives: 381.55400753msProcess5 lives: 382.67993927msProcess11 lives: 382.13300705msProcess1 lives: 382.156968117ms
+
+
+
+
+
+
+
+Process0 lives: 385.039806366msProcess8 lives: 384.44507122ms
+
+Process7 lives: 385.722994804ms
+Process9 lives: 416.728973389ms
+Result is 3.14159158976
+=======================================
+Use 416.728973389ms
+=======================================
+********** iter: 960000 *************
+Process7 lives: 389.219999313msProcess6 lives: 389.958024025ms
+Process5 lives: 389.804959297msProcess8 lives: 390.246987343msProcess11 lives: 389.597058296msProcess3 lives: 390.484929085ms
+
+Process1 lives: 391.592025757ms
+
+
+
+Process0 lives: 389.490127563ms
+Process4 lives: 392.786026001ms
+Process2 lives: 393.705964088msProcess9 lives: 395.576000214msProcess10 lives: 393.918991089ms
+
+
+Result is 3.14159161192
+=======================================
+Use 395.576000214ms
+=======================================
+********** iter: 980000 *************
+Process0 lives: 397.622823715msProcess4 lives: 397.619962692ms
+Process5 lives: 398.273944855ms
+
+Process9 lives: 399.320006371ms
+Process11 lives: 400.599002838ms
+Process1 lives: 401.938915253ms
+Process10 lives: 402.570009232ms
+Process7 lives: 403.118014336msProcess2 lives: 403.223991394msProcess3 lives: 403.41591835ms
+
+
+Process8 lives: 403.668999672ms
+Process6 lives: 432.219982147ms
+Result is 3.14159163317
+=======================================
+Use 432.219982147ms
+=======================================
+********** iter: 1000000 *************
+Process8 lives: 405.390024185ms
+Process2 lives: 405.569911003ms
+Process9 lives: 405.943989754msProcess11 lives: 406.333088875msProcess3 lives: 406.319975853ms
+
+
+Process5 lives: 408.208012581msProcess4 lives: 408.618927002ms
+
+Process6 lives: 409.651994705msProcess10 lives: 409.342050552msProcess7 lives: 409.373998642ms
+
+
+Process1 lives: 410.314917564ms
+Process0 lives: 409.686803818ms
+Result is 3.14159165359
+=======================================
+Use 410.314917564ms
+=======================================
+********** iter: 1020000 *************
+Process1 lives: 413.455963135msProcess3 lives: 414.013028145msProcess9 lives: 413.861989975ms
+
+
+Process6 lives: 414.219975471ms
+Process4 lives: 414.610028267msProcess2 lives: 414.422988892msProcess8 lives: 415.217041969ms
+
+
+Process7 lives: 416.710972786ms
+Process11 lives: 417.11306572ms
+Process5 lives: 419.70705986ms
+Process10 lives: 425.019979477ms
+Process0 lives: 459.696054459ms
+Result is 3.1415916732
+=======================================
+Use 459.696054459ms
+=======================================
+********** iter: 1040000 *************
+Process2 lives: 421.849012375msProcess10 lives: 422.369003296ms
+Process9 lives: 422.345042229ms
+
+Process11 lives: 422.984004021ms
+Process3 lives: 423.403024673ms
+Process7 lives: 424.988031387ms
+Process8 lives: 425.073027611msProcess6 lives: 424.970030785ms
+
+Process1 lives: 425.451040268msProcess4 lives: 425.669074059ms
+
+Process0 lives: 431.185007095ms
+Process5 lives: 476.152062416ms
+Result is 3.14159169204
+=======================================
+Use 476.152062416ms
+=======================================
+*********node: 10 **************
+********** iter: 20000 *************
+Process0 lives: 10.3058815002msProcess6 lives: 10.6850862503msProcess8 lives: 10.4199647903msProcess3 lives: 10.6179714203msProcess2 lives: 10.4990005493msProcess1 lives: 10.528087616msProcess5 lives: 10.7328891754msProcess7 lives: 10.8599662781msProcess4 lives: 10.4769468307ms
+Process9 lives: 12.284040451ms
+
+
+
+
+
+
+
+
+Result is 3.14154265359
+=======================================
+Use 12.284040451ms
+=======================================
+********** iter: 40000 *************
+Process0 lives: 20.0200080872msProcess3 lives: 20.6010341644msProcess8 lives: 20.2740430832msProcess9 lives: 20.1740264893msProcess7 lives: 20.5999612808msProcess2 lives: 20.280957222msProcess5 lives: 20.4420089722msProcess6 lives: 20.3130245209msProcess1 lives: 20.0309753418msProcess4 lives: 20.1449394226ms
+
+
+
+
+
+
+
+
+
+Result is 3.14156765359
+=======================================
+Use 20.6010341644ms
+=======================================
+********** iter: 60000 *************
+Process0 lives: 29.4849872589msProcess4 lives: 29.590010643msProcess5 lives: 29.9971103668msProcess2 lives: 29.5090675354msProcess3 lives: 29.7529697418msProcess7 lives: 30.1079750061msProcess6 lives: 29.9980640411msProcess1 lives: 29.559969902msProcess8 lives: 29.7189950943msProcess9 lives: 29.9220085144ms
+
+
+
+
+
+
+
+
+
+Result is 3.14157598692
+=======================================
+Use 30.1079750061ms
+=======================================
+********** iter: 80000 *************
+Process0 lives: 39.3118858337msProcess1 lives: 39.3379926682msProcess4 lives: 39.5770072937msProcess6 lives: 40.2390956879msProcess9 lives: 39.6820306778msProcess5 lives: 39.7939682007msProcess8 lives: 39.6690368652msProcess7 lives: 39.8839712143msProcess2 lives: 39.3810272217msProcess3 lives: 39.6640300751ms
+
+
+
+
+
+
+
+
+
+Result is 3.14158015359
+=======================================
+Use 40.2390956879ms
+=======================================
+********** iter: 100000 *************
+Process0 lives: 49.1108894348msProcess2 lives: 49.3769645691msProcess4 lives: 49.4309663773msProcess9 lives: 49.2990016937msProcess5 lives: 49.6629476547msProcess3 lives: 49.4759082794msProcess8 lives: 49.1969585419msProcess7 lives: 50.1729249954msProcess1 lives: 50.1089096069ms
+
+
+
+
+
+
+
+
+Process6 lives: 53.9469718933ms
+Result is 3.14158265359
+=======================================
+Use 53.9469718933ms
+=======================================
+********** iter: 120000 *************
+Process1 lives: 58.5860013962msProcess4 lives: 58.7829351425msProcess8 lives: 58.5700273514msProcess9 lives: 59.338092804msProcess2 lives: 58.6268901825msProcess5 lives: 59.0380430222msProcess3 lives: 58.9170455933msProcess6 lives: 59.1700077057ms
+
+
+
+
+
+
+
+Process0 lives: 61.8679523468ms
+Process7 lives: 63.0578994751msResult is 3.14158432026
+
+=======================================
+Use 63.0578994751ms
+=======================================
+********** iter: 140000 *************
+Process2 lives: 68.598985672msProcess4 lives: 68.263053894msProcess6 lives: 68.6520338058msProcess7 lives: 69.4099664688msProcess1 lives: 68.6329603195msProcess8 lives: 68.3739185333msProcess9 lives: 68.638920784msProcess3 lives: 68.3299303055ms
+
+
+
+
+
+
+
+Process0 lives: 71.8140602112ms
+Process5 lives: 74.9529600143ms
+Result is 3.14158551073
+=======================================
+Use 74.9529600143ms
+=======================================
+********** iter: 160000 *************
+Process4 lives: 78.1240463257msProcess8 lives: 78.3100128174ms
+Process5 lives: 78.3640146255ms
+Process6 lives: 78.7600278854ms
+
+Process7 lives: 79.0380239487msProcess3 lives: 79.1070461273ms
+
+Process9 lives: 79.6610116959ms
+Process0 lives: 81.0511112213ms
+Process2 lives: 85.1418972015ms
+Process1 lives: 85.2389335632ms
+Result is 3.14158640359
+=======================================
+Use 85.2389335632ms
+=======================================
+********** iter: 180000 *************
+Process0 lives: 87.5837802887ms
+Process4 lives: 87.8930091858msProcess2 lives: 88.0570411682msProcess7 lives: 88.2170200348msProcess3 lives: 87.9499912262msProcess5 lives: 87.9518985748ms
+Process8 lives: 88.0470275879ms
+
+
+
+
+Process1 lives: 89.3450975418ms
+Process9 lives: 90.9260511398ms
+Process6 lives: 91.5739536285ms
+Result is 3.14158709803
+=======================================
+Use 91.5739536285ms
+=======================================
+********** iter: 200000 *************
+Process0 lives: 97.2399711609msProcess7 lives: 98.0709791183msProcess8 lives: 97.3619222641msProcess3 lives: 97.2839593887msProcess5 lives: 97.6279973984msProcess2 lives: 97.3349809647msProcess9 lives: 97.755074501msProcess4 lives: 97.6558923721msProcess1 lives: 97.2230434418ms
+
+
+
+
+
+
+
+Process6 lives: 99.5129346848ms
+
+Result is 3.14158765359
+=======================================
+Use 99.5129346848ms
+=======================================
+********** iter: 220000 *************
+Process1 lives: 106.788992882ms
+Process6 lives: 107.282996178msProcess8 lives: 107.450008392msProcess2 lives: 107.357978821msProcess9 lives: 107.102036476msProcess3 lives: 107.566952705ms
+
+
+
+
+Process4 lives: 108.806967735ms
+Process0 lives: 109.474897385ms
+Process7 lives: 111.80794239ms
+Process5 lives: 112.151026726ms
+Result is 3.14158810814
+=======================================
+Use 112.151026726ms
+=======================================
+********** iter: 240000 *************
+Process4 lives: 117.00296402msProcess5 lives: 117.449998856ms
+Process9 lives: 117.642998695msProcess7 lives: 117.519021034ms
+
+
+Process8 lives: 118.736982346ms
+Process2 lives: 118.830919266msProcess3 lives: 119.197964668ms
+
+Process0 lives: 117.429018021ms
+Process6 lives: 121.83201313ms
+Process1 lives: 128.530025482ms
+Result is 3.14158848692
+=======================================
+Use 128.530025482ms
+=======================================
+********** iter: 260000 *************
+Process8 lives: 126.636981964msProcess2 lives: 126.816034317msProcess6 lives: 126.762986183msProcess7 lives: 126.929044724msProcess1 lives: 126.399993896msProcess5 lives: 126.168966293msProcess4 lives: 126.832008362msProcess9 lives: 126.325011253ms
+
+
+
+
+
+
+
+Process3 lives: 128.180027008ms
+Process0 lives: 139.447927475ms
+Result is 3.14158880744
+=======================================
+Use 139.447927475ms
+=======================================
+********** iter: 280000 *************
+Process0 lives: 136.189937592msProcess4 lives: 136.404037476msProcess5 lives: 136.76404953msProcess2 lives: 136.330962181msProcess1 lives: 136.44194603msProcess6 lives: 136.690974236msProcess9 lives: 136.238098145msProcess7 lives: 137.50898838ms
+
+
+
+
+
+
+Process3 lives: 138.710021973ms
+
+Process8 lives: 143.893003464ms
+Result is 3.14158908216
+=======================================
+Use 143.893003464ms
+=======================================
+********** iter: 300000 *************
+Process3 lives: 145.859003067msProcess5 lives: 145.823955536msProcess8 lives: 145.586967468ms
+
+
+Process1 lives: 146.243095398msProcess2 lives: 146.535992622msProcess6 lives: 146.223068237msProcess7 lives: 146.881937981ms
+
+
+
+Process0 lives: 149.046182632ms
+Process4 lives: 149.600028992ms
+Process9 lives: 164.779067039ms
+Result is 3.14158932026
+=======================================
+Use 164.779067039ms
+=======================================
+********** iter: 320000 *************
+Process2 lives: 155.344009399msProcess1 lives: 155.882000923ms
+Process3 lives: 155.776023865msProcess6 lives: 156.403064728ms
+
+
+Process4 lives: 157.303929329ms
+Process8 lives: 158.604025841ms
+Process5 lives: 159.412026405ms
+Process9 lives: 160.387992859ms
+Process7 lives: 163.030028343ms
+Process0 lives: 164.112091064ms
+Result is 3.14158952859
+=======================================
+Use 164.112091064ms
+=======================================
+********** iter: 340000 *************
+Process2 lives: 165.223956108ms
+Process3 lives: 165.56096077msProcess5 lives: 166.05591774msProcess1 lives: 165.819048882msProcess9 lives: 165.382027626msProcess7 lives: 165.918946266msProcess4 lives: 165.902972221msProcess8 lives: 166.475892067ms
+
+
+
+
+
+
+Process0 lives: 169.717073441ms
+Process6 lives: 170.047044754ms
+Result is 3.14158971241
+=======================================
+Use 170.047044754ms
+=======================================
+********** iter: 360000 *************
+Process8 lives: 175.054073334ms
+Process6 lives: 175.405979156msProcess9 lives: 175.413966179ms
+
+Process3 lives: 176.240921021ms
+Process2 lives: 177.18911171ms
+Process0 lives: 178.521871567msProcess5 lives: 178.614974022ms
+
+Process7 lives: 180.419921875ms
+Process1 lives: 191.514968872ms
+Process4 lives: 191.920995712ms
+Result is 3.14158987581
+=======================================
+Use 191.920995712ms
+=======================================
+********** iter: 380000 *************
+Process4 lives: 184.508919716ms
+Process5 lives: 184.772014618msProcess1 lives: 184.762001038msProcess9 lives: 184.499979019msProcess3 lives: 184.458017349ms
+
+
+
+Process6 lives: 185.984969139ms
+Process2 lives: 187.008976936ms
+Process0 lives: 188.795089722msProcess8 lives: 187.538027763ms
+
+Process7 lives: 191.646933556ms
+Result is 3.14159002201
+=======================================
+Use 191.646933556ms
+=======================================
+********** iter: 400000 *************
+Process0 lives: 194.656133652msProcess9 lives: 194.728016853msProcess2 lives: 194.759964943msProcess6 lives: 195.291042328msProcess4 lives: 194.756984711msProcess1 lives: 194.617033005msProcess3 lives: 194.823980331ms
+
+
+
+
+
+Process5 lives: 196.442961693ms
+
+Process7 lives: 199.893951416ms
+Process8 lives: 215.058922768ms
+Result is 3.14159015359
+=======================================
+Use 215.058922768ms
+=======================================
+********** iter: 420000 *************
+Process7 lives: 204.823970795msProcess5 lives: 204.751014709msProcess8 lives: 204.686045647msProcess3 lives: 204.935073853msProcess4 lives: 204.899907112msProcess2 lives: 205.291986465ms
+
+Process9 lives: 205.199956894ms
+
+
+
+
+Process0 lives: 208.325147629ms
+Process6 lives: 212.11707592ms
+Process1 lives: 231.390953064ms
+Result is 3.14159027264
+=======================================
+Use 231.390953064ms
+=======================================
+********** iter: 440000 *************
+Process6 lives: 214.033007622msProcess3 lives: 214.085936546ms
+Process9 lives: 214.469909668ms
+Process7 lives: 215.115070343ms
+
+Process8 lives: 215.596914291ms
+Process4 lives: 215.716004372ms
+Process2 lives: 216.352939606ms
+Process5 lives: 217.158079147msProcess1 lives: 218.309998512ms
+
+Process0 lives: 222.68819809ms
+Result is 3.14159038086
+=======================================
+Use 222.68819809ms
+=======================================
+********** iter: 460000 *************
+Process5 lives: 224.305987358msProcess3 lives: 223.810911179msProcess8 lives: 223.890066147msProcess1 lives: 223.790049553msProcess2 lives: 223.886013031msProcess6 lives: 224.040985107msProcess4 lives: 224.161982536msProcess7 lives: 224.05397892ms
+
+
+
+
+
+
+
+Process0 lives: 227.44512558msProcess9 lives: 227.445006371ms
+
+Result is 3.14159047968
+=======================================
+Use 227.44512558ms
+=======================================
+********** iter: 480000 *************
+Process9 lives: 233.430981636msProcess6 lives: 234.448075294msProcess4 lives: 233.57796669msProcess2 lives: 233.800053596msProcess7 lives: 233.755946159ms
+Process1 lives: 233.716964722ms
+
+
+
+
+Process8 lives: 238.157987595ms
+Process5 lives: 238.669991493ms
+Process0 lives: 255.44500351ms
+Process3 lives: 264.716029167ms
+Result is 3.14159057026
+=======================================
+Use 264.716029167ms
+=======================================
+********** iter: 500000 *************
+Process6 lives: 243.582010269msProcess7 lives: 243.131995201msProcess8 lives: 243.486046791msProcess5 lives: 243.435025215ms
+
+Process2 lives: 244.091033936msProcess9 lives: 243.929982185ms
+
+
+Process1 lives: 244.916915894ms
+Process4 lives: 245.243906975ms
+
+Process0 lives: 243.541002274ms
+Process3 lives: 247.167110443ms
+Result is 3.14159065359
+=======================================
+Use 247.167110443ms
+=======================================
+********** iter: 520000 *************
+Process9 lives: 252.872943878msProcess2 lives: 253.069996834msProcess5 lives: 253.147959709msProcess6 lives: 253.120064735msProcess8 lives: 253.13603878ms
+
+
+Process7 lives: 254.02200222ms
+
+Process3 lives: 254.485011101ms
+
+Process4 lives: 255.472064018ms
+Process0 lives: 257.409095764ms
+Process1 lives: 259.985089302ms
+Result is 3.14159073051
+=======================================
+Use 259.985089302ms
+=======================================
+********** iter: 540000 *************
+Process2 lives: 262.596964836msProcess4 lives: 263.193011284msProcess1 lives: 262.878060341msProcess3 lives: 262.740969658msProcess8 lives: 263.007044792ms
+
+
+
+
+Process7 lives: 264.142036438msProcess5 lives: 264.305949211ms
+
+Process9 lives: 265.674948692ms
+Process6 lives: 267.36998558ms
+Process0 lives: 271.58498764ms
+Result is 3.14159080174
+=======================================
+Use 271.58498764ms
+=======================================
+********** iter: 560000 *************
+Process9 lives: 272.214055061ms
+Process3 lives: 272.948026657msProcess6 lives: 273.187994957msProcess8 lives: 273.095965385msProcess4 lives: 272.805929184ms
+
+
+
+Process5 lives: 275.071024895ms
+Process2 lives: 275.749921799ms
+Process1 lives: 277.111053467ms
+Process7 lives: 277.727007866ms
+Process0 lives: 281.895875931ms
+Result is 3.14159086788
+=======================================
+Use 281.895875931ms
+=======================================
+********** iter: 580000 *************
+Process7 lives: 282.52196312msProcess8 lives: 283.16795826msProcess2 lives: 282.350063324msProcess1 lives: 282.132029533msProcess3 lives: 283.022999763msProcess6 lives: 282.852053642msProcess5 lives: 282.180070877ms
+
+
+
+
+
+
+Process0 lives: 282.77015686ms
+Process9 lives: 286.576986313ms
+Process4 lives: 310.320973396ms
+Result is 3.14159092945
+=======================================
+Use 310.320973396ms
+=======================================
+********** iter: 600000 *************
+Process0 lives: 292.247056961ms
+Process4 lives: 292.785048485msProcess9 lives: 292.613983154msProcess6 lives: 292.731046677msProcess2 lives: 292.690992355msProcess7 lives: 292.544007301msProcess5 lives: 292.9469347msProcess1 lives: 293.496966362ms
+
+
+
+
+
+
+Process3 lives: 296.165943146ms
+Process8 lives: 331.712007523ms
+Result is 3.14159098692
+=======================================
+Use 331.712007523ms
+=======================================
+********** iter: 620000 *************
+Process3 lives: 302.152991295msProcess8 lives: 302.232027054ms
+Process5 lives: 302.745103836ms
+
+Process7 lives: 303.16400528msProcess2 lives: 303.418040276msProcess6 lives: 303.434967995ms
+
+
+Process1 lives: 305.382966995msProcess4 lives: 304.615974426msProcess9 lives: 305.205106735ms
+
+
+Process0 lives: 345.065832138ms
+Result is 3.14159104069
+=======================================
+Use 345.065832138ms
+=======================================
+********** iter: 640000 *************
+Process9 lives: 311.360001564msProcess4 lives: 311.16092205msProcess5 lives: 311.828017235msProcess1 lives: 312.279939651ms
+Process3 lives: 312.106013298ms
+
+
+
+Process7 lives: 312.705039978msProcess8 lives: 313.310027122ms
+
+Process0 lives: 314.821958542msProcess2 lives: 314.800024033ms
+
+Process6 lives: 315.555930138ms
+Result is 3.14159109109
+=======================================
+Use 315.555930138ms
+=======================================
+********** iter: 660000 *************
+Process7 lives: 321.251034737msProcess2 lives: 321.179986msProcess9 lives: 321.323990822msProcess1 lives: 321.761012077ms
+Process5 lives: 321.895003319ms
+
+
+Process6 lives: 322.720050812ms
+
+Process0 lives: 324.329853058ms
+Process8 lives: 325.510025024ms
+Process4 lives: 326.208949089msProcess3 lives: 326.346993446ms
+
+Result is 3.14159113844
+=======================================
+Use 326.346993446ms
+=======================================
+********** iter: 680000 *************
+Process1 lives: 330.570936203ms
+Process8 lives: 331.35509491msProcess9 lives: 330.974936485msProcess2 lives: 331.219911575ms
+
+
+Process5 lives: 331.682085991ms
+Process6 lives: 333.43398571ms
+Process0 lives: 333.442926407ms
+Process7 lives: 338.938951492ms
+Process4 lives: 344.249010086ms
+Process3 lives: 361.279010773ms
+Result is 3.141591183
+=======================================
+Use 361.279010773ms
+=======================================
+********** iter: 700000 *************
+Process4 lives: 340.924978256msProcess8 lives: 341.199040413msProcess5 lives: 341.557979584ms
+
+
+Process6 lives: 343.351006508ms
+Process0 lives: 343.657970428ms
+Process9 lives: 344.944953918ms
+Process7 lives: 349.080920219ms
+Process2 lives: 353.610992432ms
+Process1 lives: 372.582912445ms
+Process3 lives: 386.069059372ms
+Result is 3.14159122502
+=======================================
+Use 386.069059372ms
+=======================================
+********** iter: 720000 *************
+Process0 lives: 350.311994553ms
+Process2 lives: 351.034045219msProcess4 lives: 351.276040077ms
+Process3 lives: 350.884914398ms
+
+Process7 lives: 352.463960648ms
+Process9 lives: 353.583097458ms
+Process6 lives: 354.218959808ms
+Process1 lives: 355.471968651ms
+Process5 lives: 357.282042503ms
+Process8 lives: 378.628015518ms
+Result is 3.1415912647
+=======================================
+Use 378.628015518ms
+=======================================
+********** iter: 740000 *************
+Process0 lives: 361.119031906msProcess3 lives: 361.021995544msProcess8 lives: 360.965967178ms
+Process5 lives: 361.191034317msProcess9 lives: 361.061930656ms
+
+
+Process4 lives: 362.414002419msProcess7 lives: 362.675070763ms
+
+
+Process6 lives: 365.104079247ms
+Process1 lives: 367.061018944ms
+Process2 lives: 378.684043884ms
+Result is 3.14159130224
+=======================================
+Use 378.684043884ms
+=======================================
+********** iter: 760000 *************
+Process5 lives: 370.341062546msProcess7 lives: 370.736002922msProcess6 lives: 370.12898922msProcess8 lives: 370.198011398msProcess3 lives: 370.299935341ms
+
+
+
+
+Process2 lives: 371.531009674ms
+Process4 lives: 372.434973717ms
+Process0 lives: 370.419025421ms
+Process9 lives: 373.533010483ms
+Process1 lives: 374.957919121ms
+Result is 3.1415913378
+=======================================
+Use 374.957919121ms
+=======================================
+********** iter: 780000 *************
+Process8 lives: 379.455089569msProcess9 lives: 379.549980164ms
+
+Process2 lives: 380.414962769msProcess1 lives: 380.012989044ms
+Process7 lives: 380.620002747ms
+
+Process3 lives: 382.587075233ms
+Process5 lives: 383.827090263msProcess6 lives: 383.960962296ms
+
+Process4 lives: 384.478926659ms
+Process0 lives: 387.198209763ms
+Result is 3.14159137154
+=======================================
+Use 387.198209763ms
+=======================================
+********** iter: 800000 *************
+Process8 lives: 389.022946358ms
+Process3 lives: 389.680981636ms
+Process1 lives: 389.824986458ms
+Process7 lives: 390.305995941ms
+Process6 lives: 391.54791832ms
+Process5 lives: 392.192006111ms
+Process2 lives: 392.632007599ms
+Process0 lives: 393.916845322msProcess9 lives: 393.943071365ms
+
+Process4 lives: 398.320913315ms
+Result is 3.14159140359
+=======================================
+Use 398.320913315ms
+=======================================
+********** iter: 820000 *************
+Process7 lives: 398.892045021msProcess4 lives: 398.566007614msProcess5 lives: 400.555968285msProcess2 lives: 399.277925491ms
+Process3 lives: 398.907899857ms
+Process8 lives: 399.567008018msProcess1 lives: 398.968935013msProcess9 lives: 399.168968201msProcess6 lives: 399.222970009ms
+
+
+
+
+
+
+Process0 lives: 405.008077621ms
+Result is 3.14159143408
+=======================================
+Use 405.008077621ms
+=======================================
+********** iter: 840000 *************
+Process9 lives: 408.944964409msProcess7 lives: 408.731937408msProcess6 lives: 409.976005554msProcess4 lives: 409.653902054msProcess2 lives: 409.197092056msProcess8 lives: 409.389019012ms
+
+
+
+
+
+Process1 lives: 413.622975349ms
+Process0 lives: 416.81098938msProcess5 lives: 416.896939278ms
+
+Process3 lives: 460.695981979ms
+Result is 3.14159146311
+=======================================
+Use 460.695981979ms
+=======================================
+********** iter: 860000 *************
+Process3 lives: 418.941020966msProcess4 lives: 418.9889431msProcess7 lives: 418.99895668ms
+
+
+Process6 lives: 419.834971428msProcess5 lives: 420.497059822msProcess1 lives: 420.086026192ms
+
+
+Process9 lives: 421.805977821ms
+Process0 lives: 422.534942627ms
+Process2 lives: 422.806024551ms
+Process8 lives: 473.874926567ms
+Result is 3.1415914908
+=======================================
+Use 473.874926567ms
+=======================================
+********** iter: 880000 *************
+Process9 lives: 429.967999458msProcess4 lives: 427.978038788msProcess1 lives: 430.271983147ms
+
+
+Process6 lives: 429.230928421ms
+Process5 lives: 432.183027267ms
+Process2 lives: 431.157946587ms
+Process0 lives: 432.538986206ms
+Process7 lives: 434.937000275ms
+Process8 lives: 435.096979141ms
+Process3 lives: 450.44195652ms
+Result is 3.14159151723
+=======================================
+Use 450.44195652ms
+=======================================
+********** iter: 900000 *************
+Process4 lives: 438.40098381msProcess7 lives: 438.449025154msProcess8 lives: 438.078999519msProcess2 lives: 438.822031021msProcess1 lives: 438.458919525ms
+
+
+
+
+Process6 lives: 439.249992371ms
+Process0 lives: 440.946102142ms
+Process9 lives: 441.422939301ms
+Process3 lives: 443.488001823ms
+Process5 lives: 443.788051605ms
+Result is 3.14159154248
+=======================================
+Use 443.788051605ms
+=======================================
+********** iter: 920000 *************
+Process9 lives: 448.050022125msProcess1 lives: 448.498010635ms
+Process7 lives: 448.394060135msProcess8 lives: 448.742032051ms
+
+
+Process2 lives: 450.170993805ms
+Process5 lives: 451.291918755ms
+Process4 lives: 452.545046806ms
+Process3 lives: 453.220963478ms
+Process0 lives: 455.73091507ms
+Process6 lives: 483.474969864ms
+Result is 3.14159156663
+=======================================
+Use 483.474969864ms
+=======================================
+********** iter: 940000 *************
+Process4 lives: 457.273006439msProcess7 lives: 457.656979561msProcess1 lives: 457.5060606ms
+
+
+Process6 lives: 458.551049232msProcess3 lives: 458.112955093ms
+
+Process9 lives: 460.315942764ms
+Process2 lives: 461.235046387ms
+Process8 lives: 462.375998497ms
+Process5 lives: 465.426087379ms
+Process0 lives: 466.372013092ms
+Result is 3.14159158976
+=======================================
+Use 466.372013092ms
+=======================================
+********** iter: 960000 *************
+Process1 lives: 467.07201004ms
+Process4 lives: 467.558979988msProcess6 lives: 467.724919319ms
+Process9 lives: 468.201994896ms
+
+Process2 lives: 468.54698658ms
+Process3 lives: 468.988060951ms
+Process0 lives: 470.077991486ms
+Process7 lives: 470.964074135ms
+Process5 lives: 471.912026405ms
+Process8 lives: 472.937941551ms
+Result is 3.14159161192
+=======================================
+Use 472.937941551ms
+=======================================
+********** iter: 980000 *************
+Process4 lives: 476.891040802msProcess1 lives: 477.067947388ms
+
+Process2 lives: 477.409005165msProcess5 lives: 477.624893188ms
+
+Process3 lives: 478.564023972msProcess0 lives: 480.072975159msProcess7 lives: 486.729979515ms
+Process6 lives: 480.876088142msProcess9 lives: 480.138897896ms
+
+
+
+Process8 lives: 539.929032326ms
+Result is 3.14159163318
+=======================================
+Use 539.929032326ms
+=======================================
+********** iter: 1000000 *************
+Process3 lives: 487.458944321ms
+Process9 lives: 487.79797554ms
+Process4 lives: 488.024115562ms
+Process5 lives: 489.834070206msProcess7 lives: 489.686965942ms
+
+Process6 lives: 491.106987msProcess8 lives: 491.037011147ms
+
+Process1 lives: 492.060065269ms
+Process2 lives: 492.990970612ms
+Process0 lives: 494.88902092ms
+Result is 3.14159165359
+=======================================
+Use 494.88902092ms
+=======================================
+********** iter: 1020000 *************
+Process1 lives: 496.363997459msProcess5 lives: 496.891021729msProcess7 lives: 496.93608284ms
+
+
+Process4 lives: 497.398018837msProcess8 lives: 497.486948967ms
+
+Process0 lives: 498.781919479ms
+Process6 lives: 499.477982521ms
+Process3 lives: 500.698924065ms
+Process9 lives: 504.130005836ms
+Process2 lives: 507.324934006ms
+Result is 3.1415916732
+=======================================
+Use 507.324934006ms
+=======================================
+********** iter: 1040000 *************
+Process6 lives: 505.910992622msProcess7 lives: 506.115078926ms
+
+Process5 lives: 506.923079491msProcess8 lives: 506.69503212ms
+
+Process2 lives: 507.284045219ms
+Process1 lives: 508.908033371ms
+Process3 lives: 511.831045151ms
+Process0 lives: 514.767169952ms
+Process9 lives: 556.506037712msProcess4 lives: 556.493997574ms
+
+Result is 3.14159169205
+=======================================
+Use 556.506037712ms
+=======================================
+*********node: 8 **************
+********** iter: 20000 *************
+Process3 lives: 13.3709907532msProcess6 lives: 13.2108926773msProcess2 lives: 13.6330127716msProcess5 lives: 13.1460428238msProcess7 lives: 13.2499933243msProcess4 lives: 13.0000114441msProcess1 lives: 12.8750801086ms
+
+
+
+
+
+
+Process0 lives: 17.550945282ms
+Result is 3.14154265359
+=======================================
+Use 17.550945282ms
+=======================================
+********** iter: 40000 *************
+Process0 lives: 25.2599716187msProcess4 lives: 25.337100029msProcess2 lives: 25.426030159msProcess6 lives: 25.4360437393msProcess7 lives: 25.4429578781ms
+
+Process5 lives: 24.6249437332msProcess1 lives: 24.7429609299ms
+
+
+
+
+Process3 lives: 30.7420492172ms
+Result is 3.14156765359
+=======================================
+Use 30.7420492172ms
+=======================================
+********** iter: 60000 *************
+Process6 lives: 37.6670360565msProcess1 lives: 37.4050140381msProcess3 lives: 37.6049280167msProcess2 lives: 37.2910499573msProcess7 lives: 37.6679897308msProcess5 lives: 37.6340150833ms
+
+
+Process4 lives: 39.0309095383ms
+
+
+
+Process0 lives: 40.7381057739ms
+Result is 3.14157598692
+=======================================
+Use 40.7381057739ms
+=======================================
+********** iter: 80000 *************
+Process0 lives: 49.5870113373msProcess3 lives: 50.1090288162msProcess2 lives: 49.7699975967msProcess4 lives: 49.7620105743msProcess7 lives: 50.274014473msProcess1 lives: 50.4570007324msProcess5 lives: 50.2290725708msProcess6 lives: 50.0710010529ms
+
+
+
+
+
+
+
+Result is 3.14158015359
+=======================================
+Use 50.4570007324ms
+=======================================
+********** iter: 100000 *************
+Process0 lives: 61.8319511414msProcess1 lives: 61.7229938507msProcess2 lives: 62.2169971466msProcess6 lives: 62.5849962234msProcess7 lives: 62.6720190048msProcess5 lives: 62.1650218964msProcess4 lives: 62.6339912415msProcess3 lives: 62.2099637985ms
+
+
+
+
+
+
+
+Result is 3.14158265359
+=======================================
+Use 62.6720190048ms
+=======================================
+********** iter: 120000 *************
+Process5 lives: 74.5450258255msProcess3 lives: 74.8649835587msProcess1 lives: 74.4090080261msProcess6 lives: 74.4270086288msProcess4 lives: 74.4000673294msProcess7 lives: 74.5029449463ms
+
+
+
+
+Process2 lives: 75.9539604187ms
+
+Process0 lives: 77.2800445557ms
+Result is 3.14158432026
+=======================================
+Use 77.2800445557ms
+=======================================
+********** iter: 140000 *************
+Process1 lives: 86.3679647446msProcess4 lives: 86.3909721375msProcess5 lives: 87.0999097824msProcess3 lives: 86.5089893341msProcess7 lives: 86.8140459061msProcess2 lives: 86.3080024719ms
+Process6 lives: 87.3899459839ms
+
+
+
+
+
+Process0 lives: 92.2420024872ms
+Result is 3.14158551073
+=======================================
+Use 92.2420024872ms
+=======================================
+********** iter: 160000 *************
+Process0 lives: 98.6399650574ms
+Process3 lives: 98.5069274902msProcess1 lives: 99.5270013809msProcess6 lives: 98.9758968353msProcess7 lives: 98.5729694366msProcess5 lives: 98.778963089msProcess2 lives: 98.8310575485msProcess4 lives: 98.984003067ms
+
+
+
+
+
+
+Result is 3.14158640359
+=======================================
+Use 99.5270013809ms
+=======================================
+********** iter: 180000 *************
+Process3 lives: 111.31799221msProcess2 lives: 111.394047737msProcess6 lives: 111.5629673msProcess5 lives: 111.858010292ms
+Process7 lives: 111.742019653ms
+
+
+
+Process1 lives: 114.289999008ms
+Process4 lives: 114.753961563ms
+Process0 lives: 114.52293396ms
+Result is 3.14158709803
+=======================================
+Use 114.753961563ms
+=======================================
+********** iter: 200000 *************
+Process0 lives: 123.14414978ms
+Process6 lives: 123.492956161msProcess4 lives: 123.522043228msProcess7 lives: 123.674988747msProcess3 lives: 123.851060867msProcess5 lives: 123.492956161ms
+
+
+
+
+Process2 lives: 125.064015388ms
+Process1 lives: 127.33900547ms
+Result is 3.14158765359
+=======================================
+Use 127.33900547ms
+=======================================
+********** iter: 220000 *************
+Process2 lives: 135.452032089msProcess1 lives: 135.881066322msProcess4 lives: 135.754942894ms
+Process6 lives: 135.890007019msProcess7 lives: 136.503100395ms
+
+
+
+Process3 lives: 138.949036598ms
+Process5 lives: 139.560937881ms
+Process0 lives: 142.200946808ms
+Result is 3.14158810814
+=======================================
+Use 142.200946808ms
+=======================================
+********** iter: 240000 *************
+Process0 lives: 147.520065308ms
+Process6 lives: 148.023962975msProcess2 lives: 148.089051247msProcess3 lives: 148.06997776msProcess1 lives: 147.687911987ms
+
+
+
+Process4 lives: 148.791074753msProcess5 lives: 148.847937584ms
+
+Process7 lives: 162.927031517ms
+Result is 3.14158848692
+=======================================
+Use 162.927031517ms
+=======================================
+********** iter: 260000 *************
+Process1 lives: 160.542964935msProcess5 lives: 160.140991211msProcess2 lives: 160.148024559msProcess4 lives: 160.447955132msProcess3 lives: 160.091042519ms
+Process7 lives: 161.072015762ms
+Process6 lives: 160.647034645ms
+
+
+
+
+Process0 lives: 163.420915604ms
+Result is 3.14158880744
+=======================================
+Use 163.420915604ms
+=======================================
+********** iter: 280000 *************
+Process4 lives: 172.519922256ms
+Process3 lives: 173.152089119msProcess2 lives: 172.819972038msProcess7 lives: 173.117041588ms
+
+
+Process5 lives: 174.059987068ms
+Process6 lives: 174.627065659ms
+Process0 lives: 176.014900208ms
+Process1 lives: 185.22298336ms
+Result is 3.14158908216
+=======================================
+Use 185.22298336ms
+=======================================
+********** iter: 300000 *************
+Process2 lives: 185.343027115msProcess1 lives: 185.537099838msProcess5 lives: 185.737013817msProcess4 lives: 185.600996017msProcess7 lives: 185.852050781ms
+Process6 lives: 185.879945755msProcess0 lives: 187.78181076ms
+
+Process3 lives: 190.577983856ms
+
+
+
+
+Result is 3.14158932026
+=======================================
+Use 190.577983856ms
+=======================================
+********** iter: 320000 *************
+Process5 lives: 197.234988213msProcess1 lives: 197.222948074msProcess7 lives: 197.42000103msProcess2 lives: 197.20697403msProcess3 lives: 198.129057884ms
+
+
+
+Process4 lives: 198.456048965ms
+
+Process6 lives: 199.352025986ms
+Process0 lives: 200.789928436ms
+Result is 3.14158952859
+=======================================
+Use 200.789928436ms
+=======================================
+********** iter: 340000 *************
+Process2 lives: 209.455013275msProcess5 lives: 209.651947021msProcess4 lives: 209.683895111msProcess3 lives: 209.88702774ms
+
+
+
+Process6 lives: 210.206031799ms
+Process0 lives: 209.607124329ms
+Process1 lives: 211.511969566ms
+Process7 lives: 214.38896656ms
+Result is 3.14158971241
+=======================================
+Use 214.38896656ms
+=======================================
+********** iter: 360000 *************
+Process2 lives: 221.735954285msProcess6 lives: 222.252964973msProcess1 lives: 222.196936607msProcess7 lives: 222.236990929msProcess5 lives: 222.218990326msProcess4 lives: 222.002029419ms
+
+
+
+
+
+Process3 lives: 227.046966553ms
+Process0 lives: 251.499176025ms
+Result is 3.14158987581
+=======================================
+Use 251.499176025ms
+=======================================
+********** iter: 380000 *************
+Process0 lives: 234.096050262ms
+Process6 lives: 235.000967979ms
+Process4 lives: 235.202074051ms
+Process2 lives: 235.754013062msProcess3 lives: 235.829949379ms
+
+Process5 lives: 235.995054245msProcess7 lives: 236.240029335ms
+
+Process1 lives: 236.588001251ms
+Result is 3.14159002201
+=======================================
+Use 236.588001251ms
+=======================================
+********** iter: 400000 *************
+Process4 lives: 246.536970139msProcess2 lives: 246.636033058ms
+
+Process6 lives: 247.294068336ms
+Process0 lives: 248.287916183msProcess5 lives: 247.835993767ms
+
+Process7 lives: 251.350998878ms
+Process1 lives: 263.779997826ms
+Process3 lives: 265.406966209ms
+Result is 3.14159015359
+=======================================
+Use 265.406966209ms
+=======================================
+********** iter: 420000 *************
+Process6 lives: 259.171962738ms
+Process5 lives: 259.631037712ms
+Process7 lives: 261.489033699ms
+Process1 lives: 261.653900146ms
+Process2 lives: 262.004971504ms
+Process3 lives: 263.404011726ms
+Process0 lives: 267.061948776ms
+Process4 lives: 267.912983894ms
+Result is 3.14159027264
+=======================================
+Use 267.912983894ms
+=======================================
+********** iter: 440000 *************
+Process2 lives: 271.446943283msProcess1 lives: 271.402001381ms
+
+Process6 lives: 272.526979446msProcess5 lives: 272.899985313msProcess7 lives: 282.701015472ms
+Process3 lives: 272.704958916ms
+
+
+Process4 lives: 289.93999958ms
+Process0 lives: 297.793865204ms
+Result is 3.14159038086
+=======================================
+Use 297.793865204ms
+=======================================
+********** iter: 460000 *************
+Process5 lives: 283.926963806msProcess3 lives: 284.523963928msProcess1 lives: 284.206032753ms
+
+
+Process4 lives: 285.897016525msProcess2 lives: 286.159992218ms
+
+Process0 lives: 287.551879883ms
+Process7 lives: 287.732958794ms
+Process6 lives: 288.020014763ms
+Result is 3.14159047968
+=======================================
+Use 288.020014763ms
+=======================================
+********** iter: 480000 *************
+Process2 lives: 296.337008476msProcess4 lives: 296.188950539ms
+
+Process6 lives: 296.731948853msProcess5 lives: 297.055959702ms
+
+Process3 lives: 297.448992729ms
+Process0 lives: 296.389102936msProcess1 lives: 297.764062881ms
+
+Process7 lives: 300.705075264ms
+Result is 3.14159057026
+=======================================
+Use 300.705075264ms
+=======================================
+********** iter: 500000 *************
+Process2 lives: 308.793067932ms
+Process4 lives: 309.010028839ms
+Process3 lives: 309.900999069ms
+Process6 lives: 310.745000839ms
+Process7 lives: 311.118960381msProcess1 lives: 311.479091644ms
+
+Process5 lives: 312.652945518ms
+Process0 lives: 317.435026169ms
+Result is 3.14159065359
+=======================================
+Use 317.435026169ms
+=======================================
+********** iter: 520000 *************
+Process2 lives: 320.301055908ms
+Process7 lives: 321.180105209ms
+Process6 lives: 322.08096981ms
+Process1 lives: 322.671055794ms
+Process5 lives: 324.216961861ms
+Process4 lives: 324.783921242ms
+Process0 lives: 327.452898026ms
+Process3 lives: 327.788949013ms
+Result is 3.14159073051
+=======================================
+Use 327.788949013ms
+=======================================
+********** iter: 540000 *************
+Process0 lives: 333.250999451msProcess5 lives: 333.586931229ms
+
+Process3 lives: 334.640979767ms
+Process4 lives: 334.623098373ms
+Process6 lives: 336.550951004msProcess1 lives: 336.886048317ms
+
+Process7 lives: 339.303016663ms
+Process2 lives: 358.407974243ms
+Result is 3.14159080174
+=======================================
+Use 358.407974243ms
+=======================================
+********** iter: 560000 *************
+Process1 lives: 345.643043518msProcess2 lives: 345.376014709msProcess0 lives: 348.105192184ms
+Process4 lives: 347.06401825ms
+Process7 lives: 345.798969269msProcess5 lives: 346.335887909msProcess3 lives: 345.97492218ms
+
+
+
+
+Process6 lives: 388.564944267ms
+Result is 3.14159086788
+=======================================
+Use 388.564944267ms
+=======================================
+********** iter: 580000 *************
+Process7 lives: 357.581019402ms
+Process3 lives: 358.339905739msProcess4 lives: 358.345985413msProcess6 lives: 358.335018158ms
+
+
+Process1 lives: 359.609007835ms
+Process2 lives: 360.324025154ms
+Process0 lives: 360.064983368ms
+Process5 lives: 362.869977951ms
+Result is 3.14159092945
+=======================================
+Use 362.869977951ms
+=======================================
+********** iter: 600000 *************
+Process0 lives: 370.726823807msProcess7 lives: 370.802998543msProcess5 lives: 370.923042297ms
+
+Process6 lives: 371.237039566ms
+
+Process1 lives: 372.61402607msProcess3 lives: 372.545003891ms
+
+Process2 lives: 375.48995018ms
+Process4 lives: 388.553977013ms
+Result is 3.14159098692
+=======================================
+Use 388.553977013ms
+=======================================
+********** iter: 620000 *************
+Process7 lives: 382.193922997ms
+Process3 lives: 382.693052292msProcess4 lives: 383.016943932ms
+
+Process2 lives: 383.305907249ms
+Process5 lives: 386.32106781ms
+Process0 lives: 388.700008392ms
+Process6 lives: 389.214992523ms
+Process1 lives: 410.938978195ms
+Result is 3.14159104069
+=======================================
+Use 410.938978195ms
+=======================================
+********** iter: 640000 *************
+Process4 lives: 394.801974297ms
+Process0 lives: 397.329092026ms
+Process1 lives: 397.536039352ms
+Process2 lives: 398.826003075ms
+Process5 lives: 409.298062325ms
+Process6 lives: 410.585045815ms
+Process3 lives: 424.926042557ms
+Process7 lives: 441.975951195ms
+Result is 3.14159109109
+=======================================
+Use 441.975951195ms
+=======================================
+********** iter: 660000 *************
+Process0 lives: 406.978130341ms
+Process3 lives: 407.559037209ms
+Process5 lives: 408.012032509msProcess7 lives: 408.252000809ms
+
+Process2 lives: 408.403992653ms
+Process6 lives: 409.68298912ms
+Process4 lives: 411.180019379ms
+Process1 lives: 414.348006248ms
+Result is 3.14159113844
+=======================================
+Use 414.348006248ms
+=======================================
+********** iter: 680000 *************
+Process2 lives: 419.428944588ms
+Process4 lives: 420.04108429ms
+Process6 lives: 420.294046402msProcess5 lives: 420.631051064ms
+
+Process7 lives: 423.694014549ms
+Process0 lives: 427.098989487msProcess1 lives: 427.252054214ms
+
+Process3 lives: 451.158046722ms
+Result is 3.141591183
+=======================================
+Use 451.158046722ms
+=======================================
+********** iter: 700000 *************
+Process7 lives: 432.156085968ms
+Process5 lives: 432.14905262ms
+Process6 lives: 432.778954506ms
+Process4 lives: 435.357928276msProcess1 lives: 435.104966164msProcess3 lives: 435.58204174ms
+
+
+Process2 lives: 437.280058861ms
+Process0 lives: 491.320133209ms
+Result is 3.14159122502
+=======================================
+Use 491.320133209ms
+=======================================
+********** iter: 720000 *************
+Process6 lives: 443.729996681ms
+Process3 lives: 444.540977478ms
+Process7 lives: 445.097923279msProcess4 lives: 445.217967033ms
+
+Process1 lives: 447.332978249msProcess5 lives: 447.412967682ms
+
+Process0 lives: 449.903011322ms
+Process2 lives: 450.628995895ms
+Result is 3.1415912647
+=======================================
+Use 450.628995895ms
+=======================================
+********** iter: 740000 *************
+Process1 lives: 456.570982933msProcess2 lives: 456.802964211ms
+Process4 lives: 456.887960434msProcess6 lives: 456.866979599ms
+
+
+Process3 lives: 459.550023079ms
+Process5 lives: 460.554003716ms
+Process0 lives: 464.582920074ms
+Process7 lives: 473.991036415ms
+Result is 3.14159130224
+=======================================
+Use 473.991036415ms
+=======================================
+********** iter: 760000 *************
+Process0 lives: 469.233036041ms
+Process3 lives: 470.175981522ms
+Process7 lives: 471.421957016ms
+Process6 lives: 472.351908684msProcess2 lives: 472.265005112ms
+
+Process5 lives: 474.4399786ms
+Process4 lives: 476.348042488ms
+Process1 lives: 536.159038544ms
+Result is 3.1415913378
+=======================================
+Use 536.159038544ms
+=======================================
+********** iter: 780000 *************
+Process3 lives: 480.704903603msProcess1 lives: 480.745077133ms
+
+Process6 lives: 481.256008148msProcess2 lives: 481.489062309ms
+
+Process4 lives: 484.887003899ms
+Process7 lives: 485.547065735ms
+Process0 lives: 487.61510849ms
+Process5 lives: 486.059069633ms
+Result is 3.14159137154
+=======================================
+Use 487.61510849ms
+=======================================
+********** iter: 800000 *************
+Process3 lives: 493.354082108ms
+Process6 lives: 493.917942047ms
+Process4 lives: 494.239091873ms
+Process7 lives: 494.580030441msProcess1 lives: 494.325995445ms
+
+Process5 lives: 495.285987854ms
+Process2 lives: 496.065974236ms
+Process0 lives: 498.766899109ms
+Result is 3.14159140359
+=======================================
+Use 498.766899109ms
+=======================================
+********** iter: 820000 *************
+Process4 lives: 505.190968513ms
+Process2 lives: 506.810069084ms
+Process6 lives: 507.193088531ms
+Process0 lives: 507.031917572ms
+Process5 lives: 508.651971817msProcess1 lives: 508.622050285ms
+Process3 lives: 508.890032768ms
+Process7 lives: 509.405970573ms
+
+Result is 3.14159143408
+=======================================
+Use 509.405970573ms
+=======================================
+********** iter: 840000 *************
+Process6 lives: 518.779039383ms
+Process2 lives: 519.271969795ms
+Process5 lives: 521.33500576ms
+Process3 lives: 522.441983223ms
+Process4 lives: 522.810935974ms
+Process1 lives: 523.995995522ms
+Process0 lives: 524.775028229ms
+Process7 lives: 528.62405777ms
+Result is 3.14159146311
+=======================================
+Use 528.62405777ms
+=======================================
+********** iter: 860000 *************
+Process5 lives: 530.035018921ms
+Process2 lives: 531.392931938ms
+Process0 lives: 532.94801712ms
+Process6 lives: 534.119009972ms
+Process1 lives: 534.512996674ms
+Process3 lives: 535.334944725ms
+Process4 lives: 537.55402565ms
+Process7 lives: 538.994073868ms
+Result is 3.1415914908
+=======================================
+Use 538.994073868ms
+=======================================
+********** iter: 880000 *************
+Process3 lives: 543.303012848msProcess2 lives: 543.648004532ms
+Process1 lives: 543.812990189msProcess7 lives: 544.333934784ms
+
+
+Process4 lives: 545.181035995ms
+Process6 lives: 546.651959419ms
+Process5 lives: 547.48904705ms
+Process0 lives: 549.732923508ms
+Result is 3.14159151723
+=======================================
+Use 549.732923508ms
+=======================================
+********** iter: 900000 *************
+Process7 lives: 555.457949638msProcess3 lives: 555.666923523ms
+Process4 lives: 555.876016617ms
+Process1 lives: 555.129051208ms
+
+Process6 lives: 556.732058525msProcess5 lives: 555.750012398ms
+
+Process0 lives: 555.886983871ms
+Process2 lives: 559.486985207ms
+Result is 3.14159154248
+=======================================
+Use 559.486985207ms
+=======================================
+********** iter: 920000 *************
+Process7 lives: 568.082094193msProcess6 lives: 568.399071693ms
+
+Process3 lives: 568.735003471msProcess2 lives: 569.059967995msProcess5 lives: 568.610072136ms
+
+
+Process0 lives: 570.859909058ms
+Process1 lives: 574.734091759ms
+Process4 lives: 575.271010399ms
+Result is 3.14159156663
+=======================================
+Use 575.271010399ms
+=======================================
+********** iter: 940000 *************
+Process0 lives: 580.574035645msProcess4 lives: 580.585002899msProcess6 lives: 580.655932426ms
+
+Process2 lives: 581.102967262ms
+
+Process5 lives: 583.39703083ms
+Process1 lives: 583.552002907ms
+Process3 lives: 584.005951881ms
+Process7 lives: 587.571978569ms
+Result is 3.14159158976
+=======================================
+Use 587.571978569ms
+=======================================
+********** iter: 960000 *************
+Process2 lives: 592.857003212ms
+Process3 lives: 593.451976776ms
+Process0 lives: 594.388961792ms
+Process6 lives: 596.497058868msProcess5 lives: 596.771001816ms
+
+Process7 lives: 597.31900692ms
+Process1 lives: 600.425004959ms
+Process4 lives: 606.948971748ms
+Result is 3.14159161192
+=======================================
+Use 606.948971748ms
+=======================================
+********** iter: 980000 *************
+Process2 lives: 604.272961617msProcess3 lives: 604.400038719ms
+
+Process4 lives: 605.620980263ms
+Process7 lives: 606.310963631ms
+Process1 lives: 609.218001366ms
+Process0 lives: 610.564947128ms
+Process5 lives: 611.469984055ms
+Process6 lives: 615.399956703ms
+Result is 3.14159163318
+=======================================
+Use 615.399956703ms
+=======================================
+********** iter: 1000000 *************
+Process0 lives: 617.934942245msProcess7 lives: 618.308901787msProcess6 lives: 618.361949921msProcess3 lives: 617.926001549msProcess1 lives: 618.247032166msProcess4 lives: 618.075966835ms
+
+
+
+
+
+Process2 lives: 619.843959808ms
+Process5 lives: 621.501088142ms
+Result is 3.14159165359
+=======================================
+Use 621.501088142ms
+=======================================
+********** iter: 1020000 *************
+Process4 lives: 629.727005959msProcess7 lives: 629.750013351msProcess3 lives: 630.104899406msProcess5 lives: 630.035996437ms
+
+
+
+Process6 lives: 631.223082542ms
+Process2 lives: 633.427977562ms
+Process0 lives: 635.082006454ms
+Process1 lives: 635.981917381ms
+Result is 3.1415916732
+=======================================
+Use 635.981917381ms
+=======================================
+********** iter: 1040000 *************
+Process6 lives: 642.475962639ms
+Process2 lives: 642.712950706ms
+Process1 lives: 644.613027573ms
+Process4 lives: 645.486950874msProcess5 lives: 645.411014557ms
+
+Process7 lives: 645.881056786ms
+Process0 lives: 648.676872253ms
+Process3 lives: 649.057030678ms
+Result is 3.14159169205
+=======================================
+Use 649.057030678ms
+=======================================
+*********node: 6 **************
+********** iter: 20000 *************
+Process0 lives: 16.7028903961msProcess2 lives: 16.7969465256msProcess1 lives: 16.6839361191msProcess5 lives: 16.9509649277msProcess4 lives: 16.664981842ms
+
+
+
+
+Process3 lives: 16.8780088425ms
+Result is 3.14154264859
+=======================================
+Use 16.9509649277ms
+=======================================
+********** iter: 40000 *************
+Process3 lives: 32.940030098msProcess2 lives: 32.7969789505msProcess4 lives: 33.154964447msProcess5 lives: 32.7769517899ms
+
+
+
+Process0 lives: 32.9139232635ms
+Process1 lives: 37.1509790421ms
+Result is 3.14156765109
+=======================================
+Use 37.1509790421ms
+=======================================
+********** iter: 60000 *************
+Process3 lives: 49.2269992828msProcess2 lives: 49.0509271622msProcess5 lives: 49.0319728851msProcess4 lives: 48.9029884338msProcess1 lives: 49.0020513535ms
+
+
+
+
+Process0 lives: 57.8789710999ms
+Result is 3.14157598692
+=======================================
+Use 57.8789710999ms
+=======================================
+********** iter: 80000 *************
+Process2 lives: 65.2190446854msProcess1 lives: 65.5370950699msProcess4 lives: 65.5289888382msProcess3 lives: 65.5839443207msProcess5 lives: 65.4149055481ms
+
+
+
+
+Process0 lives: 70.2409744263ms
+Result is 3.14158015328
+=======================================
+Use 70.2409744263ms
+=======================================
+********** iter: 100000 *************
+Process4 lives: 81.1959505081msProcess5 lives: 81.2289714813ms
+Process2 lives: 81.475019455ms
+Process1 lives: 81.5000534058ms
+
+Process3 lives: 84.7200155258ms
+Process0 lives: 88.1178379059ms
+Result is 3.14158265319
+=======================================
+Use 88.1178379059ms
+=======================================
+********** iter: 120000 *************
+Process0 lives: 97.4469184875msProcess3 lives: 97.3929166794msProcess5 lives: 97.344994545msProcess2 lives: 97.2770452499msProcess1 lives: 97.4400043488ms
+
+
+
+
+Process4 lives: 100.55398941ms
+Result is 3.14158432026
+=======================================
+Use 100.55398941ms
+=======================================
+********** iter: 140000 *************
+Process5 lives: 113.286018372msProcess3 lives: 113.389015198msProcess4 lives: 113.790035248msProcess1 lives: 113.473057747ms
+
+
+
+Process0 lives: 113.589048386msProcess2 lives: 115.110039711ms
+
+Result is 3.14158551063
+=======================================
+Use 115.110039711ms
+=======================================
+********** iter: 160000 *************
+Process1 lives: 129.212021828msProcess2 lives: 129.588961601msProcess4 lives: 130.125999451ms
+
+
+Process5 lives: 132.213950157msProcess3 lives: 132.459998131ms
+
+Process0 lives: 135.079145432ms
+Result is 3.14158640343
+=======================================
+Use 135.079145432ms
+=======================================
+********** iter: 180000 *************
+Process2 lives: 145.408987999ms
+Process0 lives: 146.733045578ms
+Process4 lives: 147.545933723msProcess5 lives: 158.590078354msProcess3 lives: 148.878931999msProcess1 lives: 152.001976967ms
+
+
+
+Result is 3.14158709803
+=======================================
+Use 158.590078354ms
+=======================================
+********** iter: 200000 *************
+Process0 lives: 162.179946899msProcess2 lives: 162.139058113msProcess1 lives: 162.312984467ms
+Process3 lives: 162.609934807ms
+
+
+Process5 lives: 163.619041443ms
+Process4 lives: 168.08795929ms
+Result is 3.14158765354
+=======================================
+Use 168.08795929ms
+=======================================
+********** iter: 220000 *************
+Process3 lives: 178.407073021msProcess2 lives: 178.333044052ms
+Process1 lives: 178.810954094ms
+
+Process5 lives: 181.913971901ms
+Process4 lives: 183.643937111ms
+Process0 lives: 186.553955078ms
+Result is 3.14158810805
+=======================================
+Use 186.553955078ms
+=======================================
+********** iter: 240000 *************
+Process3 lives: 194.265007973ms
+Process5 lives: 194.899082184ms
+Process4 lives: 195.088982582msProcess2 lives: 195.280909538ms
+
+Process1 lives: 196.65491581ms
+Process0 lives: 198.524951935ms
+Result is 3.14158848692
+=======================================
+Use 198.524951935ms
+=======================================
+********** iter: 260000 *************
+Process0 lives: 210.388898849ms
+Process1 lives: 210.862994194msResult is 3.14158880741
+Process5 lives: 212.289094925msProcess2 lives: 211.385965347msProcess3 lives: 211.161971092msProcess4 lives: 211.066007614ms
+
+
+
+
+=======================================
+Use 212.289094925ms
+=======================================
+********** iter: 280000 *************
+Process0 lives: 226.672172546ms
+Process2 lives: 226.948022842msProcess4 lives: 227.095007896ms
+Process5 lives: 227.173924446msProcess1 lives: 227.473974228ms
+
+
+Process3 lives: 227.717995644ms
+Result is 3.14158908211
+=======================================
+Use 227.717995644ms
+=======================================
+********** iter: 300000 *************
+Process0 lives: 243.342161179ms
+Process3 lives: 243.854045868ms
+Process5 lives: 244.359016418ms
+Process2 lives: 244.408965111ms
+Process4 lives: 246.28007412ms
+Process1 lives: 246.942043304ms
+Result is 3.14158932026
+=======================================
+Use 246.942043304ms
+=======================================
+********** iter: 320000 *************
+Process3 lives: 260.037064552msProcess2 lives: 259.883999825ms
+Process1 lives: 260.366082191ms
+
+Process5 lives: 261.041045189ms
+Process0 lives: 263.870000839ms
+Process4 lives: 285.712003708ms
+Result is 3.14158952857
+=======================================
+Use 285.712003708ms
+=======================================
+********** iter: 340000 *************
+Process0 lives: 275.923013687msProcess4 lives: 275.783061981ms
+
+Process1 lives: 276.553034782ms
+Process3 lives: 278.863072395ms
+Process2 lives: 279.802918434msProcess5 lives: 280.06696701ms
+
+Result is 3.14158971238
+=======================================
+Use 280.06696701ms
+=======================================
+********** iter: 360000 *************
+Process1 lives: 293.098092079msProcess4 lives: 292.829036713ms
+
+Process0 lives: 294.620037079ms
+Process5 lives: 295.650959015ms
+Process2 lives: 303.385019302ms
+Process3 lives: 330.731987953ms
+Result is 3.14158987581
+=======================================
+Use 330.731987953ms
+=======================================
+********** iter: 380000 *************
+Process4 lives: 307.884931564ms
+Process2 lives: 308.101058006ms
+Process1 lives: 308.746099472ms
+Process3 lives: 311.033010483ms
+Process5 lives: 313.364028931ms
+Process0 lives: 315.042972565ms
+Result is 3.141590022
+=======================================
+Use 315.042972565ms
+=======================================
+********** iter: 400000 *************
+Process0 lives: 324.392795563ms
+Process5 lives: 324.803948402ms
+Process4 lives: 325.173974037ms
+Process2 lives: 328.251957893ms
+Process3 lives: 329.908013344ms
+Process1 lives: 355.112910271ms
+Result is 3.14159015356
+=======================================
+Use 355.112910271ms
+=======================================
+********** iter: 420000 *************
+Process5 lives: 340.17598629msProcess1 lives: 340.026974678msProcess2 lives: 340.012907982ms
+Process4 lives: 340.487003326ms
+
+
+Process0 lives: 344.576120377ms
+Process3 lives: 388.784050941ms
+Result is 3.14159027264
+=======================================
+Use 388.784050941ms
+=======================================
+********** iter: 440000 *************
+Process4 lives: 356.606006622ms
+Process2 lives: 356.873989105ms
+Process0 lives: 360.756158829ms
+Process3 lives: 364.242076874ms
+Process1 lives: 366.15896225ms
+Process5 lives: 385.689020157ms
+Result is 3.14159038085
+=======================================
+Use 385.689020157ms
+=======================================
+********** iter: 460000 *************
+Process0 lives: 373.147964478msProcess3 lives: 373.103022575ms
+Process5 lives: 373.568058014ms
+
+Process2 lives: 376.778960228ms
+Process4 lives: 377.772927284ms
+Process1 lives: 378.434062004ms
+Result is 3.14159047966
+=======================================
+Use 378.434062004ms
+=======================================
+********** iter: 480000 *************
+Process0 lives: 389.050960541msProcess1 lives: 388.79597187ms
+
+Process3 lives: 389.452934265ms
+Process5 lives: 391.919016838msProcess4 lives: 392.210960388ms
+
+Process2 lives: 396.91400528ms
+Result is 3.14159057026
+=======================================
+Use 396.91400528ms
+=======================================
+********** iter: 500000 *************
+Process3 lives: 405.544042587ms
+Process2 lives: 405.887007713ms
+Process1 lives: 406.288027763ms
+Process0 lives: 407.564163208ms
+Process5 lives: 409.250974655ms
+Process4 lives: 424.572944641ms
+Result is 3.14159065358
+=======================================
+Use 424.572944641ms
+=======================================
+********** iter: 520000 *************
+Process4 lives: 421.290040016ms
+Process3 lives: 421.97406292ms
+Process2 lives: 422.538042068ms
+Process0 lives: 424.145936966ms
+Process1 lives: 426.004052162ms
+Process5 lives: 427.431941032ms
+Result is 3.1415907305
+=======================================
+Use 427.431941032ms
+=======================================
+********** iter: 540000 *************
+Process3 lives: 438.162922859msProcess1 lives: 438.181042671ms
+Process4 lives: 438.699007034ms
+
+Process5 lives: 439.644098282ms
+Process0 lives: 444.481134415ms
+Process2 lives: 446.676015854ms
+Result is 3.14159080174
+=======================================
+Use 446.676015854ms
+=======================================
+********** iter: 560000 *************
+Process3 lives: 454.51104641msProcess2 lives: 454.71906662ms
+
+Process4 lives: 455.26599884ms
+Process1 lives: 455.935955048ms
+Process5 lives: 457.580089569ms
+Process0 lives: 459.300041199ms
+Result is 3.14159086787
+=======================================
+Use 459.300041199ms
+=======================================
+********** iter: 580000 *************
+Process1 lives: 470.105051994ms
+Process5 lives: 471.675992012msProcess4 lives: 471.502065659ms
+
+Process3 lives: 473.751068115ms
+Process2 lives: 474.287986755ms
+Process0 lives: 477.909088135ms
+Result is 3.14159092944
+=======================================
+Use 477.909088135ms
+=======================================
+********** iter: 600000 *************
+Process5 lives: 486.739039421ms
+Process3 lives: 487.676024437ms
+Process1 lives: 490.443944931ms
+Process0 lives: 493.358850479ms
+Process4 lives: 495.496034622ms
+Process2 lives: 566.972017288ms
+Result is 3.14159098692
+=======================================
+Use 566.972017288ms
+=======================================
+********** iter: 620000 *************
+Process1 lives: 503.3390522msProcess2 lives: 503.113031387ms
+Process3 lives: 503.679037094ms
+
+Process4 lives: 504.49693203ms
+Process0 lives: 507.289886475msProcess5 lives: 507.213950157ms
+
+Result is 3.14159104068
+=======================================
+Use 507.289886475ms
+=======================================
+********** iter: 640000 *************
+Process3 lives: 519.662022591msProcess1 lives: 520.127058029msProcess2 lives: 519.950985909ms
+Process4 lives: 519.806981087ms
+
+
+Process0 lives: 525.575876236ms
+Process5 lives: 543.289065361ms
+Result is 3.14159109108
+=======================================
+Use 543.289065361ms
+=======================================
+********** iter: 660000 *************
+Process3 lives: 537.388920784ms
+Process4 lives: 538.686990738ms
+Process2 lives: 541.460990906ms
+Process5 lives: 542.033076286ms
+Process0 lives: 542.900085449ms
+Process1 lives: 545.252084732ms
+Result is 3.14159113844
+=======================================
+Use 545.252084732ms
+=======================================
+********** iter: 680000 *************
+Process2 lives: 551.872968674ms
+Process3 lives: 552.255988121ms
+Process1 lives: 552.7780056ms
+Process5 lives: 554.726004601ms
+Process0 lives: 556.547880173ms
+Process4 lives: 561.874032021ms
+Result is 3.141591183
+=======================================
+Use 561.874032021ms
+=======================================
+********** iter: 700000 *************
+Process2 lives: 568.336009979ms
+Process5 lives: 569.438934326msProcess0 lives: 575.574159622ms
+Process1 lives: 575.139045715msProcess4 lives: 576.543927193msProcess3 lives: 572.250962257ms
+
+
+
+Result is 3.14159122501
+=======================================
+Use 576.543927193ms
+=======================================
+********** iter: 720000 *************
+Process4 lives: 587.453961372ms
+Process3 lives: 587.674021721ms
+Process0 lives: 589.734077454ms
+Process5 lives: 591.882944107ms
+Process1 lives: 593.113064766ms
+Process2 lives: 605.897903442ms
+Result is 3.1415912647
+=======================================
+Use 605.897903442ms
+=======================================
+********** iter: 740000 *************
+Process2 lives: 599.918007851ms
+Process4 lives: 600.257992744ms
+Process1 lives: 600.896000862ms
+Process5 lives: 604.667901993ms
+Process3 lives: 607.455015182ms
+Process0 lives: 609.894990921ms
+Result is 3.14159130223
+=======================================
+Use 609.894990921ms
+=======================================
+********** iter: 760000 *************
+Process1 lives: 616.250038147ms
+Process4 lives: 616.802096367msProcess5 lives: 616.852998734ms
+
+Process3 lives: 617.515921593ms
+Process0 lives: 620.496034622ms
+Process2 lives: 622.784972191ms
+Result is 3.14159133779
+=======================================
+Use 622.784972191ms
+=======================================
+********** iter: 780000 *************
+Process1 lives: 633.555054665msProcess2 lives: 633.589029312msProcess3 lives: 633.748054504ms
+
+
+Process4 lives: 635.460972786ms
+Process0 lives: 635.586977005ms
+Process5 lives: 637.943029404ms
+Result is 3.14159137154
+=======================================
+Use 637.943029404ms
+=======================================
+********** iter: 800000 *************
+Process4 lives: 648.556947708ms
+Process3 lives: 649.517059326ms
+Process0 lives: 651.114940643ms
+Process2 lives: 653.710007668ms
+Process5 lives: 657.289981842ms
+Process1 lives: 675.922989845ms
+Result is 3.14159140359
+=======================================
+Use 675.922989845ms
+=======================================
+********** iter: 820000 *************
+Process0 lives: 665.037870407ms
+Process3 lives: 669.597029686msProcess2 lives: 668.511033058msProcess4 lives: 669.696927071msProcess5 lives: 674.489021301ms
+
+
+
+Process1 lives: 693.183064461ms
+Result is 3.14159143407
+=======================================
+Use 693.183064461ms
+=======================================
+********** iter: 840000 *************
+Process3 lives: 681.013941765ms
+Process4 lives: 681.582927704ms
+Process0 lives: 683.188915253ms
+Process2 lives: 686.017036438ms
+Process5 lives: 688.376069069ms
+Process1 lives: 688.704967499ms
+Result is 3.14159146311
+=======================================
+Use 688.704967499ms
+=======================================
+********** iter: 860000 *************
+Process1 lives: 697.630047798msProcess4 lives: 697.85797596ms
+
+Process2 lives: 698.453068733ms
+Process3 lives: 700.924992561ms
+Process0 lives: 703.43208313ms
+Process5 lives: 708.797931671ms
+Result is 3.1415914908
+=======================================
+Use 708.797931671ms
+=======================================
+********** iter: 880000 *************
+Process0 lives: 716.954946518msProcess5 lives: 717.090964317ms
+
+Process1 lives: 719.208955765ms
+Process4 lives: 719.503045082ms
+Process2 lives: 719.972968102ms
+Process3 lives: 742.387056351ms
+Result is 3.14159151722
+=======================================
+Use 742.387056351ms
+=======================================
+********** iter: 900000 *************
+Process3 lives: 731.068968773msProcess4 lives: 731.065034866ms
+
+Process1 lives: 734.076023102ms
+Process5 lives: 735.326051712ms
+Process2 lives: 737.632989883ms
+Process0 lives: 740.113973618ms
+Result is 3.14159154248
+=======================================
+Use 740.113973618ms
+=======================================
+********** iter: 920000 *************
+Process1 lives: 745.779037476ms
+Process3 lives: 746.288061142ms
+Process4 lives: 746.814012527ms
+Process2 lives: 747.792005539ms
+Process5 lives: 748.932957649ms
+Process0 lives: 752.915143967ms
+Result is 3.14159156663
+=======================================
+Use 752.915143967ms
+=======================================
+********** iter: 940000 *************
+Process1 lives: 761.886954308ms
+Process4 lives: 766.324043274ms
+Process2 lives: 766.942024231ms
+Process5 lives: 767.783999443msProcess3 lives: 767.742991447ms
+
+Process0 lives: 769.940137863ms
+Result is 3.14159158976
+=======================================
+Use 769.940137863ms
+=======================================
+********** iter: 960000 *************
+Process1 lives: 778.980970383ms
+Process4 lives: 779.116034508ms
+Process0 lives: 783.512115479ms
+Process5 lives: 786.375999451ms
+Process3 lives: 787.109017372ms
+Process2 lives: 787.334918976ms
+Result is 3.14159161192
+=======================================
+Use 787.334918976ms
+=======================================
+********** iter: 980000 *************
+Process4 lives: 795.500040054msProcess1 lives: 795.853018761ms
+
+Process5 lives: 796.135902405ms
+Process0 lives: 797.242164612ms
+Process2 lives: 802.499055862ms
+Process3 lives: 807.456970215ms
+Result is 3.14159163318
+=======================================
+Use 807.456970215ms
+=======================================
+********** iter: 1000000 *************
+Process3 lives: 810.768008232ms
+Process4 lives: 811.314940453ms
+Process2 lives: 811.975002289ms
+Process1 lives: 813.850998878ms
+Process5 lives: 816.1059618ms
+Process0 lives: 823.652029037ms
+Result is 3.14159165359
+=======================================
+Use 823.652029037ms
+=======================================
+********** iter: 1020000 *************
+Process1 lives: 827.286958694ms
+Process2 lives: 828.06801796ms
+Process5 lives: 830.541968346ms
+Process3 lives: 830.862998962ms
+Process4 lives: 832.086920738ms
+Process0 lives: 834.204912186ms
+Result is 3.1415916732
+=======================================
+Use 834.204912186ms
+=======================================
+********** iter: 1040000 *************
+Process5 lives: 843.340992928ms
+Process3 lives: 844.027996063ms
+Process1 lives: 847.111940384ms
+Process2 lives: 848.505020142ms
+Process0 lives: 851.145029068ms
+Process4 lives: 855.566978455ms
+Result is 3.14159169205
+=======================================
+Use 855.566978455ms
+=======================================
+*********node: 4 **************
+********** iter: 20000 *************
+Process0 lives: 24.5430469513msProcess1 lives: 24.7830152512ms
+
+Process2 lives: 25.3710746765ms
+Process3 lives: 25.7680416107ms
+Result is 3.14154265359
+=======================================
+Use 25.7680416107ms
+=======================================
+********** iter: 40000 *************
+Process2 lives: 48.8439798355ms
+Process3 lives: 49.2010116577ms
+Process1 lives: 53.9389848709ms
+Process0 lives: 54.986000061ms
+Result is 3.14156765359
+=======================================
+Use 54.986000061ms
+=======================================
+********** iter: 60000 *************
+Process0 lives: 72.8900432587msProcess1 lives: 72.6770162582ms
+
+Process3 lives: 73.4959840775ms
+Process2 lives: 73.8730430603ms
+Result is 3.14157598692
+=======================================
+Use 73.8730430603ms
+=======================================
+********** iter: 80000 *************
+Process0 lives: 96.832036972ms
+Process1 lives: 97.137928009msProcess2 lives: 97.2230434418ms
+
+Process3 lives: 97.7210998535ms
+Result is 3.14158015359
+=======================================
+Use 97.7210998535ms
+=======================================
+********** iter: 100000 *************
+Process0 lives: 121.430873871ms
+Process1 lives: 121.617913246msProcess2 lives: 121.749997139ms
+
+Process3 lives: 122.069001198ms
+Result is 3.14158265359
+=======================================
+Use 122.069001198ms
+=======================================
+********** iter: 120000 *************
+Process1 lives: 147.553920746ms
+Process3 lives: 148.072957993ms
+Process0 lives: 153.633117676ms
+Process2 lives: 165.713071823ms
+Result is 3.14158432026
+=======================================
+Use 165.713071823ms
+=======================================
+********** iter: 140000 *************
+Process0 lives: 170.114994049ms
+Process1 lives: 170.367956161ms
+Process2 lives: 172.051072121ms
+Process3 lives: 172.723054886ms
+Result is 3.14158551073
+=======================================
+Use 172.723054886ms
+=======================================
+********** iter: 160000 *************
+Process1 lives: 194.415926933ms
+Process3 lives: 194.88799572ms
+Process2 lives: 195.655941963ms
+Process0 lives: 199.358940125ms
+Result is 3.14158640359
+=======================================
+Use 199.358940125ms
+=======================================
+********** iter: 180000 *************
+Process1 lives: 218.73497963ms
+Process0 lives: 218.986988068ms
+Process2 lives: 221.526026726ms
+Process3 lives: 222.243070602ms
+Result is 3.14158709803
+=======================================
+Use 222.243070602ms
+=======================================
+********** iter: 200000 *************
+Process3 lives: 244.832992554ms
+Process2 lives: 246.407032013ms
+Process1 lives: 246.494054794ms
+Process0 lives: 249.886035919ms
+Result is 3.14158765359
+=======================================
+Use 249.886035919ms
+=======================================
+********** iter: 220000 *************
+Process0 lives: 267.343997955msProcess1 lives: 268.565058708ms
+
+Process3 lives: 269.235014915ms
+Process2 lives: 271.6319561ms
+Result is 3.14158810814
+=======================================
+Use 271.6319561ms
+=======================================
+********** iter: 240000 *************
+Process2 lives: 291.7740345msProcess1 lives: 292.05095768ms
+
+Process3 lives: 293.48897934ms
+Process0 lives: 296.613931656ms
+Result is 3.14158848692
+=======================================
+Use 296.613931656ms
+=======================================
+********** iter: 260000 *************
+Process1 lives: 315.793037415ms
+Process3 lives: 316.594004631msProcess2 lives: 316.445946693msProcess0 lives: 317.857980728ms
+
+
+Result is 3.14158880744
+=======================================
+Use 317.857980728ms
+=======================================
+********** iter: 280000 *************
+Process0 lives: 340.669870377msProcess2 lives: 340.855956078ms
+
+Process3 lives: 341.629981995ms
+Process1 lives: 343.626022339ms
+Result is 3.14158908216
+=======================================
+Use 343.626022339ms
+=======================================
+********** iter: 300000 *************
+Process3 lives: 364.38703537ms
+Process1 lives: 364.709019661msProcess2 lives: 364.919066429ms
+
+Process0 lives: 366.683959961ms
+Result is 3.14158932026
+=======================================
+Use 366.683959961ms
+=======================================
+********** iter: 320000 *************
+Process0 lives: 388.767004013ms
+Process1 lives: 389.333963394ms
+Process2 lives: 390.444040298ms
+Process3 lives: 391.747951508ms
+Result is 3.14158952859
+=======================================
+Use 391.747951508ms
+=======================================
+********** iter: 340000 *************
+Process2 lives: 417.31095314ms
+Process1 lives: 418.117046356ms
+Process3 lives: 418.292999268msProcess0 lives: 421.401977539ms
+
+Result is 3.14158971241
+=======================================
+Use 421.401977539ms
+=======================================
+********** iter: 360000 *************
+Process2 lives: 437.748908997ms
+Process3 lives: 439.550995827ms
+Process0 lives: 441.754102707ms
+Process1 lives: 447.806954384ms
+Result is 3.14158987581
+=======================================
+Use 447.806954384ms
+=======================================
+********** iter: 380000 *************
+Process3 lives: 462.118983269ms
+Process2 lives: 462.821960449ms
+Process0 lives: 464.395046234ms
+Process1 lives: 465.685963631ms
+Result is 3.14159002201
+=======================================
+Use 465.685963631ms
+=======================================
+********** iter: 400000 *************
+Process1 lives: 486.714959145msProcess2 lives: 486.937999725ms
+Process3 lives: 487.338900566ms
+
+Process0 lives: 494.022846222ms
+Result is 3.14159015359
+=======================================
+Use 494.022846222ms
+=======================================
+********** iter: 420000 *************
+Process1 lives: 511.930942535ms
+Process3 lives: 513.44704628ms
+Process0 lives: 517.935037613ms
+Process2 lives: 521.042943001ms
+Result is 3.14159027264
+=======================================
+Use 521.042943001ms
+=======================================
+********** iter: 440000 *************
+Process1 lives: 534.834980965ms
+Process3 lives: 535.863995552msProcess0 lives: 537.389039993ms
+
+Process2 lives: 544.705986977ms
+Result is 3.14159038086
+=======================================
+Use 544.705986977ms
+=======================================
+********** iter: 460000 *************
+Process0 lives: 560.149908066ms
+Process3 lives: 560.976982117ms
+Process1 lives: 561.535000801ms
+Process2 lives: 563.26007843ms
+Result is 3.14159047968
+=======================================
+Use 563.26007843ms
+=======================================
+********** iter: 480000 *************
+Process1 lives: 583.863019943ms
+Process2 lives: 584.192991257ms
+Process3 lives: 588.203907013ms
+Process0 lives: 599.056005478ms
+Result is 3.14159057026
+=======================================
+Use 599.056005478ms
+=======================================
+********** iter: 500000 *************
+Process1 lives: 608.958005905ms
+Process2 lives: 613.860964775ms
+Process3 lives: 615.563035011ms
+Process0 lives: 690.678119659ms
+Result is 3.14159065359
+=======================================
+Use 690.678119659ms
+=======================================
+********** iter: 520000 *************
+Process3 lives: 634.127020836ms
+Process1 lives: 636.231899261ms
+Process0 lives: 638.636112213ms
+Process2 lives: 716.820001602ms
+Result is 3.14159073051
+=======================================
+Use 716.820001602ms
+=======================================
+********** iter: 540000 *************
+Process2 lives: 657.063007355msProcess1 lives: 657.063007355ms
+
+Process0 lives: 657.361984253ms
+Process3 lives: 680.316925049ms
+Result is 3.14159080174
+=======================================
+Use 680.316925049ms
+=======================================
+********** iter: 560000 *************
+Process0 lives: 681.720018387ms
+Process1 lives: 682.14404583ms
+Process2 lives: 684.455990791ms
+Process3 lives: 685.786008835ms
+Result is 3.14159086788
+=======================================
+Use 685.786008835ms
+=======================================
+********** iter: 580000 *************
+Process3 lives: 705.120921135ms
+Process1 lives: 706.148028374ms
+Process2 lives: 707.671046257ms
+Process0 lives: 715.368032455ms
+Result is 3.14159092945
+=======================================
+Use 715.368032455ms
+=======================================
+********** iter: 600000 *************
+Process0 lives: 734.090089798ms
+Process2 lives: 734.364032745ms
+Process3 lives: 735.074043274ms
+Process1 lives: 797.481060028ms
+Result is 3.14159098692
+=======================================
+Use 797.481060028ms
+=======================================
+********** iter: 620000 *************
+Process3 lives: 754.886984825ms
+Process0 lives: 756.17814064ms
+Process2 lives: 757.675051689ms
+Process1 lives: 758.311033249ms
+Result is 3.14159104069
+=======================================
+Use 758.311033249ms
+=======================================
+********** iter: 640000 *************
+Process3 lives: 778.378009796ms
+Process0 lives: 778.626918793ms
+Process2 lives: 783.617019653ms
+Process1 lives: 787.922024727ms
+Result is 3.14159109109
+=======================================
+Use 787.922024727ms
+=======================================
+********** iter: 660000 *************
+Process3 lives: 811.533927917ms
+Process1 lives: 812.68799305ms
+Process0 lives: 817.403078079ms
+Process2 lives: 884.106993675ms
+Result is 3.14159113844
+=======================================
+Use 884.106993675ms
+=======================================
+********** iter: 680000 *************
+Process3 lives: 827.488064766ms
+Process1 lives: 828.626036644ms
+Process0 lives: 828.852176666ms
+Process2 lives: 835.520029068ms
+Result is 3.141591183
+=======================================
+Use 835.520029068ms
+=======================================
+********** iter: 700000 *************
+Process3 lives: 851.333975792ms
+Process0 lives: 852.391004562ms
+Process1 lives: 852.635025978ms
+Process2 lives: 861.320972443ms
+Result is 3.14159122502
+=======================================
+Use 861.320972443ms
+=======================================
+********** iter: 720000 *************
+Process3 lives: 875.945091248ms
+Process2 lives: 879.812002182ms
+Process1 lives: 880.573987961ms
+Process0 lives: 893.212080002ms
+Result is 3.1415912647
+=======================================
+Use 893.212080002ms
+=======================================
+********** iter: 740000 *************
+Process1 lives: 900.477051735ms
+Process0 lives: 901.853084564ms
+Process3 lives: 904.545068741ms
+Process2 lives: 987.128019333ms
+Result is 3.14159130224
+=======================================
+Use 987.128019333ms
+=======================================
+********** iter: 760000 *************
+Process3 lives: 924.762964249ms
+Process2 lives: 925.557017326ms
+Process1 lives: 931.854009628ms
+Process0 lives: 936.376094818ms
+Result is 3.1415913378
+=======================================
+Use 936.376094818ms
+=======================================
+********** iter: 780000 *************
+Process1 lives: 948.685050011ms
+Process3 lives: 951.65002346ms
+Process2 lives: 954.357981682ms
+Process0 lives: 954.725027084ms
+Result is 3.14159137154
+=======================================
+Use 954.725027084ms
+=======================================
+********** iter: 800000 *************
+Process0 lives: 973.627090454ms
+Process3 lives: 976.611018181ms
+Process1 lives: 976.954102516ms
+Process2 lives: 978.058934212ms
+Result is 3.14159140359
+=======================================
+Use 978.058934212ms
+=======================================
+********** iter: 820000 *************
+Process3 lives: 998.013019562ms
+Process0 lives: 998.842000961ms
+Process1 lives: 1001.13391876ms
+Process2 lives: 1009.46307182ms
+Result is 3.14159143408
+=======================================
+Use 1009.46307182ms
+=======================================
+********** iter: 840000 *************
+Process3 lives: 1026.09300613ms
+Process0 lives: 1026.25107765ms
+Process2 lives: 1034.25097466msProcess1 lives: 1038.75505924ms
+
+Result is 3.14159146311
+=======================================
+Use 1038.75505924ms
+=======================================
+********** iter: 860000 *************
+Process1 lives: 1049.27706718msProcess3 lives: 1049.16095734ms
+
+Process0 lives: 1146.75498009ms
+Process2 lives: 1189.33594227ms
+Result is 3.1415914908
+=======================================
+Use 1189.33594227ms
+=======================================
+********** iter: 880000 *************
+Process2 lives: 1070.52898407ms
+Process3 lives: 1071.45094872ms
+Process0 lives: 1076.10487938ms
+Process1 lives: 1077.33595371ms
+Result is 3.14159151723
+=======================================
+Use 1077.33595371ms
+=======================================
+********** iter: 900000 *************
+Process1 lives: 1095.43693066ms
+Process0 lives: 1096.93217278ms
+Process3 lives: 1100.30794144ms
+Process2 lives: 1114.7159338ms
+Result is 3.14159154248
+=======================================
+Use 1114.7159338ms
+=======================================
+********** iter: 920000 *************
+Process0 lives: 1120.69201469ms
+Process3 lives: 1121.97101116ms
+Process2 lives: 1127.13396549ms
+Process1 lives: 1279.41906452ms
+Result is 3.14159156663
+=======================================
+Use 1279.41906452ms
+=======================================
+********** iter: 940000 *************
+Process2 lives: 1144.47498322ms
+Process3 lives: 1147.59790897ms
+Process0 lives: 1155.08699417ms
+Process1 lives: 1156.77392483ms
+Result is 3.14159158976
+=======================================
+Use 1156.77392483ms
+=======================================
+********** iter: 960000 *************
+Process0 lives: 1168.72811317ms
+Process1 lives: 1170.97902298ms
+Process3 lives: 1172.52290249ms
+Process2 lives: 1176.09202862ms
+Result is 3.14159161192
+=======================================
+Use 1176.09202862ms
+=======================================
+********** iter: 980000 *************
+Process2 lives: 1191.96999073ms
+Process1 lives: 1192.91496277ms
+Process3 lives: 1193.70496273ms
+Process0 lives: 1195.82295418ms
+Result is 3.14159163318
+=======================================
+Use 1195.82295418ms
+=======================================
+********** iter: 1000000 *************
+Process3 lives: 1221.05002403ms
+Process1 lives: 1222.04506397ms
+Process2 lives: 1239.89701271ms
+Process0 lives: 1331.53700829ms
+Result is 3.14159165359
+=======================================
+Use 1331.53700829ms
+=======================================
+********** iter: 1020000 *************
+Process2 lives: 1241.07694626ms
+Process3 lives: 1243.61491203ms
+Process0 lives: 1243.97206306ms
+Process1 lives: 1246.81198597ms
+Result is 3.1415916732
+=======================================
+Use 1246.81198597ms
+=======================================
+********** iter: 1040000 *************
+Process3 lives: 1264.91892338ms
+Process2 lives: 1268.60702038ms
+Process0 lives: 1270.66087723ms
+Process1 lives: 1276.21400356ms
+Result is 3.14159169205
+=======================================
+Use 1276.21400356ms
+=======================================
+*********node: 2 **************
+********** iter: 20000 *************
+Process0 lives: 48.7480163574ms
+Process1 lives: 51.9440174103ms
+Result is 3.14154265359
+=======================================
+Use 51.9440174103ms
+=======================================
+********** iter: 40000 *************
+Process0 lives: 96.7428684235ms
+Process1 lives: 96.9920158386ms
+Result is 3.14156765359
+=======================================
+Use 96.9920158386ms
+=======================================
+********** iter: 60000 *************
+Process0 lives: 145.642995834ms
+Process1 lives: 148.530006409ms
+Result is 3.14157598692
+=======================================
+Use 148.530006409ms
+=======================================
+********** iter: 80000 *************
+Process1 lives: 194.690942764ms
+Process0 lives: 197.808980942ms
+Result is 3.14158015359
+=======================================
+Use 197.808980942ms
+=======================================
+********** iter: 100000 *************
+Process0 lives: 242.987155914ms
+Process1 lives: 243.348002434ms
+Result is 3.14158265359
+=======================================
+Use 243.348002434ms
+=======================================
+********** iter: 120000 *************
+Process0 lives: 292.214155197ms
+Process1 lives: 293.977022171ms
+Result is 3.14158432026
+=======================================
+Use 293.977022171ms
+=======================================
+********** iter: 140000 *************
+Process1 lives: 342.147111893ms
+Process0 lives: 346.130132675ms
+Result is 3.14158551073
+=======================================
+Use 346.130132675ms
+=======================================
+********** iter: 160000 *************
+Process1 lives: 388.890981674ms
+Process0 lives: 393.130064011ms
+Result is 3.14158640359
+=======================================
+Use 393.130064011ms
+=======================================
+********** iter: 180000 *************
+Process1 lives: 440.340042114ms
+Process0 lives: 442.245006561ms
+Result is 3.14158709803
+=======================================
+Use 442.245006561ms
+=======================================
+********** iter: 200000 *************
+Process1 lives: 486.523032188ms
+Process0 lives: 490.814208984ms
+Result is 3.14158765359
+=======================================
+Use 490.814208984ms
+=======================================
+********** iter: 220000 *************
+Process1 lives: 535.336017609ms
+Process0 lives: 539.047956467ms
+Result is 3.14158810814
+=======================================
+Use 539.047956467ms
+=======================================
+********** iter: 240000 *************
+Process0 lives: 583.424091339ms
+Process1 lives: 584.32507515ms
+Result is 3.14158848692
+=======================================
+Use 584.32507515ms
+=======================================
+********** iter: 260000 *************
+Process0 lives: 636.582136154ms
+Process1 lives: 641.025066376ms
+Result is 3.14158880744
+=======================================
+Use 641.025066376ms
+=======================================
+********** iter: 280000 *************
+Process1 lives: 681.900978088ms
+Process0 lives: 688.853025436ms
+Result is 3.14158908216
+=======================================
+Use 688.853025436ms
+=======================================
+********** iter: 300000 *************
+Process1 lives: 737.735033035ms
+Process0 lives: 750.334024429ms
+Result is 3.14158932026
+=======================================
+Use 750.334024429ms
+=======================================
+********** iter: 320000 *************
+Process1 lives: 779.096007347ms
+Process0 lives: 780.225038528ms
+Result is 3.14158952859
+=======================================
+Use 780.225038528ms
+=======================================
+********** iter: 340000 *************
+Process1 lives: 828.62007618ms
+Process0 lives: 832.012176514ms
+Result is 3.14158971241
+=======================================
+Use 832.012176514ms
+=======================================
+********** iter: 360000 *************
+Process1 lives: 876.107931137ms
+Process0 lives: 883.590936661ms
+Result is 3.14158987581
+=======================================
+Use 883.590936661ms
+=======================================
+********** iter: 380000 *************
+Process0 lives: 927.168130875ms
+Process1 lives: 929.129004478ms
+Result is 3.14159002201
+=======================================
+Use 929.129004478ms
+=======================================
+********** iter: 400000 *************
+Process0 lives: 973.109006882ms
+Process1 lives: 976.379990578ms
+Result is 3.14159015359
+=======================================
+Use 976.379990578ms
+=======================================
+********** iter: 420000 *************
+Process0 lives: 1024.69801903ms
+Process1 lives: 1042.81008244ms
+Result is 3.14159027264
+=======================================
+Use 1042.81008244ms
+=======================================
+********** iter: 440000 *************
+Process1 lives: 1084.08999443ms
+Process0 lives: 1090.36207199ms
+Result is 3.14159038086
+=======================================
+Use 1090.36207199ms
+=======================================
+********** iter: 460000 *************
+Process0 lives: 1121.8059063ms
+Process1 lives: 1269.96195316ms
+Result is 3.14159047968
+=======================================
+Use 1269.96195316ms
+=======================================
+********** iter: 480000 *************
+Process0 lives: 1175.17995834ms
+Process1 lives: 1185.10198593ms
+Result is 3.14159057026
+=======================================
+Use 1185.10198593ms
+=======================================
+********** iter: 500000 *************
+Process1 lives: 1227.83792019ms
+Process0 lives: 1230.74293137ms
+Result is 3.14159065359
+=======================================
+Use 1230.74293137ms
+=======================================
+********** iter: 520000 *************
+Process0 lives: 1267.42815971ms
+Process1 lives: 1268.13697815ms
+Result is 3.14159073051
+=======================================
+Use 1268.13697815ms
+=======================================
+********** iter: 540000 *************
+Process1 lives: 1318.72296333ms
+Process0 lives: 1325.2530098ms
+Result is 3.14159080174
+=======================================
+Use 1325.2530098ms
+=======================================
+********** iter: 560000 *************
+Process0 lives: 1366.87302589ms
+Process1 lives: 1496.87302113ms
+Result is 3.14159086788
+=======================================
+Use 1496.87302113ms
+=======================================
+********** iter: 580000 *************
+Process0 lives: 1415.75503349ms
+Process1 lives: 1438.13598156ms
+Result is 3.14159092945
+=======================================
+Use 1438.13598156ms
+=======================================
+********** iter: 600000 *************
+Process0 lives: 1470.03507614ms
+Process1 lives: 1484.4609499ms
+Result is 3.14159098692
+=======================================
+Use 1484.4609499ms
+=======================================
+********** iter: 620000 *************
+Process0 lives: 1508.06593895ms
+Process1 lives: 1511.57402992ms
+Result is 3.14159104069
+=======================================
+Use 1511.57402992ms
+=======================================
+********** iter: 640000 *************
+Process1 lives: 1556.33997917ms
+Process0 lives: 1568.25399399ms
+Result is 3.14159109109
+=======================================
+Use 1568.25399399ms
+=======================================
+********** iter: 660000 *************
+Process0 lives: 1607.28693008ms
+Process1 lives: 1621.17600441ms
+Result is 3.14159113844
+=======================================
+Use 1621.17600441ms
+=======================================
+********** iter: 680000 *************
+Process0 lives: 1658.05888176ms
+Result is 3.141591183Process1 lives: 1662.24992275ms
+
+=======================================
+Use 1662.24992275ms
+=======================================
+********** iter: 700000 *************
+Process1 lives: 1707.25107193ms
+Process0 lives: 1749.75991249ms
+Result is 3.14159122502
+=======================================
+Use 1749.75991249ms
+=======================================
+********** iter: 720000 *************
+Process0 lives: 1755.22899628ms
+Process1 lives: 1757.64203072ms
+Result is 3.1415912647
+=======================================
+Use 1757.64203072ms
+=======================================
+********** iter: 740000 *************
+Process1 lives: 1802.04093456ms
+Process0 lives: 1805.37199974ms
+Result is 3.14159130224
+=======================================
+Use 1805.37199974ms
+=======================================
+********** iter: 760000 *************
+Process0 lives: 1853.4219265ms
+Process1 lives: 1877.22599506ms
+Result is 3.1415913378
+=======================================
+Use 1877.22599506ms
+=======================================
+********** iter: 780000 *************
+Process1 lives: 1901.45409107ms
+Process0 lives: 1903.49602699ms
+Result is 3.14159137154
+=======================================
+Use 1903.49602699ms
+=======================================
+********** iter: 800000 *************
+Process1 lives: 1955.07395267ms
+Process0 lives: 1965.77000618ms
+Result is 3.14159140359
+=======================================
+Use 1965.77000618ms
+=======================================
+********** iter: 820000 *************
+Process1 lives: 1997.17402458ms
+Process0 lives: 2002.75588036ms
+Result is 3.14159143408
+=======================================
+Use 2002.75588036ms
+=======================================
+********** iter: 840000 *************
+Process1 lives: 2050.97901821ms
+Process0 lives: 2055.88984489ms
+Result is 3.14159146311
+=======================================
+Use 2055.88984489ms
+=======================================
+********** iter: 860000 *************
+Process0 lives: 2098.54102135ms
+Process1 lives: 2098.87802601ms
+Result is 3.1415914908
+=======================================
+Use 2098.87802601ms
+=======================================
+********** iter: 880000 *************
+Process0 lives: 2154.15692329ms
+Process1 lives: 2224.48194027ms
+Result is 3.14159151723
+=======================================
+Use 2224.48194027ms
+=======================================
+********** iter: 900000 *************
+Process1 lives: 2192.90590286ms
+Process0 lives: 2196.51508331ms
+Result is 3.14159154248
+=======================================
+Use 2196.51508331ms
+=======================================
+********** iter: 920000 *************
+Process0 lives: 2245.9821701ms
+Process1 lives: 2251.72305107ms
+Result is 3.14159156663
+=======================================
+Use 2251.72305107ms
+=======================================
+********** iter: 940000 *************
+Process0 lives: 2290.56406021ms
+Process1 lives: 2316.61701202ms
+Result is 3.14159158976
+=======================================
+Use 2316.61701202ms
+=======================================
+********** iter: 960000 *************
+Process1 lives: 2343.07301044ms
+Process0 lives: 2447.43180275ms
+Result is 3.14159161192
+=======================================
+Use 2447.43180275ms
+=======================================
+********** iter: 980000 *************
+Process0 lives: 2388.81111145ms
+Process1 lives: 2395.41399479ms
+Result is 3.14159163318
+=======================================
+Use 2395.41399479ms
+=======================================
+********** iter: 1000000 *************
+Process1 lives: 2436.55407429ms
+Process0 lives: 2438.49992752ms
+Result is 3.14159165359
+=======================================
+Use 2438.49992752ms
+=======================================
+********** iter: 1020000 *************
+Process0 lives: 2487.89811134ms
+Process1 lives: 2489.70293999ms
+Result is 3.1415916732
+=======================================
+Use 2489.70293999ms
+=======================================
+********** iter: 1040000 *************
+Process0 lives: 2533.1890583ms
+Process1 lives: 2535.20107269ms
+Result is 3.14159169205
+=======================================
+Use 2535.20107269ms
+=======================================
