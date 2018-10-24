@@ -7,13 +7,14 @@ ntpd
 ntpd
 ntpd
 ntpd
-
 date
+
+
 echo "========== Initializing test environment ==========="
 cd /root
-/root/net_tool net_test
-/root/net_tool PI.py
-/root/net_tool matrix.py
+/root/command_sender net_test
+/root/command_sender PI.py
+/root/command_sender matrix.py
 
 use_mpi="-f mpi_config_file"
 blank=" "
@@ -28,203 +29,271 @@ else
 	mkdir -p /root/results
 fi
 
-echo $line
-echo "Test sequence 1 start"
-echo $line
+seq1=0
+seq2=0
+seq3=0
+seq4=0
+
+function get_timing()
+{
+    start=$1
+    end=$2
+    start_s=$(echo $start | cut -d '.' -f 1)
+    start_ns=$(echo $start | cut -d '.' -f 2)
+    end_s=$(echo $end | cut -d '.' -f 1)
+    end_ns=$(echo $end | cut -d '.' -f 2)
+    time=$(( ( 10#$end_s - 10#$start_s ) * 1000 + ( 10#$end_ns / 1000000 - 10#$start_ns / 1000000 ) ))
+}
+
 # Test sequence 1  -- Floating Point, Calculate PI
-#for devices in $(seq 16 -2 2); do
-#echo "[info][$(date)] using $devices nodes"
-#echo "*********node: $devices **************" >> ${work_dir}/result_multi_fl.dat
-#	for iter in $(seq 20000 20000 1040000); do # Will generate (1040000-20000)/2 + 1 = 52 results
-#	    echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fl.dat
-#	    echo "[info][$(date)] iter $iter start"
-#	    mpiexec -np $devices $use_mpi python PI.py $iter >> ${work_dir}/result_multi_fl.dat
-#	    echo "[info][$(date)] iter ${iter} done"
-#	done
-#echo "[info][$(date)] device ${devices} done"
-#done
+function seq_1()
+{
+	seq1_start_time=$(date +%s.%n)
+	echo $line
+	echo "Test sequence 1 start"
+	echo $line	
+	for devices in $(seq 16 -2 2); do
+	echo "[info][$(date)] using $devices nodes"
+	echo "*********node: $devices **************" >> ${work_dir}/result_multi_fl.dat
+		for iter in $(seq 20000 20000 1040000); do # Will generate (1040000-20000)/2 + 1 = 52 results
+		    echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fl.dat
+		    echo "[info][$(date)] iter $iter start"
+		    mpiexec -np $devices $use_mpi python PI.py $iter >> ${work_dir}/result_multi_fl.dat
+		    echo "[info][$(date)] iter ${iter} done"
+		done
+	echo "[info][$(date)] device ${devices} done"
+	done
+	seq1=1
+	seq1_time=$(date +%s.%n)
+}
 
-echo $line
-echo "Test sequence 2 start"
-echo $line
 # Test sequence 2 -- Do these tests on a single device
-#for devices in $(seq 16 -2 2); do
-#echo "[info][$(date)] using $devices threads"
-#echo "*********node: $devices **************" >> ${work_dir}/result_single_fl.dat
-#	for iter in $(seq 20000 20000 1040000); do
-#	    echo "********** iter: $iter *************" >> ${work_dir}/result_single_fl.dat
-#	    echo "[info][$(date)] iter $iter start"
-#	    mpiexec -np $devices python PI.py $iter >> ${work_dir}/result_single_fl.dat
-#	    echo "[info][$(date)]iter ${iter} done"
-#	done
-#echo "[info][$(date)] threads ${devices} done"
-#done
+function seq_2()
+{
+	seq2_start_time=$(date +%s.%n)
+	echo $line
+	echo "Test sequence 2 start"
+	echo $line	
+	for devices in $(seq 16 -2 2); do
+	echo "[info][$(date)] using $devices threads"
+	echo "*********node: $devices **************" >> ${work_dir}/result_single_fl.dat
+		for iter in $(seq 20000 20000 1040000); do
+		    echo "********** iter: $iter *************" >> ${work_dir}/result_single_fl.dat
+		    echo "[info][$(date)] iter $iter start"
+		    mpiexec -np $devices python PI.py $iter >> ${work_dir}/result_single_fl.dat
+		    echo "[info][$(date)] iter ${iter} done"
+		done
+	echo "[info][$(date)] threads ${devices} done"
+	done
+	seq2=1
+	seq2_time=$(date +%s.%n)
+}
 
+# Test sequence 3 -- Fixed point using matrix multiply
 function seq_3()
 {
-echo $line
-echo "Test sequence 3 start"
-echo $line
-# Test sequence 3 -- Fixed point using matrix multiply
-# device = 2, 10 20 30 40 50 50 70 80 90 100 110 120 --12 results
-devices=2
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 10 20 30 40 50 50 70 80 90 100 110 120); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 4, 20 32 44 56 68 80 92 104 116 128 140 152 --12 results
-devices=4
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 20 32 44 56 68 80 92 104 116 128 140 152); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 6 , 18 30 42 54 66 78 90 102 114 126 138 150--12 results
-devices=6
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 18 30 42 54 66 78 90 102 114 126 138 150); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 8 , 32 40 48 56 64 72 80 96 104 112 120 144--12 results
-devices=8
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 32 40 48 56 64 72 80 96 104 112 120 144); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 10 , 20 30 50 60 70 80 90 100 120 130 140 150--12 results
-devices=10
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 20 30 50 60 70 80 90 100 120 130 140 150); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 12 , 12 24 36 48 60 72 84 96 108 120 132 144--12 results
-devices=12
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 12 24 36 48 60 72 84 96 108 120 132 144); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 14 , 14 28 42 56 70 84 98 112 126 140 154 168--12 results
-devices=14
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 14 28 42 56 70 84 98 112 126 140 154 168); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 16 , 16 32 48 64 80 96 112 128 144 160 176 192--12 results
-devices=16
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 16 32 48 64 80 96 112 128 144 160 176 192); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
+	seq3_start_time=$(date +%s.%n)
+	echo $line
+	echo "Test sequence 3 start"
+	echo $line
+	# device = 2, 10 20 30 40 50 50 70 80 90 100 110 120 --12 results
+	devices=2
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 10 20 30 40 50 50 70 80 90 100 110 120); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 4, 20 32 44 56 68 80 92 104 116 128 140 152 --12 results
+	devices=4
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 20 32 44 56 68 80 92 104 116 128 140 152); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 6 , 18 30 42 54 66 78 90 102 114 126 138 150--12 results
+	devices=6
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 18 30 42 54 66 78 90 102 114 126 138 150); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 8 , 32 40 48 56 64 72 80 96 104 112 120 144--12 results
+	devices=8
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 32 40 48 56 64 72 80 96 104 112 120 144); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 10 , 20 30 50 60 70 80 90 100 120 130 140 150--12 results
+	devices=10
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 20 30 50 60 70 80 90 100 120 130 140 150); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 12 , 12 24 36 48 60 72 84 96 108 120 132 144--12 results
+	devices=12
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 12 24 36 48 60 72 84 96 108 120 132 144); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 14 , 14 28 42 56 70 84 98 112 126 140 154 168--12 results
+	devices=14
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 14 28 42 56 70 84 98 112 126 140 154 168); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 16 , 16 32 48 64 80 96 112 128 144 160 176 192--12 results
+	devices=16
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 16 32 48 64 80 96 112 128 144 160 176 192); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices $use_mpi python matrix.py $iter >> ${work_dir}/result_multi_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	seq3=1
+	seq3_time=$(date +%s.%n)
 }
 
+# Test sequence 4 -- Fixed point using matrix multiply -- single device
 function seq_4()
 {
-echo $line
-echo "Test sequence 4 start"
-echo $line
-# Test sequence 4 -- Fixed point using matrix multiply -- single device
-# device = 2, 10 20 30 40 50 50 70 80 90 100 110 120 --12 results
-devices=2
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 10 20 30 40 50 50 70 80 90 100 110 120); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)] iter ${iter} done"
-done
-# device = 4, 20 32 44 56 68 80 92 104 116 128 140 152 --12 results
-devices=4
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 20 32 44 56 68 80 92 104 116 128 140 152); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 6 , 18 30 42 54 66 78 90 102 114 126 138 150--12 results
-devices=6
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 18 30 42 54 66 78 90 102 114 126 138 150); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 8 , 32 40 48 56 64 72 80 96 104 112 120 144--12 results
-devices=8
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 32 40 48 56 64 72 80 96 104 112 120 144); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 10 , 20 30 50 60 70 80 90 100 120 130 140 150--12 results
-devices=10
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 20 30 50 60 70 80 90 100 120 130 140 150); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 12 , 12 24 36 48 60 72 84 96 108 120 132 144--12 results
-devices=12
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 12 24 36 48 60 72 84 96 108 120 132 144); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 14 , 14 28 42 56 70 84 98 112 126 140 154 168--12 results
-devices=14
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 14 28 42 56 70 84 98 112 126 140 154 168); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
-# device = 16 , 16 32 48 64 80 96 112 128 144 160 176 192--12 results
-devices=16
-echo "[info][$(date)] using $devices nodes"
-for iter in $(echo 16 32 48 64 80 96 112 128 144 160 176 192); do
-	echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)] iter $iter start"
-	mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
-	echo "[info][$(date)]iter ${iter} done"
-done
+	seq4_start_time=$(date +%s.%n)
+	echo $line
+	echo "Test sequence 4 start"
+	echo $line
+	# device = 2, 10 20 30 40 50 50 70 80 90 100 110 120 --12 results
+	devices=2
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 10 20 30 40 50 50 70 80 90 100 110 120); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)] iter ${iter} done"
+	done
+	# device = 4, 20 32 44 56 68 80 92 104 116 128 140 152 --12 results
+	devices=4
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 20 32 44 56 68 80 92 104 116 128 140 152); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 6 , 18 30 42 54 66 78 90 102 114 126 138 150--12 results
+	devices=6
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 18 30 42 54 66 78 90 102 114 126 138 150); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 8 , 32 40 48 56 64 72 80 96 104 112 120 144--12 results
+	devices=8
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 32 40 48 56 64 72 80 96 104 112 120 144); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 10 , 20 30 50 60 70 80 90 100 120 130 140 150--12 results
+	devices=10
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 20 30 50 60 70 80 90 100 120 130 140 150); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 12 , 12 24 36 48 60 72 84 96 108 120 132 144--12 results
+	devices=12
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 12 24 36 48 60 72 84 96 108 120 132 144); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 14 , 14 28 42 56 70 84 98 112 126 140 154 168--12 results
+	devices=14
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 14 28 42 56 70 84 98 112 126 140 154 168); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	# device = 16 , 16 32 48 64 80 96 112 128 144 160 176 192--12 results
+	devices=16
+	echo "[info][$(date)] using $devices nodes"
+	for iter in $(echo 16 32 48 64 80 96 112 128 144 160 176 192); do
+		echo "********** iter: $iter *************" >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)] iter $iter start"
+		mpiexec -np $devices  python matrix.py $iter >> ${work_dir}/result_single_fi.dat
+		echo "[info][$(date)]iter ${iter} done"
+	done
+	seq4=1
+	seq4_time=$(date +%s.%n)
 }
+
+test_start_date=$(date)
+start_time=$(date +%s.%n)
+
+echo "============ test start at ${test_start_date} ============"
+
+seq_1
+seq_2
+seq_3
 seq_4
 
+finish_time=$(date +%s.%n)
 test_finish_date=$(date)
-cp ${work_dir}/result_multi_fi.dat /root/result_multi_fi_${test_finish_date}.dat
-cp ${work_dir}/result_multi_fl.dat /root/result_multi_fl_${test_finish_date}.dat
-cp ${work_dir}/result_single_fi.dat /root/result_single_fi_${test_finish_date}.dat
-cp ${work_dir}/result_single_fl.dat /root/result_single_fl_${test_finish_date}.dat
+test_finish_string=$(date +%s)
 
-echo "=========== test finished at ${test_finish_date} ============"
+cp ${work_dir}/result_multi_fi.dat /root/result_multi_fi_${test_finish_string}.dat
+cp ${work_dir}/result_multi_fl.dat /root/result_multi_fl_${test_finish_string}.dat
+cp ${work_dir}/result_single_fi.dat /root/result_single_fi_${test_finish_string}.dat
+cp ${work_dir}/result_single_fl.dat /root/result_single_fl_${test_finish_string}.dat
+
+echo "=========== test finished! ============"
+echo "Statics:"
+echo "start at $test_start_date"
+if [ -eq $seq1 1 ]; then
+	get_timing $seq1_start_time $seq1_time
+	echo "seq1 used $time ms"
+fi
+if [ -eq $seq2 1 ]; then
+	get_timing $seq2_start_time $seq2_time
+	echo "seq2 used $time ms"
+fi
+if [ -eq $seq3 1 ]; then
+	get_timing $seq3_start_time $seq3_time
+	echo "seq3 used $time ms"
+fi
+if [ -eq $seq4 1 ]; then
+	get_timing $seq4_start_time $seq4_time
+	echo "seq4 used $time ms"
+fi
+get_timing $start_time $finish_time
+echo "totally: $time ms"
+
+echo $line
