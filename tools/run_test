@@ -269,27 +269,27 @@ finish_time=$(date +%s.%n)
 test_finish_date=$(date)
 test_finish_string=$(date +%s)
 
-cp ${work_dir}/result_multi_fi.dat /root/result_multi_fi_${test_finish_string}.dat
-cp ${work_dir}/result_multi_fl.dat /root/result_multi_fl_${test_finish_string}.dat
-cp ${work_dir}/result_single_fi.dat /root/result_single_fi_${test_finish_string}.dat
-cp ${work_dir}/result_single_fl.dat /root/result_single_fl_${test_finish_string}.dat
 
 echo "=========== test finished! ============"
 echo "Statics:"
 echo "start at $test_start_date"
-if [ -eq $seq1 1 ]; then
+if [ -eq $seq1 $(echo 1) ]; then
+	cp ${work_dir}/result_multi_fi.dat /root/result_multi_fi_${test_finish_string}.dat
 	get_timing $seq1_start_time $seq1_time
 	echo "seq1 used $time ms"
 fi
-if [ -eq $seq2 1 ]; then
+if [ -eq $seq2 $(echo 1) ]; then
+	cp ${work_dir}/result_multi_fl.dat /root/result_multi_fl_${test_finish_string}.dat
 	get_timing $seq2_start_time $seq2_time
 	echo "seq2 used $time ms"
 fi
-if [ -eq $seq3 1 ]; then
+if [ -eq $seq3 $(echo 1) ]; then
+	cp ${work_dir}/result_single_fi.dat /root/result_single_fi_${test_finish_string}.dat
 	get_timing $seq3_start_time $seq3_time
 	echo "seq3 used $time ms"
 fi
-if [ -eq $seq4 1 ]; then
+if [ -eq $seq4 $(echo 1) ]; then
+	cp ${work_dir}/result_single_fl.dat /root/result_single_fl_${test_finish_string}.dat
 	get_timing $seq4_start_time $seq4_time
 	echo "seq4 used $time ms"
 fi
