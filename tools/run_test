@@ -33,19 +33,20 @@ seq1=0
 seq2=0
 seq3=0
 seq4=0
+time=0
 
 function get_timing()
 {
-    start=$1
-    end=$2
-    start_s=$(echo $start | cut -d '.' -f 1)
-    start_ns=$(echo $start | cut -d '.' -f 2)
-    end_s=$(echo $end | cut -d '.' -f 1)
-    end_ns=$(echo $end | cut -d '.' -f 2)
-    time=$(( ( 10#$end_s - 10#$start_s ) * 1000 + ( 10#$end_ns / 1000000 - 10#$start_ns / 1000000 ) ))
+	start=$1
+	end=$2
+	start_s=$(echo $start | cut -d '.' -f 1)
+	start_ns=$(echo $start | cut -d '.' -f 2)
+	end_s=$(echo $end | cut -d '.' -f 1)
+	end_ns=$(echo $end | cut -d '.' -f 2)
+	time=$(( ( 10#$end_s - 10#$start_s ) * 1000 + ( 10#$end_ns / 1000000 - 10#$start_ns / 1000000 ) ))
 }
 
-# Test sequence 1  -- Floating Point, Calculate PI
+# Test sequence 1  -- Floating point, calculate PI
 function seq_1()
 {
 	seq1_start_time=$(date +%s.%n)
@@ -255,10 +256,13 @@ function seq_4()
 	seq4_time=$(date +%s.%n)
 }
 
+
+
 test_start_date=$(date)
 start_time=$(date +%s.%n)
 
 echo "============ test start at ${test_start_date} ============"
+
 
 seq_1
 seq_2
@@ -271,29 +275,28 @@ test_finish_string=$(date +%s)
 
 
 echo "=========== test finished! ============"
-echo "Statics:"
+echo "statics:"
 echo "start at $test_start_date"
-if [ -eq $seq1 $(echo 1) ]; then
+if [ $seq1 -eq 1 ]; then
 	cp ${work_dir}/result_multi_fi.dat /root/result_multi_fi_${test_finish_string}.dat
 	get_timing $seq1_start_time $seq1_time
 	echo "seq1 used $time ms"
 fi
-if [ -eq $seq2 $(echo 1) ]; then
+if [ $seq2 -eq 1 ]; then
 	cp ${work_dir}/result_multi_fl.dat /root/result_multi_fl_${test_finish_string}.dat
 	get_timing $seq2_start_time $seq2_time
 	echo "seq2 used $time ms"
 fi
-if [ -eq $seq3 $(echo 1) ]; then
+if [ $seq3 -eq 1 ]; then
 	cp ${work_dir}/result_single_fi.dat /root/result_single_fi_${test_finish_string}.dat
 	get_timing $seq3_start_time $seq3_time
 	echo "seq3 used $time ms"
 fi
-if [ -eq $seq4 $(echo 1) ]; then
+if [ $seq4 -eq 1 ]; then
 	cp ${work_dir}/result_single_fl.dat /root/result_single_fl_${test_finish_string}.dat
 	get_timing $seq4_start_time $seq4_time
 	echo "seq4 used $time ms"
 fi
 get_timing $start_time $finish_time
 echo "totally: $time ms"
-
 echo $line
