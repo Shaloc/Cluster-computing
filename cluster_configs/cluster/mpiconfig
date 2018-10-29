@@ -1,0 +1,28 @@
+#!/bin/sh
+
+echo "=========configuring mpi============"
+echo "It should have ethernet connection, or this will fail"
+
+cd /root
+rm hosts 
+rm resolv.conf
+wget --no-check-certificate https://112.74.194.152/cluster/hosts
+wget --no-check-certificate https://112.74.194.152/cluster/resolv.conf
+
+rm /etc/hosts
+rm /etc/resolv.conf
+ln -s /root/hosts /etc/hosts
+ln -s /root/resolv.conf /etc/resolv.conf
+
+rm mpi_config_file
+wget --no-check-certificate https://112.74.194.152/cluster/mpi_config_file
+
+cd /root/.ssh
+rm authorized_keys
+wget --no-check-certificate https://112.74.194.152/cluster/authorized_keys
+
+export MPI_CONFIG_FILE="/root/mpi_config_file"
+
+nohup /root/client.py & > /dev/null &
+
+echo "========  done ========="

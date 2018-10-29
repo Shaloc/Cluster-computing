@@ -1,0 +1,31 @@
+# when configuring
+set serverip 192.168.208.17
+set ipaddr 192.168.208.231
+set console console=ttySAC2,115200
+set ramdisk root=/dev/ram rw initrd=0x40000000,8M
+set flash root=/dev/mmcblk0p4
+tftp 0x30008000 zImage3.0
+movi write kernel 0x30008000
+set bootargs $console $ramdisk
+set bootcmd "movi read kernel 0x30008000; tftp 0x40000000 ramdisk_img_1.gz; bootm 0x30008000"
+save
+boot
+
+############################ this has been writen to /do_file_transfer.sh ########################################
+# do after first run
+# if you could not find the app:
+# /bin/mount ...
+mount /dev/mmcblk0p4 /mnt/mmc -t ext3 
+rm /mnt/mmc/* -rf
+cp -r /mnt/nfs/SuperComputer/* /mnt/mmc/
+# if you want to see the progress, use cp -vr
+# OJBK!
+cd /
+umount /dev/mmcblk0p4
+##################################################################################################################
+# after configurated
+set iptail iptail=xxx
+set ethaddr ethaddr=xx:xx:xx:xx:xx:xx
+set machine machine=xxx
+set bootargs $console $flash $iptail $ethaddr $machine
+set bootcmd "movi read kernel 0x30008000; bootm 30008000"
