@@ -1,0 +1,173 @@
+{"servers":
+	[
+		{
+			"disabled":true,
+			"username": "Shaloc0",
+			"name": "DigitalOcean",
+			"type": "VCS",
+			"host": "idea.shaloc.site",
+			"location": "America",
+			"password": "gbw909754"
+		},
+		{
+			"disabled":true,
+			"username": "Shaloc1",
+			"name": "AliYun",
+			"type": "VCS",
+			"host": "www.shaloc.site",
+			"location": "Nanjing",
+			"password": "gbw90974"
+		},
+		{
+			"disabled": true,
+			"username": "hidden",
+			"name": "Secret",
+			"type": "Nothing",
+			"host": "Noone",
+			"location": "Nowhere",
+			"password": "thanks doge"
+		},
+		{
+			"disabled":true,
+			"username": "Shaloc2",
+			"name": "MI3",
+			"type": "router",
+			"host": "dormrouter.shaloc.site",
+			"location": "Nanjing",
+			"password": "gbw909754"
+		},
+		{
+			"username":"node1",
+			"name":"node_1",
+			"type":"S5PV210",
+			"host":"NJUEE Lab",
+			"location":"C418",
+			"password":"password"
+		},
+		{
+			"username":"node2",
+            "name":"node_2",
+            "type":"S5PV210",
+            "host":"NJUEE Lab",
+            "location":"C418",
+            "password":"password"
+
+		},
+		{
+			"username":"node3",
+            "name":"node_3",
+            "type":"S5PV210",
+            "host":"NJUEE Lab",
+            "location":"C418",
+            "password":"password"
+			
+		},
+		{
+			"username":"node4",
+            "name":"node_4",
+            "type":"S5PV210",
+            "host":"NJUEE Lab",
+            "location":"C418",
+            "password":"password"
+
+		},
+		{
+			"username":"node5",
+            "name":"node_5",
+            "type":"S5PV210",
+            "host":"NJUEE Lab",
+            "location":"C418",
+            "password":"password"
+			
+			
+		},
+		{
+			"username":"node6",
+            "name":"node_6",
+            "type":"S5PV210",
+            "host":"NJUEE Lab",
+            "location":"C418",
+            "password":"password"		
+		},
+		{
+			"username":"node7",
+            "name":"node_7",
+            "type":"S5PV210",
+            "host":"NJUEE Lab",
+            "location":"C418",
+        	"password":"password"
+		},
+		{
+			"username":"node8",
+            "name":"node_8",
+            "type":"S5PV210",
+            "host":"NJUEE Lab",
+            "location":"C418",
+            "password":"password"			
+		},
+		{
+			"username":"node9",
+			"name":"node_9",
+			"type":"S5PV210",
+			"host":"NJUEE Lab",
+			"location":"C418",
+			"password":"password"
+		},
+		{
+			"username":"node10",
+			"name":"node_10",
+			"type":"S5PV210",
+			"host":"NJUEE Lab",
+			"location":"C418",
+			"password":"password"
+		},
+		{
+			"username":"node11",
+			"name":"node_11",
+			"type":"S5PV210",
+			"host":"NJUEE Lab",
+			"location":"C418",
+			"password":"password"
+		},
+		{
+			"username":"node12",
+			"name":"node_12",
+			"type":"S5PV210",
+			"host":"NJUEE Lab",
+			"location":"C418",
+			"password":"password"
+		},
+		{
+			"username":"node13",
+			"name":"node_13",
+			"type":"S5PV210",
+			"host":"NJUEE Lab",
+			"location":"C418",
+			"password":"password"
+		},
+		{
+			"username":"node14",
+			"name":"node_14",
+			"type":"S5PV210",
+			"host":"NJUEE Lab",
+			"location":"C418",
+			"password":"password"
+		},
+		{
+			"username":"node15",
+			"name":"node_15",
+			"type":"S5PV210",
+			"host":"NJUEE Lab",
+			"location":"C418",
+			"password":"password"
+		},
+		{
+			"username":"node16",
+			"name":"node_16",
+			"type":"S5PV210",
+			"host":"NJUEE Lab",
+			"location":"C418",
+			"password":"password"
+		}
+	]
+}
